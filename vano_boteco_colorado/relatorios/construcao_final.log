@@ -1,0 +1,24 @@
+INFO: Starting export...
+INFO: Successfully exported 'vano_bc_banheiro'
+INFO: Successfully exported 'vano_bc_circulacao'
+INFO: Successfully exported 'vano_bc_exterior'
+INFO: Successfully exported 'vano_bc_salao'
+INFO: Successfully exported 'vano_bc_deposito'
+INFO: Successfully exported 'vano_bc_mlo'
+INFO: Successfully exported 'vano_bc_arquetipos'
+INFO: Exported in 0.113 seconds
+Info: Starting export...
+Info: Successfully exported 'vano_bc_banheiro'
+Info: Successfully exported 'vano_bc_circulacao'
+Info: Successfully exported 'vano_bc_exterior'
+Info: Successfully exported 'vano_bc_salao'
+Info: Successfully exported 'vano_bc_deposito'
+Info: Successfully exported 'vano_bc_mlo'
+Info: Successfully exported 'vano_bc_arquetipos'
+Info: Exported in 0.113 seconds
+EXPORT_RESULT {'FINISHED'}
+Info: Saved "vano_boteco_colorado_master.blend"
+GEOMETRIA {"min": [-6.099999904632568, -0.7999738454818726, -0.18000006675720215], "max": [6.099999904632568, 9.630001068115234, 4.973132610321045], "dimensoes": [12.199999809265137, 10.429974913597107, 5.153132677078247], "area_envelope": 127.24569195652487, "pe_direito": 3.1, "triangulos_por_entidade": {"exterior": 4000, "salao": 100, "circulacao": 100, "banheiro": 144, "deposito": 138}, "triangulos_colisao": 420, "salas": [{"nome": "limbo", "min": [-6.2, -0.9, -0.3], "max": [6.2, 9.8, 5.1], "dimensoes": [12.4, 10.700000000000001, 5.3999999999999995]}, {"nome": "salao", "min": [-5.8, 2.3, 0], "max": [5.8, 6.6, 3.1], "dimensoes": [11.6, 4.3, 3.1]}, {"nome": "circulacao", "min": [-2.8, 6.6, 0], "max": [2.4, 9.3, 3.1], "dimensoes": [5.199999999999999, 2.700000000000001, 3.1]}, {"nome": "banheiro", "min": [-5.8, 6.8, 0], "max": [-3, 9.3, 3.1], "dimensoes": [2.8, 2.500000000000001, 3.1]}, {"nome": "deposito", "min": [2.6, 6.8, 0], "max": [5.8, 9.3, 3.1], "dimensoes": [3.1999999999999997, 2.500000000000001, 3.1]}], "portais": 4, "mobiliario": false, "portao": "Aberto permanentemente, sem folha no v\u00e3o de passagem", "textura_placa": "Reconstru\u00e7\u00e3o visual gerada a partir da fotografia; n\u00e3o reprodu\u00e7\u00e3o pixel a pixel."}
+Blender 4.3.2
+
+Blender quit

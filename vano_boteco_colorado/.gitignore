@@ -1,0 +1,6 @@
+blender/*.blend1
+scripts/compilador/bin/
+scripts/compilador/obj/
+**/__pycache__/
+relatorios/blender.log
+relatorios/previews_finais.log

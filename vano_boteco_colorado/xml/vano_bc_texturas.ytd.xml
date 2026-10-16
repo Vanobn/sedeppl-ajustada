@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureDictionary>
+  <Item>
+    <Name>vano_bc_reboco_vermelho</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="512" />
+    <Height value="512" />
+    <MipLevels value="10" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>vano_bc_reboco_vermelho.dds</FileName>
+  </Item>
+  <Item>
+    <Name>vano_bc_pintura_branca</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="512" />
+    <Height value="512" />
+    <MipLevels value="10" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>vano_bc_pintura_branca.dds</FileName>
+  </Item>
+  <Item>
+    <Name>vano_bc_chapa_vermelha</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="512" />
+    <Height value="512" />
+    <MipLevels value="10" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>vano_bc_chapa_vermelha.dds</FileName>
+  </Item>
+  <Item>
+    <Name>vano_bc_metal_oxidado</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="256" />
+    <Height value="256" />
+    <MipLevels value="9" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>vano_bc_metal_oxidado.dds</FileName>
+  </Item>
+  <Item>
+    <Name>vano_bc_metal_grafite</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="256" />
+    <Height value="256" />
+    <MipLevels value="9" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>vano_bc_metal_grafite.dds</FileName>
+  </Item>
+  <Item>
+    <Name>vano_bc_telhas</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="512" />
+    <Height value="512" />
+    <MipLevels value="10" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>vano_bc_telhas.dds</FileName>
+  </Item>
+  <Item>
+    <Name>vano_bc_concreto</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="512" />
+    <Height value="512" />
+    <MipLevels value="10" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>vano_bc_concreto.dds</FileName>
+  </Item>
+  <Item>
+    <Name>vano_bc_piso_ceramico</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="512" />
+    <Height value="512" />
+    <MipLevels value="10" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>vano_bc_piso_ceramico.dds</FileName>
+  </Item>
+  <Item>
+    <Name>vano_bc_azulejo_creme</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="512" />
+    <Height value="512" />
+    <MipLevels value="10" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>vano_bc_azulejo_creme.dds</FileName>
+  </Item>
+  <Item>
+    <Name>vano_bc_azulejo_wc</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="512" />
+    <Height value="512" />
+    <MipLevels value="10" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>vano_bc_azulejo_wc.dds</FileName>
+  </Item>
+  <Item>
+    <Name>vano_bc_placa</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="2048" />
+    <Height value="512" />
+    <MipLevels value="12" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>vano_bc_placa.dds</FileName>
+  </Item>
+</TextureDictionary>

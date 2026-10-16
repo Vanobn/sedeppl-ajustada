@@ -1,0 +1,374 @@
+{
+  ".gitignore": {
+    "bytes": 135,
+    "sha256": "af48b026e8e97abc8aab37c6ac134cd432f05622af5ecb79f32ccde6d97a2cbf"
+  },
+  "INSTALACAO.md": {
+    "bytes": 1542,
+    "sha256": "8e9e07e562b11d1c4efde01e3cf3b5f5a4107a5a6e291c0fda22ae389119e3b3"
+  },
+  "README.md": {
+    "bytes": 9181,
+    "sha256": "47aed855df1c47d1b08abad589e272eabdfb7247692c23ec5a8b09e73bf8c8a2"
+  },
+  "blender/vano_boteco_colorado_master.blend": {
+    "bytes": 1717607,
+    "sha256": "d220b54a7a4c3a0451e3257b856b9dd766abd305c20f3739ad0c3e62d5c5dff3"
+  },
+  "exemplos/vano_bc_implantacao_origem.ymap": {
+    "bytes": 1101,
+    "sha256": "76ffe8fa3b01bcb6c1d235e01a7d174d23c87ba16515462fbbbe1203c515a7c6"
+  },
+  "fxmanifest.lua": {
+    "bytes": 451,
+    "sha256": "b0484fc6fd565944a1398268c255a92b24054250b0de53f80eb3f6a02ed35399"
+  },
+  "previews/vano_bc_frente.png": {
+    "bytes": 2084991,
+    "sha256": "da2dd16118d5a9c5cf48a90a495024672ad14771d62bffc2008f445e68953ddc"
+  },
+  "previews/vano_bc_interior.png": {
+    "bytes": 2796243,
+    "sha256": "1611941c1ddacbd5dc4face6b72ab42f592754200d253dc47fd855665b433dc1"
+  },
+  "previews/vano_bc_perspectiva.png": {
+    "bytes": 1928681,
+    "sha256": "8bceac57bb3b86306d858c90b0acbfab2b8c2682a101c368ddc721875856d053"
+  },
+  "previews/vano_bc_planta_corte.png": {
+    "bytes": 2163848,
+    "sha256": "17d653d1f3cda6aba90911c2f052e6293e2fba1097b708fb18efe530f26a6e25"
+  },
+  "previews/vano_bc_planta_cotada.svg": {
+    "bytes": 2572,
+    "sha256": "56eef51602bbdfd9838ea8b65040c722ec44b85132d29a1245c6518741659ba1"
+  },
+  "relatorios/compilacao.log": {
+    "bytes": 582,
+    "sha256": "5529dc7d413cf11206913202ffe3d92faa79ac467fa1b847ac40704126b08ceb"
+  },
+  "relatorios/compilador_build.log": {
+    "bytes": 811,
+    "sha256": "8a8ff331f1bbb46ab84c198e11cfc60e377e16f55a34176e519b2cdbd81d22a2"
+  },
+  "relatorios/construcao_final.log": {
+    "bytes": 2126,
+    "sha256": "e8c07874c859f575f8781417b0602eb441e98af23968e0217f7e4abee1a3b4e7"
+  },
+  "relatorios/geometria.json": {
+    "bytes": 2075,
+    "sha256": "11af8b5f293ed00bc65690e872acc93522a8374f228dfeace4c923599464617a"
+  },
+  "relatorios/roundtrip/vano_bc_arquetipos.ytyp.xml": {
+    "bytes": 10743,
+    "sha256": "7bb1d14de3c601a90399b3328da4420f043e5faaad6bbb285cc5865ac1c6467f"
+  },
+  "relatorios/roundtrip/vano_bc_banheiro.ydr.xml": {
+    "bytes": 23389,
+    "sha256": "8d6380a6b2fb8a38716ca1b13480d5ee7d351d91971d1e5bc9ac0ba8e94b0b29"
+  },
+  "relatorios/roundtrip/vano_bc_circulacao.ydr.xml": {
+    "bytes": 23055,
+    "sha256": "0a9c18262a99ce0ec2cded270fed3c197051d5a579f622122820522dc7ea3d73"
+  },
+  "relatorios/roundtrip/vano_bc_deposito.ydr.xml": {
+    "bytes": 22481,
+    "sha256": "5d4c4836383cc556e23523b80611c20dad8180c674a99535c3f3576a237c6506"
+  },
+  "relatorios/roundtrip/vano_bc_exterior.ydr.xml": {
+    "bytes": 831837,
+    "sha256": "31bed5d5d3e7912de5d4afe04191c86f8009c6c37600a7ec2352eb6b00602399"
+  },
+  "relatorios/roundtrip/vano_bc_implantacao_origem.ymap.xml": {
+    "bytes": 2160,
+    "sha256": "229561cc2fb64c1322908ad5c35f42327e2b4e113b11831ab11390b836df30df"
+  },
+  "relatorios/roundtrip/vano_bc_mlo.ybn.xml": {
+    "bytes": 42037,
+    "sha256": "a7d6bb84f7d5af7fd4874f038dbf20bda43575fe4a78c0c00b46b24adb89082a"
+  },
+  "relatorios/roundtrip/vano_bc_salao.ydr.xml": {
+    "bytes": 21508,
+    "sha256": "ca4e18d60635dd927db21081a7dec2acda682a108ecb52bc54f67db3a80ac42f"
+  },
+  "relatorios/roundtrip/vano_bc_texturas.ytd.xml": {
+    "bytes": 3484,
+    "sha256": "5faef4dfefbf1ed4de01b0f7c0363544d1c6fa335429a3e8a816b0c662263c53"
+  },
+  "relatorios/texturas.json": {
+    "bytes": 1477,
+    "sha256": "0e9d159ea0ab621fc81299274697d8171dd949323d675c5240fa58c26ac1e8ba"
+  },
+  "relatorios/validacao_blender.json": {
+    "bytes": 5004,
+    "sha256": "5474a218f693d8665a28c75516e04f3e139122b5c31ea2fc365ad6491f330ccf"
+  },
+  "relatorios/validacao_blender.log": {
+    "bytes": 216,
+    "sha256": "3729596470a4f22327cec78753e9de2d758a9abccb9f06f08d90a6aa650b6ff1"
+  },
+  "relatorios/validacao_colisao_compilada.json": {
+    "bytes": 5224,
+    "sha256": "2c82b13303737d4b81cbf2b96a6d289b9d9e2a30201fbdd520519088999afda0"
+  },
+  "relatorios/validacao_colisao_compilada.log": {
+    "bytes": 520,
+    "sha256": "51d6892ab0cf70b9045c0da9a4a1ce38e70c23361e0c4dab9df229ff032be056"
+  },
+  "relatorios/validacao_gta.json": {
+    "bytes": 2420,
+    "sha256": "70c6f9b329978a4992435eebb3902fe6c7773fe5b499fe17ee86deba20a0c705"
+  },
+  "scripts/compilador/Program.cs": {
+    "bytes": 2778,
+    "sha256": "21a1cf276becd5768e4867989c94df62631b5fd25dd42b995e93190103d14d00"
+  },
+  "scripts/compilador/vano_compilador.csproj": {
+    "bytes": 352,
+    "sha256": "369c2880a2e58063da195892014402bf3aa7a609e37e582664f1110cc289c2b8"
+  },
+  "scripts/construir_boteco.py": {
+    "bytes": 20336,
+    "sha256": "6f5c9a12d4fbb3a8709b0e23fce38bffa50cbb9272d74dfe6538389b72c10f68"
+  },
+  "scripts/documentar.py": {
+    "bytes": 12365,
+    "sha256": "641926c01b78857a6b7f884838a4d8891455c16941a3dc5327831c909fa35806"
+  },
+  "scripts/empacotar.py": {
+    "bytes": 1323,
+    "sha256": "25ecf6d25147153c5b69f1df6dc56e51fc741865008a0e3a8661b4d231470c99"
+  },
+  "scripts/finalizar_master.py": {
+    "bytes": 2098,
+    "sha256": "04f373482fd83d5cc28395ebdaa8afd80ab7f67086d422508753ba04024ea01b"
+  },
+  "scripts/posicionar.py": {
+    "bytes": 1742,
+    "sha256": "c45554e6a16f154ab0e2347a9a25632b82b9b9b42dd4cea466bc8b2dfdc0015c"
+  },
+  "scripts/preparar_meta.py": {
+    "bytes": 3055,
+    "sha256": "27e4d10730807a12c61092b50414befe64682ab0460a976e8a8b132ec5bc2b82"
+  },
+  "scripts/requirements-texturas.txt": {
+    "bytes": 28,
+    "sha256": "e32056a5263b5972e789540468f3d3e1e8e2d1649d21ef65e814317727be4897"
+  },
+  "scripts/texturas.py": {
+    "bytes": 3356,
+    "sha256": "a6a6f7c7459163a3488cf483ddee90661195b314859ad2f4b101a0a76c57d642"
+  },
+  "scripts/validar_blender.py": {
+    "bytes": 3591,
+    "sha256": "cb91c786204bebb5bbe7eb1a13912c3b1bb2eeefb3c3771f981bea78d126cae4"
+  },
+  "scripts/validar_gta.py": {
+    "bytes": 4531,
+    "sha256": "7246bbc38c03eaca9923b0fc217ec55753158e58331f55693f6314cb397d0879"
+  },
+  "stream/vano_bc_arquetipos.ytyp": {
+    "bytes": 1605,
+    "sha256": "4f3b4bac35303ea7f27b910f0d717a8c8f2518e040d005a06a6f0216e66a0d01"
+  },
+  "stream/vano_bc_banheiro.ydr": {
+    "bytes": 2621,
+    "sha256": "07c4dd12b1ac6223659529b94705d41f3aad49c8f953170445830369a5815310"
+  },
+  "stream/vano_bc_circulacao.ydr": {
+    "bytes": 2336,
+    "sha256": "ade02c911d25399bdc9d05999202535c4772323f6401cf7e308194460b8ddf47"
+  },
+  "stream/vano_bc_deposito.ydr": {
+    "bytes": 2545,
+    "sha256": "2e86dff5df63906d48a1ddf10aba9a779ec83957f6907efc4f634456a6b1015d"
+  },
+  "stream/vano_bc_exterior.ydr": {
+    "bytes": 68728,
+    "sha256": "13c6a8c103e722af94cfcaa24f2d049054d04832baff89d236467dbdc1a62671"
+  },
+  "stream/vano_bc_mlo.ybn": {
+    "bytes": 6717,
+    "sha256": "e3e34d93fe422e48d0e7d0b7c23b7596786eb38fddbc0a0f4a205f6c774cf141"
+  },
+  "stream/vano_bc_salao.ydr": {
+    "bytes": 2166,
+    "sha256": "15e7fb68f6f860cdcc4c7cd1a353172351df55c9c3f7a26e034be1038aef54e0"
+  },
+  "stream/vano_bc_texturas.ytd": {
+    "bytes": 1363774,
+    "sha256": "851ea79da9e31ff7b4688142b94415d7721f587f73bd615a761e417914d76dea"
+  },
+  "texturas/vano_bc_azulejo_creme.dds": {
+    "bytes": 349680,
+    "sha256": "46b14079d40dbbea39082b73629c53b653042fb8d293b8b909ca631d01c0d0b1"
+  },
+  "texturas/vano_bc_azulejo_creme.png": {
+    "bytes": 187579,
+    "sha256": "8c983d3fae77272a365885ff1f35c26cbe8bad3b1d07648749e4135226cb2a80"
+  },
+  "texturas/vano_bc_azulejo_wc.dds": {
+    "bytes": 349680,
+    "sha256": "1fad0419665e2857ddf7c09d8bec21aad8bc78b40381e76b260f6219eb43ec7d"
+  },
+  "texturas/vano_bc_azulejo_wc.png": {
+    "bytes": 187046,
+    "sha256": "1b7274088d008da4dfada965318ee48274f56a3c1a9f0c5ec23d35121a5f8823"
+  },
+  "texturas/vano_bc_chapa_vermelha.dds": {
+    "bytes": 349680,
+    "sha256": "bc031535c34efc8a70d6bfc5d5aa945a0237cad658ccab309f5ea0dcd1bbf5c1"
+  },
+  "texturas/vano_bc_chapa_vermelha.png": {
+    "bytes": 216011,
+    "sha256": "1f1d97752d9a9ae0c177ee756f298d073df62502551da38d6edbfd8b7dffc4e9"
+  },
+  "texturas/vano_bc_concreto.dds": {
+    "bytes": 349680,
+    "sha256": "ca00a3bca185e326c9524333201c87ad10c4c156a4a33c86b026baee3ead882c"
+  },
+  "texturas/vano_bc_concreto.png": {
+    "bytes": 237027,
+    "sha256": "fbb84271a905798b9a94853fd0764f42975e8c0e41720f311c6297c668319d5d"
+  },
+  "texturas/vano_bc_metal_grafite.dds": {
+    "bytes": 87536,
+    "sha256": "983c6ecb87319be61775579df13ade1e43b26d9ebbcc2ea8634533a91ea43a95"
+  },
+  "texturas/vano_bc_metal_grafite.png": {
+    "bytes": 55123,
+    "sha256": "dc773bcc010f0e88918de2c6ba8448c79b34fb8f0f8ae1a527b2b5f6ead1abd9"
+  },
+  "texturas/vano_bc_metal_oxidado.dds": {
+    "bytes": 87536,
+    "sha256": "979224762bf6338cd919e873b70f357249cba8375dae7a2834252ece44183e74"
+  },
+  "texturas/vano_bc_metal_oxidado.png": {
+    "bytes": 77576,
+    "sha256": "ba0001a90f3ed9e1ac8764cae7dbccee6c08ab5bd87841000144b6614611f5d9"
+  },
+  "texturas/vano_bc_pintura_branca.dds": {
+    "bytes": 349680,
+    "sha256": "697107ba5aae6c2442b6f3259813c3f23b0026c9ff97714b03a79ebae96845ea"
+  },
+  "texturas/vano_bc_pintura_branca.png": {
+    "bytes": 189942,
+    "sha256": "f7a6de97f6173ce834b8f86bd3d0e42f88f1363c4836edb756df914547915953"
+  },
+  "texturas/vano_bc_piso_ceramico.dds": {
+    "bytes": 349680,
+    "sha256": "08183df10943da1299e5d31c9e66d6f95789f3f6c5b97b9e2010a80e79a2d7ef"
+  },
+  "texturas/vano_bc_piso_ceramico.png": {
+    "bytes": 211649,
+    "sha256": "8141712cf91ab83fbc0891bbdeedc5983288283afb3114407775f860658bfc7e"
+  },
+  "texturas/vano_bc_placa.dds": {
+    "bytes": 1398288,
+    "sha256": "d40c2a6964edbc207277d92684cb11c431bfeb50066c132d37b7d22f65136691"
+  },
+  "texturas/vano_bc_placa.png": {
+    "bytes": 1351829,
+    "sha256": "8e2aca19e34b7ffb1f5deef1468884acebe3b246218fb65bb810b10e9462ee92"
+  },
+  "texturas/vano_bc_placa_reconstrucao_original.png": {
+    "bytes": 1836317,
+    "sha256": "7f6077de6d16df346d3b0bad8f97afce46706be82a49a65e24717d42ca3c46fc"
+  },
+  "texturas/vano_bc_reboco_vermelho.dds": {
+    "bytes": 349680,
+    "sha256": "b4c272c06d42cc2acaa0ff913fb10f94dcad845c7a0fa334c84cdd443a45ef77"
+  },
+  "texturas/vano_bc_reboco_vermelho.png": {
+    "bytes": 254614,
+    "sha256": "67eed3e0bab6cd0ae2e3b306f7fb3aa00a8f3448dc03d978337ef4675340be6b"
+  },
+  "texturas/vano_bc_telhas.dds": {
+    "bytes": 349680,
+    "sha256": "f412818fbeae19169a848f981b081808a2bdb3d5932ba5a5ba498b0be1329ef9"
+  },
+  "texturas/vano_bc_telhas.png": {
+    "bytes": 237272,
+    "sha256": "ca6f46445cd702a9a09ce90e909cd56effca9d08d5c8b91973bd59580daf0ad1"
+  },
+  "xml/vano_bc_arquetipos.ytyp.xml": {
+    "bytes": 11054,
+    "sha256": "2494e573820b9145f3b062d6273aa61b806246ad2aee602eda935271e79c082d"
+  },
+  "xml/vano_bc_banheiro.ydr.xml": {
+    "bytes": 40494,
+    "sha256": "b142589cedfdb2ec1dea6081b2741a72c5537abaf80cef5b11c3b12d7c5f0044"
+  },
+  "xml/vano_bc_circulacao.ydr.xml": {
+    "bytes": 36249,
+    "sha256": "861691ae3b7a2f6e6cb763094aa272cba0eacbd0feef175952c99eb945f90d45"
+  },
+  "xml/vano_bc_deposito.ydr.xml": {
+    "bytes": 39428,
+    "sha256": "2d62ae45bcd543b92f325b2a26cd5ae9245b9bc948db76a04c6df0953d6dc21c"
+  },
+  "xml/vano_bc_exterior.ydr.xml": {
+    "bytes": 1175108,
+    "sha256": "f12ad9a79cd1d660233f9bf2cd2d4e73e1e610646c96bd2a1181715a7f42e629"
+  },
+  "xml/vano_bc_implantacao_origem.ymap.xml": {
+    "bytes": 1773,
+    "sha256": "cfffc7d8c2b954268ee4f573839c70a6e67d5538c36ec4283537e4b8adbf79d0"
+  },
+  "xml/vano_bc_mlo.ybn.xml": {
+    "bytes": 51492,
+    "sha256": "ed648d92787aa4fdbcf13bdc9e08e42519116436581102d942595086ec36050a"
+  },
+  "xml/vano_bc_salao.ydr.xml": {
+    "bytes": 34248,
+    "sha256": "c02b743dbbc4363bed2d4b5a9eb75a47d13534e63610ad0ea1cbb03531733274"
+  },
+  "xml/vano_bc_texturas/vano_bc_azulejo_creme.dds": {
+    "bytes": 349680,
+    "sha256": "46b14079d40dbbea39082b73629c53b653042fb8d293b8b909ca631d01c0d0b1"
+  },
+  "xml/vano_bc_texturas/vano_bc_azulejo_wc.dds": {
+    "bytes": 349680,
+    "sha256": "1fad0419665e2857ddf7c09d8bec21aad8bc78b40381e76b260f6219eb43ec7d"
+  },
+  "xml/vano_bc_texturas/vano_bc_chapa_vermelha.dds": {
+    "bytes": 349680,
+    "sha256": "bc031535c34efc8a70d6bfc5d5aa945a0237cad658ccab309f5ea0dcd1bbf5c1"
+  },
+  "xml/vano_bc_texturas/vano_bc_concreto.dds": {
+    "bytes": 349680,
+    "sha256": "ca00a3bca185e326c9524333201c87ad10c4c156a4a33c86b026baee3ead882c"
+  },
+  "xml/vano_bc_texturas/vano_bc_metal_grafite.dds": {
+    "bytes": 87536,
+    "sha256": "983c6ecb87319be61775579df13ade1e43b26d9ebbcc2ea8634533a91ea43a95"
+  },
+  "xml/vano_bc_texturas/vano_bc_metal_oxidado.dds": {
+    "bytes": 87536,
+    "sha256": "979224762bf6338cd919e873b70f357249cba8375dae7a2834252ece44183e74"
+  },
+  "xml/vano_bc_texturas/vano_bc_pintura_branca.dds": {
+    "bytes": 349680,
+    "sha256": "697107ba5aae6c2442b6f3259813c3f23b0026c9ff97714b03a79ebae96845ea"
+  },
+  "xml/vano_bc_texturas/vano_bc_piso_ceramico.dds": {
+    "bytes": 349680,
+    "sha256": "08183df10943da1299e5d31c9e66d6f95789f3f6c5b97b9e2010a80e79a2d7ef"
+  },
+  "xml/vano_bc_texturas/vano_bc_placa.dds": {
+    "bytes": 1398288,
+    "sha256": "d40c2a6964edbc207277d92684cb11c431bfeb50066c132d37b7d22f65136691"
+  },
+  "xml/vano_bc_texturas/vano_bc_reboco_vermelho.dds": {
+    "bytes": 349680,
+    "sha256": "b4c272c06d42cc2acaa0ff913fb10f94dcad845c7a0fa334c84cdd443a45ef77"
+  },
+  "xml/vano_bc_texturas/vano_bc_telhas.dds": {
+    "bytes": 349680,
+    "sha256": "f412818fbeae19169a848f981b081808a2bdb3d5932ba5a5ba498b0be1329ef9"
+  },
+  "xml/vano_bc_texturas.ytd.xml": {
+    "bytes": 3593,
+    "sha256": "b4d918c10c063d217610b4ae94b203b5f664effa3f2dbc3814204b897b3741dd"
+  }
+}
