@@ -1,0 +1,268 @@
+{
+  "cheques_de_colisao": [
+    {
+      "nome": "acesso_grade_aberto_-0.4",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "acesso_grade_aberto_0",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "acesso_grade_aberto_0.4",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "entrada_salao_livre_-3",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "entrada_salao_livre_0",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "entrada_salao_livre_3",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "porta_wc_livre_7.45",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "porta_wc_livre_7.65",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "porta_wc_livre_7.9",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "porta_deposito_livre_7.45",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "porta_deposito_livre_7.8",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "porta_deposito_livre_8.15",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "grade_esquerda_bloqueia",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -3.0,
+        0.09000003337860107,
+        1.0
+      ]
+    },
+    {
+      "nome": "grade_direita_bloqueia",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        3.0,
+        0.09000003337860107,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_lateral_bloqueia",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        5.800000190734863,
+        4.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_fundos_bloqueia",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        0.0,
+        9.299999237060547,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_frontal_wc_bloqueia",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -4.400000095367432,
+        6.599999904632568,
+        1.0
+      ]
+    },
+    {
+      "nome": "piso_continuo_varanda",
+      "passou": true,
+      "altura": 0.0
+    },
+    {
+      "nome": "piso_continuo_entrada_soleira",
+      "passou": true,
+      "altura": 0.0
+    },
+    {
+      "nome": "piso_continuo_salao",
+      "passou": true,
+      "altura": 0.0
+    },
+    {
+      "nome": "piso_continuo_circulacao",
+      "passou": true,
+      "altura": 0.0
+    },
+    {
+      "nome": "piso_continuo_wc_soleira",
+      "passou": true,
+      "altura": 0.0
+    },
+    {
+      "nome": "piso_continuo_deposito_soleira",
+      "passou": true,
+      "altura": 5.960464477539063e-08
+    },
+    {
+      "nome": "piso_continuo_wc",
+      "passou": true,
+      "altura": 0.0
+    },
+    {
+      "nome": "piso_continuo_deposito",
+      "passou": true,
+      "altura": 0.0
+    }
+  ],
+  "passaram": 25,
+  "salas": 5,
+  "portais": 4,
+  "entidades": 5,
+  "ids_de_sala_colisao": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "texturas": [
+    {
+      "nome": "vano_bc_azulejo_creme.dds",
+      "empacotada": true,
+      "dimensoes": [
+        512,
+        512
+      ]
+    },
+    {
+      "nome": "vano_bc_azulejo_wc.dds",
+      "empacotada": true,
+      "dimensoes": [
+        512,
+        512
+      ]
+    },
+    {
+      "nome": "vano_bc_chapa_vermelha.dds",
+      "empacotada": true,
+      "dimensoes": [
+        512,
+        512
+      ]
+    },
+    {
+      "nome": "vano_bc_concreto.dds",
+      "empacotada": true,
+      "dimensoes": [
+        512,
+        512
+      ]
+    },
+    {
+      "nome": "vano_bc_metal_grafite.dds",
+      "empacotada": true,
+      "dimensoes": [
+        256,
+        256
+      ]
+    },
+    {
+      "nome": "vano_bc_metal_oxidado.dds",
+      "empacotada": true,
+      "dimensoes": [
+        256,
+        256
+      ]
+    },
+    {
+      "nome": "vano_bc_pintura_branca.dds",
+      "empacotada": true,
+      "dimensoes": [
+        512,
+        512
+      ]
+    },
+    {
+      "nome": "vano_bc_piso_ceramico.dds",
+      "empacotada": true,
+      "dimensoes": [
+        512,
+        512
+      ]
+    },
+    {
+      "nome": "vano_bc_placa.dds",
+      "empacotada": true,
+      "dimensoes": [
+        2048,
+        512
+      ]
+    },
+    {
+      "nome": "vano_bc_reboco_vermelho.dds",
+      "empacotada": true,
+      "dimensoes": [
+        512,
+        512
+      ]
+    },
+    {
+      "nome": "vano_bc_telhas.dds",
+      "empacotada": true,
+      "dimensoes": [
+        512,
+        512
+      ]
+    }
+  ],
+  "limite_validacao": "Raios em BVH e dados de arquivo; não é teste do motor GTA/FiveM."
+}

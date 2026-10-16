@@ -2,6 +2,10 @@
 
 Versão arquitetônica editável para avaliação, desenvolvida a partir dos assets deste repositório e da referência visual fornecida pelo solicitante. **Ainda não é um recurso FiveM jogável concluído.**
 
+## Boteco Colorado independente
+
+A versão separada do boteco, baseada na nova referência, está em [vano_boteco_colorado](../vano_boteco_colorado/README.md), com master Blender, MLO de salão/banheiro/depósito, colisão BVH, texturas e arquivos GTA compilados. Essa pasta não substitui o estudo da sede abaixo.
+
 ## Abrir o projeto
 
 O master ultrapassa o limite de 100 MiB por arquivo do GitHub; por isso está versionado com compressão sem perdas. Não é necessário Git LFS.

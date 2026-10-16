@@ -1,0 +1,11 @@
+/workspace/sedeppl-ajustada/vano_boteco_colorado/scripts/compilador/vano_compilador.csproj : warning NU1900: Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.
+  CodeWalker.Core -> /workspace/tools/CodeWalker/CodeWalker.Core/bin/Release/netstandard2.0/CodeWalker.Core.dll
+  vano_compilador -> /workspace/sedeppl-ajustada/vano_boteco_colorado/scripts/compilador/bin/Release/net8.0/vano_compilador.dll
+
+Build succeeded.
+
+/workspace/sedeppl-ajustada/vano_boteco_colorado/scripts/compilador/vano_compilador.csproj : warning NU1900: Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.
+    1 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.36

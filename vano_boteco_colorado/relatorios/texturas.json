@@ -1,0 +1,101 @@
+[
+  {
+    "nome": "vano_bc_reboco_vermelho",
+    "dimensoes": [
+      512,
+      512
+    ],
+    "mipmaps": 10,
+    "dds_bytes": 349680
+  },
+  {
+    "nome": "vano_bc_pintura_branca",
+    "dimensoes": [
+      512,
+      512
+    ],
+    "mipmaps": 10,
+    "dds_bytes": 349680
+  },
+  {
+    "nome": "vano_bc_chapa_vermelha",
+    "dimensoes": [
+      512,
+      512
+    ],
+    "mipmaps": 10,
+    "dds_bytes": 349680
+  },
+  {
+    "nome": "vano_bc_metal_oxidado",
+    "dimensoes": [
+      256,
+      256
+    ],
+    "mipmaps": 9,
+    "dds_bytes": 87536
+  },
+  {
+    "nome": "vano_bc_metal_grafite",
+    "dimensoes": [
+      256,
+      256
+    ],
+    "mipmaps": 9,
+    "dds_bytes": 87536
+  },
+  {
+    "nome": "vano_bc_telhas",
+    "dimensoes": [
+      512,
+      512
+    ],
+    "mipmaps": 10,
+    "dds_bytes": 349680
+  },
+  {
+    "nome": "vano_bc_concreto",
+    "dimensoes": [
+      512,
+      512
+    ],
+    "mipmaps": 10,
+    "dds_bytes": 349680
+  },
+  {
+    "nome": "vano_bc_piso_ceramico",
+    "dimensoes": [
+      512,
+      512
+    ],
+    "mipmaps": 10,
+    "dds_bytes": 349680
+  },
+  {
+    "nome": "vano_bc_azulejo_creme",
+    "dimensoes": [
+      512,
+      512
+    ],
+    "mipmaps": 10,
+    "dds_bytes": 349680
+  },
+  {
+    "nome": "vano_bc_azulejo_wc",
+    "dimensoes": [
+      512,
+      512
+    ],
+    "mipmaps": 10,
+    "dds_bytes": 349680
+  },
+  {
+    "nome": "vano_bc_placa",
+    "dimensoes": [
+      2048,
+      512
+    ],
+    "mipmaps": 12,
+    "dds_bytes": 1398288
+  }
+]

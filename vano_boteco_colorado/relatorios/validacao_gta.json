@@ -1,0 +1,98 @@
+{
+  "vano_bc_arquetipos.ytyp": {
+    "bytes": 1605,
+    "sha256": "4f3b4bac35303ea7f27b910f0d717a8c8f2518e040d005a06a6f0216e66a0d01",
+    "descomprimido": 8192,
+    "versao": 2
+  },
+  "vano_bc_banheiro.ydr": {
+    "bytes": 2621,
+    "sha256": "07c4dd12b1ac6223659529b94705d41f3aad49c8f953170445830369a5815310",
+    "descomprimido": 24576,
+    "versao": 165
+  },
+  "vano_bc_circulacao.ydr": {
+    "bytes": 2336,
+    "sha256": "ade02c911d25399bdc9d05999202535c4772323f6401cf7e308194460b8ddf47",
+    "descomprimido": 24576,
+    "versao": 165
+  },
+  "vano_bc_deposito.ydr": {
+    "bytes": 2545,
+    "sha256": "2e86dff5df63906d48a1ddf10aba9a779ec83957f6907efc4f634456a6b1015d",
+    "descomprimido": 24576,
+    "versao": 165
+  },
+  "vano_bc_exterior.ydr": {
+    "bytes": 68728,
+    "sha256": "13c6a8c103e722af94cfcaa24f2d049054d04832baff89d236467dbdc1a62671",
+    "descomprimido": 524288,
+    "versao": 165
+  },
+  "vano_bc_mlo.ybn": {
+    "bytes": 6717,
+    "sha256": "e3e34d93fe422e48d0e7d0b7c23b7596786eb38fddbc0a0f4a205f6c774cf141",
+    "descomprimido": 16384,
+    "versao": 43
+  },
+  "vano_bc_salao.ydr": {
+    "bytes": 2166,
+    "sha256": "15e7fb68f6f860cdcc4c7cd1a353172351df55c9c3f7a26e034be1038aef54e0",
+    "descomprimido": 24576,
+    "versao": 165
+  },
+  "vano_bc_texturas.ytd": {
+    "bytes": 1363774,
+    "sha256": "851ea79da9e31ff7b4688142b94415d7721f587f73bd615a761e417914d76dea",
+    "descomprimido": 5775360,
+    "versao": 13
+  },
+  "vano_bc_implantacao_origem.ymap": {
+    "bytes": 1101,
+    "sha256": "76ffe8fa3b01bcb6c1d235e01a7d174d23c87ba16515462fbbbe1203c515a7c6",
+    "descomprimido": 8192,
+    "versao": 2
+  },
+  "MLO": {
+    "salas": [
+      "limbo",
+      "salao",
+      "circulacao",
+      "banheiro",
+      "deposito"
+    ],
+    "portais": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "entidades": 5,
+    "conectividade": "todas as salas acessíveis a partir do exterior",
+    "texturas": 11,
+    "luzes_com_horario_e_sombra": 8,
+    "triangulos": {
+      "vano_bc_banheiro.ydr.xml": 144,
+      "vano_bc_circulacao.ydr.xml": 100,
+      "vano_bc_deposito.ydr.xml": 138,
+      "vano_bc_exterior.ydr.xml": 4000,
+      "vano_bc_salao.ydr.xml": 100
+    },
+    "triangulos_colisao": 420,
+    "compilados": 9,
+    "instancia_exemplo": "CMloInstanceDef",
+    "teste_no_jogo": false
+  }
+}
