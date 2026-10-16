@@ -1,0 +1,110 @@
+[
+  {
+    "nome": "ga_tijolo_branco",
+    "resolucao": [
+      512,
+      512
+    ],
+    "mips": 10,
+    "bytes_dds": 349680
+  },
+  {
+    "nome": "ga_tijolo_vermelho",
+    "resolucao": [
+      512,
+      512
+    ],
+    "mips": 10,
+    "bytes_dds": 349680
+  },
+  {
+    "nome": "ga_concreto",
+    "resolucao": [
+      512,
+      512
+    ],
+    "mips": 10,
+    "bytes_dds": 349680
+  },
+  {
+    "nome": "ga_metal_vermelho",
+    "resolucao": [
+      256,
+      256
+    ],
+    "mips": 9,
+    "bytes_dds": 87536
+  },
+  {
+    "nome": "ga_metal_preto",
+    "resolucao": [
+      128,
+      128
+    ],
+    "mips": 8,
+    "bytes_dds": 22000
+  },
+  {
+    "nome": "ga_telha",
+    "resolucao": [
+      256,
+      256
+    ],
+    "mips": 9,
+    "bytes_dds": 87536
+  },
+  {
+    "nome": "ga_piso_vermelho",
+    "resolucao": [
+      256,
+      256
+    ],
+    "mips": 9,
+    "bytes_dds": 87536
+  },
+  {
+    "nome": "ga_porta",
+    "resolucao": [
+      256,
+      256
+    ],
+    "mips": 9,
+    "bytes_dds": 87536
+  },
+  {
+    "nome": "ga_claraboia",
+    "resolucao": [
+      128,
+      128
+    ],
+    "mips": 8,
+    "bytes_dds": 22000
+  },
+  {
+    "nome": "ga_luminaria",
+    "resolucao": [
+      64,
+      64
+    ],
+    "mips": 7,
+    "bytes_dds": 5616
+  },
+  {
+    "nome": "ga_faixa_guarda_popular",
+    "resolucao": [
+      1024,
+      256
+    ],
+    "mips": 11,
+    "bytes_dds": 349712
+  },
+  {
+    "nome": "ga_murais",
+    "resolucao": [
+      1024,
+      512
+    ],
+    "mips": 11,
+    "bytes_dds": 699216
+  }
+]

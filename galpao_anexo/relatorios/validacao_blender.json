@@ -1,0 +1,930 @@
+{
+  "cheques_de_colisao": [
+    {
+      "nome": "entrada_livre_-2",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "entrada_livre_0",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "entrada_livre_2",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "circulacao_salao_-6",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "circulacao_salao_0",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "circulacao_salao_6",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "parede_esquerda_4",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -11.880000114440918,
+        4.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_direita_4",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        11.65000057220459,
+        4.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_esquerda_12",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -11.880000114440918,
+        12.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_direita_12",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        11.880000114440918,
+        12.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_esquerda_20",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -11.880000114440918,
+        20.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_direita_20",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        11.880000114440918,
+        20.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_esquerda_30",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -11.880000114440918,
+        30.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_direita_30",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        11.880000114440918,
+        30.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "fundos_fechados_-8",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -8.0,
+        31.8799991607666,
+        1.0
+      ]
+    },
+    {
+      "nome": "fundos_fechados_0",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        0.0,
+        31.8799991607666,
+        1.0
+      ]
+    },
+    {
+      "nome": "fundos_fechados_8",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        8.0,
+        31.8799991607666,
+        1.0
+      ]
+    },
+    {
+      "nome": "frente_fechada_-6",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -6.0,
+        0.12000000476837158,
+        1.0
+      ]
+    },
+    {
+      "nome": "frente_fechada_6",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        6.0,
+        0.12000000476837158,
+        1.0
+      ]
+    },
+    {
+      "nome": "piso_-10_-1",
+      "passou": true,
+      "altura": 5.960464477539063e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-10_0.1",
+      "passou": true,
+      "altura": 0.0,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-10_1",
+      "passou": true,
+      "altura": 2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-10_8",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-10_16",
+      "passou": true,
+      "altura": 0.0,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-10_24",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-10_30",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-5_-1",
+      "passou": true,
+      "altura": 5.960464477539063e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-5_0.1",
+      "passou": true,
+      "altura": 0.0,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-5_1",
+      "passou": true,
+      "altura": 2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-5_8",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-5_16",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-5_24",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_-5_30",
+      "passou": true,
+      "altura": 0.0,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_0_-1",
+      "passou": true,
+      "altura": 0.0,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_0_0.1",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_0_1",
+      "passou": true,
+      "altura": 2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_0_8",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_0_16",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_0_24",
+      "passou": true,
+      "altura": 2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_0_30",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_5_-1",
+      "passou": true,
+      "altura": 0.0,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_5_0.1",
+      "passou": true,
+      "altura": 0.0,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_5_1",
+      "passou": true,
+      "altura": 2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_5_8",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_5_16",
+      "passou": true,
+      "altura": 0.0,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_5_24",
+      "passou": true,
+      "altura": 2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_5_30",
+      "passou": true,
+      "altura": 2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_10_-1",
+      "passou": true,
+      "altura": 0.0,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_10_0.1",
+      "passou": true,
+      "altura": 0.0,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_10_1",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_10_8",
+      "passou": true,
+      "altura": 2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_10_16",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_10_24",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "piso_10_30",
+      "passou": true,
+      "altura": -2.9802322387695312e-08,
+      "esperado": 0
+    },
+    {
+      "nome": "degrau_1",
+      "passou": true,
+      "altura": 0.1666666567325592,
+      "esperado": 0.16666666666666666
+    },
+    {
+      "nome": "pe_direito_escada_1",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_2",
+      "passou": true,
+      "altura": 0.3333333432674408,
+      "esperado": 0.3333333333333333
+    },
+    {
+      "nome": "pe_direito_escada_2",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_3",
+      "passou": true,
+      "altura": 0.5,
+      "esperado": 0.5
+    },
+    {
+      "nome": "pe_direito_escada_3",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_4",
+      "passou": true,
+      "altura": 0.6666666865348816,
+      "esperado": 0.6666666666666666
+    },
+    {
+      "nome": "pe_direito_escada_4",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_5",
+      "passou": true,
+      "altura": 0.8333333134651184,
+      "esperado": 0.8333333333333334
+    },
+    {
+      "nome": "pe_direito_escada_5",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_6",
+      "passou": true,
+      "altura": 1.0,
+      "esperado": 1.0
+    },
+    {
+      "nome": "pe_direito_escada_6",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_7",
+      "passou": true,
+      "altura": 1.1666666269302368,
+      "esperado": 1.1666666666666667
+    },
+    {
+      "nome": "pe_direito_escada_7",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_8",
+      "passou": true,
+      "altura": 1.3333332538604736,
+      "esperado": 1.3333333333333333
+    },
+    {
+      "nome": "pe_direito_escada_8",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_9",
+      "passou": true,
+      "altura": 1.5,
+      "esperado": 1.5
+    },
+    {
+      "nome": "pe_direito_escada_9",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_10",
+      "passou": true,
+      "altura": 1.6666666269302368,
+      "esperado": 1.6666666666666667
+    },
+    {
+      "nome": "pe_direito_escada_10",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_11",
+      "passou": true,
+      "altura": 1.8333332538604736,
+      "esperado": 1.8333333333333333
+    },
+    {
+      "nome": "pe_direito_escada_11",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_12",
+      "passou": true,
+      "altura": 2.0,
+      "esperado": 2.0
+    },
+    {
+      "nome": "pe_direito_escada_12",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_13",
+      "passou": true,
+      "altura": 2.1666667461395264,
+      "esperado": 2.1666666666666665
+    },
+    {
+      "nome": "pe_direito_escada_13",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_14",
+      "passou": true,
+      "altura": 2.3333334922790527,
+      "esperado": 2.3333333333333335
+    },
+    {
+      "nome": "pe_direito_escada_14",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_15",
+      "passou": true,
+      "altura": 2.5,
+      "esperado": 2.5
+    },
+    {
+      "nome": "pe_direito_escada_15",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_16",
+      "passou": true,
+      "altura": 2.6666667461395264,
+      "esperado": 2.6666666666666665
+    },
+    {
+      "nome": "pe_direito_escada_16",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_17",
+      "passou": true,
+      "altura": 2.8333334922790527,
+      "esperado": 2.8333333333333335
+    },
+    {
+      "nome": "pe_direito_escada_17",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_18",
+      "passou": true,
+      "altura": 3.0,
+      "esperado": 3.0
+    },
+    {
+      "nome": "pe_direito_escada_18",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_19",
+      "passou": true,
+      "altura": 3.1666667461395264,
+      "esperado": 3.1666666666666665
+    },
+    {
+      "nome": "pe_direito_escada_19",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_20",
+      "passou": true,
+      "altura": 3.3333334922790527,
+      "esperado": 3.3333333333333335
+    },
+    {
+      "nome": "pe_direito_escada_20",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "degrau_21",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "pe_direito_escada_21",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "mezanino_9.4_10.41",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_10.3_10.41",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_11.3_10.41",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_9.4_11",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_10.3_11",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_11.3_11",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_9.4_16",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_10.3_16",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_11.3_16",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_9.4_22",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_10.3_22",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_11.3_22",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_9.4_30",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_10.3_30",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "mezanino_11.3_30",
+      "passou": true,
+      "altura": 3.5,
+      "esperado": 3.5
+    },
+    {
+      "nome": "guarda_corpo_12",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        8.822500228881836,
+        12.0,
+        4.0
+      ]
+    },
+    {
+      "nome": "guarda_corpo_20",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        8.822500228881836,
+        20.0,
+        4.0
+      ]
+    },
+    {
+      "nome": "guarda_corpo_29",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        8.822500228881836,
+        29.0,
+        4.0
+      ]
+    },
+    {
+      "nome": "corrimao_esq_6.0",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        9.394999504089355,
+        6.0,
+        1.6555556058883667
+      ]
+    },
+    {
+      "nome": "corrimao_dir_6.0",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        11.204999923706055,
+        6.0,
+        1.6555556058883667
+      ]
+    },
+    {
+      "nome": "corrimao_esq_8.5",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        9.394999504089355,
+        8.5,
+        3.0444445610046387
+      ]
+    },
+    {
+      "nome": "corrimao_dir_8.5",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        11.204999923706055,
+        8.5,
+        3.0444445610046387
+      ]
+    },
+    {
+      "nome": "cobertura_-8",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -8.0,
+        15.0,
+        9.96376895904541
+      ]
+    },
+    {
+      "nome": "cobertura_0",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        0.0,
+        15.0,
+        11.963768005371094
+      ]
+    },
+    {
+      "nome": "cobertura_8",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        8.0,
+        15.0,
+        9.96376895904541
+      ]
+    }
+  ],
+  "passaram": 121,
+  "salas": 2,
+  "portais": 1,
+  "entidades": 3,
+  "ids_de_sala_colisao": [
+    0,
+    1
+  ],
+  "texturas": [
+    {
+      "nome": "ga_claraboia.dds",
+      "empacotada": true,
+      "dimensoes": [
+        128,
+        128
+      ]
+    },
+    {
+      "nome": "ga_concreto.dds",
+      "empacotada": true,
+      "dimensoes": [
+        512,
+        512
+      ]
+    },
+    {
+      "nome": "ga_faixa_guarda_popular.dds",
+      "empacotada": true,
+      "dimensoes": [
+        1024,
+        256
+      ]
+    },
+    {
+      "nome": "ga_luminaria.dds",
+      "empacotada": true,
+      "dimensoes": [
+        64,
+        64
+      ]
+    },
+    {
+      "nome": "ga_metal_preto.dds",
+      "empacotada": true,
+      "dimensoes": [
+        128,
+        128
+      ]
+    },
+    {
+      "nome": "ga_metal_vermelho.dds",
+      "empacotada": true,
+      "dimensoes": [
+        256,
+        256
+      ]
+    },
+    {
+      "nome": "ga_murais.dds",
+      "empacotada": true,
+      "dimensoes": [
+        1024,
+        512
+      ]
+    },
+    {
+      "nome": "ga_piso_vermelho.dds",
+      "empacotada": true,
+      "dimensoes": [
+        256,
+        256
+      ]
+    },
+    {
+      "nome": "ga_porta.dds",
+      "empacotada": true,
+      "dimensoes": [
+        256,
+        256
+      ]
+    },
+    {
+      "nome": "ga_telha.dds",
+      "empacotada": true,
+      "dimensoes": [
+        256,
+        256
+      ]
+    },
+    {
+      "nome": "ga_tijolo_branco.dds",
+      "empacotada": true,
+      "dimensoes": [
+        512,
+        512
+      ]
+    },
+    {
+      "nome": "ga_tijolo_vermelho.dds",
+      "empacotada": true,
+      "dimensoes": [
+        512,
+        512
+      ]
+    }
+  ],
+  "limite_validacao": "Raios em BVH e dados de arquivo; não é teste do motor GTA/FiveM.",
+  "origem_colisao": "Master Blender fonte"
+}

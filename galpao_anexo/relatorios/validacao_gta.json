@@ -1,0 +1,69 @@
+{
+  "ga_arquetipos.ytyp": {
+    "bytes": 1348,
+    "sha256": "8771c99b2490698baba4a72dd19a16c091aac04bd82ff1074f140c7d35f8cd5e",
+    "descomprimido": 8192,
+    "versao": 2
+  },
+  "ga_exterior.ydr": {
+    "bytes": 59631,
+    "sha256": "c9dd45b33196275f7a1943abfec3701f92166a9cf4fb6a4498ee46bf5b5ee7ae",
+    "descomprimido": 278528,
+    "versao": 165
+  },
+  "ga_mezanino.ydr": {
+    "bytes": 28892,
+    "sha256": "d7faed6b57b1d57b0bbc0bac80c678130f4912d035eda241cb46634d8d10fdb9",
+    "descomprimido": 155648,
+    "versao": 165
+  },
+  "ga_mlo.ybn": {
+    "bytes": 12489,
+    "sha256": "13e95926ec03230d65bb326fee7946e2b818d311696745db8ff08fce931544f6",
+    "descomprimido": 32768,
+    "versao": 43
+  },
+  "ga_salao.ydr": {
+    "bytes": 249246,
+    "sha256": "514ffb433cc3578bfd70d270dcf40148d32d90522eea9ce48d33bcc3964c0093",
+    "descomprimido": 1114112,
+    "versao": 165
+  },
+  "ga_texturas.ytd": {
+    "bytes": 988566,
+    "sha256": "1ac5bee8d41bc657bb21939b5656b15543f69f9f257bddfc769809fd335b68cc",
+    "descomprimido": 3153920,
+    "versao": 13
+  },
+  "ga_implantacao_origem.ymap": {
+    "bytes": 1097,
+    "sha256": "f333c1765aaffc85a3aa77fbb9f6460500dc8f6bf17d716ed15483d54d2e6fda",
+    "descomprimido": 8192,
+    "versao": 2
+  },
+  "MLO": {
+    "salas": [
+      "limbo",
+      "salao"
+    ],
+    "portais": [
+      [
+        0,
+        1
+      ]
+    ],
+    "entidades": 3,
+    "conectividade": "todas as salas acessíveis a partir do exterior",
+    "texturas": 12,
+    "luzes_com_horario_e_sombra": 9,
+    "triangulos": {
+      "ga_exterior.ydr.xml": 1460,
+      "ga_mezanino.ydr.xml": 912,
+      "ga_salao.ydr.xml": 6482
+    },
+    "triangulos_colisao": 772,
+    "compilados": 7,
+    "instancia_exemplo": "CMloInstanceDef",
+    "teste_no_jogo": false
+  }
+}

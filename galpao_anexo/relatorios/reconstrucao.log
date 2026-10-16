@@ -1,0 +1,81 @@
+TEXTURAS 12 2497728
+INFO: Starting export...
+INFO: Successfully exported 'ga_exterior'
+INFO: Successfully exported 'ga_mezanino'
+INFO: Successfully exported 'ga_salao'
+INFO: Successfully exported 'ga_mlo'
+INFO: Successfully exported 'ga_arquetipos'
+INFO: Exported in 0.181 seconds
+Info: Starting export...
+Info: Successfully exported 'ga_exterior'
+Info: Successfully exported 'ga_mezanino'
+Info: Successfully exported 'ga_salao'
+Info: Successfully exported 'ga_mlo'
+Info: Successfully exported 'ga_arquetipos'
+Info: Exported in 0.181 seconds
+EXPORT_RESULT {'FINISHED'}
+Info: Saved "galpao_anexo_master.blend"
+GEOMETRIA {"min": [-12.399999618530273, -3.0, -0.18000000715255737], "max": [12.399999618530273, 32.349998474121094, 12.15999984741211], "dimensoes": [24.799999237060547, 35.349998474121094, 12.339999854564667], "area_envelope": 876.6799351882946, "dimensoes_estimadas": true, "largura_nominal": 24, "profundidade_nominal": 32, "altura_beiral": 9, "altura_cumeeira": 12.12, "mezanino_altura": 3.5, "degraus": 21, "triangulos_por_entidade": {"exterior": 1460, "salao": 6482, "mezanino": 912}, "triangulos_colisao": 772, "salas": [{"nome": "limbo", "min": [-12.6, -3.2, -0.3], "max": [12.6, 32.6, 12.4], "dimensoes": [25.2, 35.800000000000004, 12.700000000000001]}, {"nome": "salao", "min": [-11.88, 0, 0], "max": [11.88, 31.88, 12.2], "dimensoes": [23.76, 31.88, 12.2]}], "portais": 1, "mobiliario": "Sem mobili\u00e1rio inventado; gabinete de inc\u00eandio e extintor simplificados", "limites": "Exterior e face oposta estimados; portas laterais fechadas sem salas inventadas; murais reconstru\u00eddos da refer\u00eancia."}
+Blender 4.3.2
+
+Blender quit
+INFO: Starting export...
+INFO: Successfully exported 'ga_salao'
+INFO: Successfully exported 'ga_exterior'
+INFO: Successfully exported 'ga_mlo'
+INFO: Successfully exported 'ga_mezanino'
+INFO: Successfully exported 'ga_arquetipos'
+INFO: Exported in 0.287 seconds
+Info: Starting export...
+Info: Successfully exported 'ga_salao'
+Info: Successfully exported 'ga_exterior'
+Info: Successfully exported 'ga_mlo'
+Info: Successfully exported 'ga_mezanino'
+Info: Successfully exported 'ga_arquetipos'
+Info: Exported in 0.287 seconds
+Info: Saved "galpao_anexo_master.blend"
+LODS {'ga_exterior': {'high': 1460, 'medium': 730, 'low': 364}, 'ga_salao': {'high': 6482, 'medium': 3240, 'low': 1620}, 'ga_mezanino': {'high': 912, 'medium': 456, 'low': 228}}
+Blender 4.3.2
+Read blend: "/workspace/sedeppl-ajustada/galpao_anexo/blender/galpao_anexo_master.blend"
+
+Blender quit
+Bounds MLO calculados da geometria e exemplo CMloInstanceDef preparado.
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  CodeWalker.Core -> /workspace/tools/CodeWalker/CodeWalker.Core/bin/Release/netstandard2.0/CodeWalker.Core.dll
+  vano_compilador -> /workspace/sedeppl-ajustada/galpao_anexo/scripts/compilador/bin/Release/net8.0/vano_compilador.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.90
+OK ga_salao.ydr: 249246 bytes, reloaded and XML parsed
+OK ga_arquetipos.ytyp: 1348 bytes, reloaded and XML parsed
+OK ga_implantacao_origem.ymap: 1097 bytes, reloaded and XML parsed
+OK ga_texturas.ytd: 988566 bytes, reloaded and XML parsed
+OK ga_mlo.ybn: 12489 bytes, reloaded and XML parsed
+OK ga_exterior.ydr: 59631 bytes, reloaded and XML parsed
+OK ga_mezanino.ydr: 28892 bytes, reloaded and XML parsed
+Compiled 7; failed 0
+PASS: 7 binários RSC7, MLO conectado, 12 DDS/mips, 9 luzes, referências e colisão BVH.
+PASS 121 checagens físicas; 2 salas; 1 portal; 3 entidades; texturas empacotadas.
+Blender 4.3.2
+Read blend: "/workspace/sedeppl-ajustada/galpao_anexo/blender/galpao_anexo_master.blend"
+
+Blender quit
+INFO: Successfully imported '/workspace/sedeppl-ajustada/galpao_anexo/relatorios/roundtrip/ga_mlo.ybn.xml'
+INFO: Imported in 0.027 seconds
+Info: Successfully imported '/workspace/sedeppl-ajustada/galpao_anexo/relatorios/roundtrip/ga_mlo.ybn.xml'
+Info: Imported in 0.027 seconds
+PASS 121 checagens físicas; 2 salas; 1 portal; 3 entidades; texturas empacotadas.
+Blender 4.3.2
+Read blend: "/workspace/sedeppl-ajustada/galpao_anexo/blender/galpao_anexo_master.blend"
+
+Blender quit
+Info: Saved "galpao_anexo_pecas_editaveis.blend"
+PECAS_EDITAVEIS 776
+Blender 4.3.2
+Read blend: "/workspace/sedeppl-ajustada/galpao_anexo/blender/galpao_anexo_master.blend"
+
+Blender quit
