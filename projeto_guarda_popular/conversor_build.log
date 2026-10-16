@@ -1,0 +1,11 @@
+  Determining projects to restore...
+  Restored /workspace/projeto-guarda-popular/ferramentas/conversor/vano_converter.csproj (in 777 ms).
+  1 of 2 projects are up-to-date for restore.
+  CodeWalker.Core -> /workspace/tools/CodeWalker/CodeWalker.Core/bin/Release/netstandard2.0/CodeWalker.Core.dll
+  vano_converter -> /workspace/projeto-guarda-popular/ferramentas/conversor/bin/Release/net8.0/vano_converter.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:08.56

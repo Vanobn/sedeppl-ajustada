@@ -1,0 +1,1385 @@
+{
+  "assets": [
+    {
+      "arquivo": "ch1_06b_2.ybn.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 118
+    },
+    {
+      "arquivo": "ch1_06b_emissive.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 2
+    },
+    {
+      "arquivo": "ch1_06b_fur_06.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 1
+    },
+    {
+      "arquivo": "ch1_06b_plot1.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 2
+    },
+    {
+      "arquivo": "colsedeppl.col.ybn.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 3
+    },
+    {
+      "arquivo": "hi@ch1_06b_2.ybn.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 137
+    },
+    {
+      "arquivo": "nexus_alento_ext.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 2
+    },
+    {
+      "arquivo": "nexus_alento_ext_col.ybn.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 3
+    },
+    {
+      "arquivo": "nexus_alento_int.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 2
+    },
+    {
+      "arquivo": "nexus_alento_int_col.ybn.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 3
+    },
+    {
+      "arquivo": "nexus_bandeira_galpao.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_bandeira_galpao2.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_bar1909_ext.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 2
+    },
+    {
+      "arquivo": "nexus_bar1909_ext_col.ybn.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 3
+    },
+    {
+      "arquivo": "nexus_bar1909_int.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 2
+    },
+    {
+      "arquivo": "nexus_bar1909_int_col.ybn.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 3
+    },
+    {
+      "arquivo": "nexus_faixa_ppl.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixaalento_1.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixaalento_2.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixaalento_3.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixaalento_4.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixaalento_5.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixaalento_6.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixaalento_7.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixaalento_8.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixaalento_9.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixafora_2.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixafora_3.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixafora_ppl.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_faixappl_galpao.yft.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 4
+    },
+    {
+      "arquivo": "nexus_galpao_ext.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 2
+    },
+    {
+      "arquivo": "nexus_galpao_ext_col.ybn.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 3
+    },
+    {
+      "arquivo": "nexus_galpao_int.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 2
+    },
+    {
+      "arquivo": "nexus_galpao_int_col.ybn.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 3
+    },
+    {
+      "arquivo": "nexus_murga_ppl.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 5
+    },
+    {
+      "arquivo": "nexus_porta_ppl.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 3
+    },
+    {
+      "arquivo": "nexus_portao_1909.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 5
+    },
+    {
+      "arquivo": "nexus_portao_alento.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 3
+    },
+    {
+      "arquivo": "nexus_portao_alento2.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 3
+    },
+    {
+      "arquivo": "nexus_portao_galpao.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 3
+    },
+    {
+      "arquivo": "nexus_ppl_loja.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 5
+    },
+    {
+      "arquivo": "nexus_ppl_loja2.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 5
+    },
+    {
+      "arquivo": "nexus_ppl_loja3.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 5
+    },
+    {
+      "arquivo": "nexus_ppl_loja4.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 5
+    },
+    {
+      "arquivo": "nexus_quadroppl.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 5
+    },
+    {
+      "arquivo": "nx_alento_ext.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 2
+    },
+    {
+      "arquivo": "vano_muro1909_ext.model.ydr.xml",
+      "resultado": "{'FINISHED'}",
+      "objetos": 2
+    }
+  ],
+  "imagens": [
+    {
+      "nome": "am_glue_dirtbrown",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/am_glue_dirtbrown.dds"
+    },
+    {
+      "nome": "am_glue_dirtbrown_n",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/am_glue_dirtbrown_n.dds"
+    },
+    {
+      "nome": "banheirofeminino",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/banheirofeminino.dds"
+    },
+    {
+      "nome": "banheiromasculinho",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/banheiromasculinho.dds"
+    },
+    {
+      "nome": "bateriappl",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/bateriappl.dds"
+    },
+    {
+      "nome": "bh1_48_rsn_am_michaelshouse_wall_bits",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//bh1_48_rsn_am_michaelshouse_wall_bits.dds"
+    },
+    {
+      "nome": "bh1_48_rsn_am_michaelshouse_wall_bits_n",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/bh1_48_rsn_am_michaelshouse_wall_bits_n.dds"
+    },
+    {
+      "nome": "branconexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/branconexus.dds"
+    },
+    {
+      "nome": "cabide",
+      "size": [
+        512,
+        512
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/cabide.dds"
+    },
+    {
+      "nome": "camisappl",
+      "size": [
+        1024,
+        1024
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/camisappl.dds"
+    },
+    {
+      "nome": "ch1_06_tw_doors",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//ch1_06_tw_doors.dds"
+    },
+    {
+      "nome": "ch1_06_tw_doors_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//ch1_06_tw_doors_n.dds"
+    },
+    {
+      "nome": "ch1_06_tw_doors_s",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//ch1_06_tw_doors_s.dds"
+    },
+    {
+      "nome": "ch1_06_tw_ledges2",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//ch1_06_tw_ledges2.dds"
+    },
+    {
+      "nome": "ch1_06_tw_ledges2_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//ch1_06_tw_ledges2_n.dds"
+    },
+    {
+      "nome": "ch1_06_tw_ledges2_s",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//ch1_06_tw_ledges2_s.dds"
+    },
+    {
+      "nome": "ch1_06b_grass_area",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//ch1_06b_grass_area.dds"
+    },
+    {
+      "nome": "ch1_06b_grass_mask",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//ch1_06b_grass_mask.dds"
+    },
+    {
+      "nome": "ch1_06b_plot1_pal",
+      "size": [
+        256,
+        4
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/ch1_06b_plot1_pal.dds"
+    },
+    {
+      "nome": "ch1_06b_tw_ledges",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//ch1_06b_tw_ledges.dds"
+    },
+    {
+      "nome": "ch1_06b_tw_ledges_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//ch1_06b_tw_ledges_n.dds"
+    },
+    {
+      "nome": "ch1_06b_tw_ledges_s",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//ch1_06b_tw_ledges_s.dds"
+    },
+    {
+      "nome": "ch1_06b_windows",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//ch1_06b_windows.dds"
+    },
+    {
+      "nome": "chaovermelho",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/chaovermelho.dds"
+    },
+    {
+      "nome": "cinzabaterianexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/cinzabaterianexus.dds"
+    },
+    {
+      "nome": "concreto1909",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/concreto1909.dds"
+    },
+    {
+      "nome": "concretogdf_d",
+      "size": [
+        2160,
+        2160
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/concretogdf_d.dds"
+    },
+    {
+      "nome": "cs_rsn_sl_dryhills_rock_03",
+      "size": [
+        512,
+        512
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/cs_rsn_sl_dryhills_rock_03.dds"
+    },
+    {
+      "nome": "cs_rsn_sl_dryhills_rock_03_n",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/cs_rsn_sl_dryhills_rock_03_n.dds"
+    },
+    {
+      "nome": "douradobaterianexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/douradobaterianexus.dds"
+    },
+    {
+      "nome": "dz909nexus",
+      "size": [
+        212,
+        292
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/dz909nexus.dds"
+    },
+    {
+      "nome": "enferrujadonexus",
+      "size": [
+        1920,
+        1080
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/enferrujadonexus.dds"
+    },
+    {
+      "nome": "env_woodgrain",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//env_woodgrain.dds"
+    },
+    {
+      "nome": "ferro",
+      "size": [
+        512,
+        512
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/ferro.dds"
+    },
+    {
+      "nome": "fur_grass_n_fade",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//fur_grass_n_fade.dds"
+    },
+    {
+      "nome": "fur_grass_rgba4_0",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//fur_grass_rgba4_0.dds"
+    },
+    {
+      "nome": "fur_grass_rgba4_1",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//fur_grass_rgba4_1.dds"
+    },
+    {
+      "nome": "fur_grass_rgba4_2",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//fur_grass_rgba4_2.dds"
+    },
+    {
+      "nome": "fur_grass_rgba4_3",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//fur_grass_rgba4_3.dds"
+    },
+    {
+      "nome": "glassloja",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/glassloja.dds"
+    },
+    {
+      "nome": "gz_v_cl_hanger",
+      "size": [
+        256,
+        128
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/gz_V_CL_Hanger.dds"
+    },
+    {
+      "nome": "gz_v_cl_low_frank05",
+      "size": [
+        1024,
+        1024
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/gz_v_cl_low_frank05.dds"
+    },
+    {
+      "nome": "gz_v_cl_metal03",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/gz_v_cl_metal03.dds"
+    },
+    {
+      "nome": "hospiciocolorado",
+      "size": [
+        212,
+        292
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/hospiciocolorado.dds"
+    },
+    {
+      "nome": "im_emissive_window_001",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_emissive_window_001.dds"
+    },
+    {
+      "nome": "im_emissive_window_004",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_emissive_window_004.dds"
+    },
+    {
+      "nome": "im_emissive_window_005",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_emissive_window_005.dds"
+    },
+    {
+      "nome": "im_emissive_window_011",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_emissive_window_011.dds"
+    },
+    {
+      "nome": "im_emissive_window_012",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_emissive_window_012.dds"
+    },
+    {
+      "nome": "im_floortiles02",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_floortiles02.dds"
+    },
+    {
+      "nome": "im_floortiles02_n",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/im_floortiles02_n.dds"
+    },
+    {
+      "nome": "im_floortiles03_s",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_floortiles03_s.dds"
+    },
+    {
+      "nome": "im_glass_n",
+      "size": [
+        128,
+        128
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/im_glass_n.dds"
+    },
+    {
+      "nome": "im_grass02",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_grass02.dds"
+    },
+    {
+      "nome": "im_grass02_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_grass02_n.dds"
+    },
+    {
+      "nome": "im_grass03",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_grass03.dds"
+    },
+    {
+      "nome": "im_grass07_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_grass07_n.dds"
+    },
+    {
+      "nome": "im_grass10b",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_grass10b.dds"
+    },
+    {
+      "nome": "im_grass11b",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_grass11b.dds"
+    },
+    {
+      "nome": "im_grass11b_fur_hf",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_grass11b_fur_hf.dds"
+    },
+    {
+      "nome": "im_grass11b_fur_hf_b",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_grass11b_fur_hf_b.dds"
+    },
+    {
+      "nome": "im_interiorfake_04",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/im_interiorfake_04.dds"
+    },
+    {
+      "nome": "im_roof04",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_roof04.dds"
+    },
+    {
+      "nome": "im_roof04_s3",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_roof04_s3.dds"
+    },
+    {
+      "nome": "im_roof4_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_roof4_n.dds"
+    },
+    {
+      "nome": "im_steps_03",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_steps_03.dds"
+    },
+    {
+      "nome": "im_steps_03_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_steps_03_n.dds"
+    },
+    {
+      "nome": "im_wall23",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_wall23.dds"
+    },
+    {
+      "nome": "im_wall23_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_wall23_n.dds"
+    },
+    {
+      "nome": "im_wood_panels_05",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_wood_panels_05.dds"
+    },
+    {
+      "nome": "im_wood_panels_05_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_wood_panels_05_n.dds"
+    },
+    {
+      "nome": "im_wood_panels_05_s",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//im_wood_panels_05_s.dds"
+    },
+    {
+      "nome": "madeirapretanexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/madeirapretanexus.dds"
+    },
+    {
+      "nome": "madeiravermelha",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/madeiravermelha.dds"
+    },
+    {
+      "nome": "marmorebancadanexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/marmorebancadanexus.dds"
+    },
+    {
+      "nome": "mh_v_aph_doorknob_d",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//mh_v_aph_doorknob_d.dds"
+    },
+    {
+      "nome": "mh_v_fh_doorhandle2_d",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//mh_v_fh_doorhandle2_d.dds"
+    },
+    {
+      "nome": "nexusalento",
+      "size": [
+        1920,
+        1080
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/nexusalento.dds"
+    },
+    {
+      "nome": "none",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//none.dds"
+    },
+    {
+      "nome": "nxg_am_glue_dirtbrown_h",
+      "size": [
+        512,
+        512
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/nxg_am_glue_dirtbrown_h.dds"
+    },
+    {
+      "nome": "nxg_cs_rsn_sl_dryhills_rock_03_h",
+      "size": [
+        512,
+        512
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/nxg_cs_rsn_sl_dryhills_rock_03_h.dds"
+    },
+    {
+      "nome": "nxg_im_grass02_h",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//nxg_im_grass02_h.dds"
+    },
+    {
+      "nome": "nxg_im_grass07_h",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//nxg_im_grass07_h.dds"
+    },
+    {
+      "nome": "os_ml_bhsteps_0001",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//os_ml_bhsteps_0001.dds"
+    },
+    {
+      "nome": "os_ml_bhsteps_0001_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//os_ml_bhsteps_0001_n.dds"
+    },
+    {
+      "nome": "os_ml_bhsteps_0002",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//os_ml_bhsteps_0002.dds"
+    },
+    {
+      "nome": "os_ml_bhsteps_0002_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//os_ml_bhsteps_0002_n.dds"
+    },
+    {
+      "nome": "os_ml_hhsptile_0002",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//os_ml_hhsptile_0002.dds"
+    },
+    {
+      "nome": "os_ml_hhsptile_0002_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//os_ml_hhsptile_0002_n.dds"
+    },
+    {
+      "nome": "os_ml_hhsptile_0002_s",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//os_ml_hhsptile_0002_s.dds"
+    },
+    {
+      "nome": "os_ml_vnwall_0001",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/os_ml_vnwall_0001.dds"
+    },
+    {
+      "nome": "os_ml_vnwall_0001_n",
+      "size": [
+        128,
+        128
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/os_ml_vnwall_0001_n.dds"
+    },
+    {
+      "nome": "os_mlhxd_wall_0007",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//os_mlhxd_wall_0007.dds"
+    },
+    {
+      "nome": "os_mlhxd_wall_0007_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//os_mlhxd_wall_0007_n.dds"
+    },
+    {
+      "nome": "parede1nexusppl",
+      "size": [
+        212,
+        292
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/parede1nexusppl.dds"
+    },
+    {
+      "nome": "parede2nexusppl",
+      "size": [
+        212,
+        292
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/parede2nexusppl.dds"
+    },
+    {
+      "nome": "paredebejenexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/paredebejenexus.dds"
+    },
+    {
+      "nome": "paredebrancanexustextura",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/paredebrancanexustextura.dds"
+    },
+    {
+      "nome": "paredelisanexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/paredelisanexus.dds"
+    },
+    {
+      "nome": "paredenexusfora",
+      "size": [
+        1920,
+        1080
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/paredenexusfora.dds"
+    },
+    {
+      "nome": "peleppl",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/peleppl.dds"
+    },
+    {
+      "nome": "pisomarmorenexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/pisomarmorenexus.dds"
+    },
+    {
+      "nome": "portaofechadonexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/portaofechadonexus.dds"
+    },
+    {
+      "nome": "portaofechadonexus2",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/portaofechadonexus2.dds"
+    },
+    {
+      "nome": "portaopreto",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/portaopreto.dds"
+    },
+    {
+      "nome": "ppl",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/PPL.dds"
+    },
+    {
+      "nome": "pplagradecimento",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/pplagradecimento.dds"
+    },
+    {
+      "nome": "pplartenexus",
+      "size": [
+        1920,
+        1080
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/pplartenexus.dds"
+    },
+    {
+      "nome": "pplartenexusa",
+      "size": [
+        1920,
+        1080
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/pplartenexusa.dds"
+    },
+    {
+      "nome": "pplartenexusdentro",
+      "size": [
+        1920,
+        1080
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/pplartenexusdentro.dds"
+    },
+    {
+      "nome": "preto",
+      "size": [
+        512,
+        512
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/preto.dds"
+    },
+    {
+      "nome": "regatappl",
+      "size": [
+        1024,
+        1024
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/regatappl.dds"
+    },
+    {
+      "nome": "Render Result",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": ""
+    },
+    {
+      "nome": "rsn_am_hedge_03",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//rsn_am_hedge_03.dds"
+    },
+    {
+      "nome": "rsn_am_hedge_03_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//rsn_am_hedge_03_n.dds"
+    },
+    {
+      "nome": "rsn_am_hedge_03_s",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//rsn_am_hedge_03_s.dds"
+    },
+    {
+      "nome": "rsn_dc_wooden_wall_0001",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//rsn_dc_wooden_wall_0001.dds"
+    },
+    {
+      "nome": "rsn_dc_wooden_wall_0001_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//rsn_dc_wooden_wall_0001_n.dds"
+    },
+    {
+      "nome": "rsn_dc_wooden_wall_0001_s",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//rsn_dc_wooden_wall_0001_s.dds"
+    },
+    {
+      "nome": "rsn_mjg_im_ground_bricks03",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//rsn_mjg_im_ground_bricks03.dds"
+    },
+    {
+      "nome": "rsn_mjg_im_ground_bricks03_n",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//rsn_mjg_im_ground_bricks03_n.dds"
+    },
+    {
+      "nome": "rsn_mjg_im_ground_bricks03_s",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//rsn_mjg_im_ground_bricks03_s.dds"
+    },
+    {
+      "nome": "sjm_vbwall2",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/sjm_vbwall2.dds"
+    },
+    {
+      "nome": "sjm_vbwall2_rp_h",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/sjm_vbwall2_rp_h.dds"
+    },
+    {
+      "nome": "sjm_vbwall2_rp_n",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/sjm_vbwall2_rp_n.dds"
+    },
+    {
+      "nome": "sjm_vbwall2_rp_s",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/sjm_vbwall2_rp_s.dds"
+    },
+    {
+      "nome": "sm1_12_rnim_pooltiles02",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//sm1_12_rnim_pooltiles02.dds"
+    },
+    {
+      "nome": "telhaalentonexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/telhaalentonexus.dds"
+    },
+    {
+      "nome": "telhanexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/telhanexus.dds"
+    },
+    {
+      "nome": "telhanexusaa",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/telhanexusaa.dds"
+    },
+    {
+      "nome": "textloja",
+      "size": [
+        1920,
+        1080
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/TEXTLOJA.dds"
+    },
+    {
+      "nome": "texturachaoalentonexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/texturachaoalentonexus.dds"
+    },
+    {
+      "nome": "texturacinzanexus",
+      "size": [
+        212,
+        292
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/texturacinzanexus.dds"
+    },
+    {
+      "nome": "texturaconcretovermelho",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/texturaconcretovermelho.dds"
+    },
+    {
+      "nome": "tijoloalentonexus",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/tijoloalentonexus.dds"
+    },
+    {
+      "nome": "tl_v_michael_doors",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/tl_v_michael_doors.dds"
+    },
+    {
+      "nome": "tl_v_michael_doors_n",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/tl_v_michael_doors_n.dds"
+    },
+    {
+      "nome": "txstipple",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": "//txstipple.dds"
+    },
+    {
+      "nome": "txtvermelha",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/txtvermelha.dds"
+    },
+    {
+      "nome": "vidrocinza",
+      "size": [
+        500,
+        500
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/vidrocinza.dds"
+    },
+    {
+      "nome": "vidropplnexus",
+      "size": [
+        1920,
+        1080
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/vidropplnexus.dds"
+    },
+    {
+      "nome": "Viewer Node",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": ""
+    },
+    {
+      "nome": "xj_v_office_elevator",
+      "size": [
+        128,
+        128
+      ],
+      "filepath": "/workspace/projeto-guarda-popular/convertidos/XJ_V_Office_ELEVATOR.dds"
+    }
+  ]
+}

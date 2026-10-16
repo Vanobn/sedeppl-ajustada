@@ -1,0 +1,40 @@
+Traceback (most recent call last):
+  File "/usr/share/blender/scripts/modules/bpy/utils/__init__.py", line 879, in user_resource
+    _os.makedirs(target_path)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "<frozen os>", line 228, in makedirs
+OSError: [Errno 30] Read-only file system: '/home/agent/.config/blender/4.3/config/sollumz'
+Traceback (most recent call last):
+  File "/usr/share/blender/scripts/modules/bpy/utils/__init__.py", line 879, in user_resource
+    _os.makedirs(target_path)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "<frozen os>", line 228, in makedirs
+OSError: [Errno 30] Read-only file system: '/home/agent/.config/blender/4.3/config/sollumz'
+Traceback (most recent call last):
+  File "/usr/share/blender/scripts/modules/bpy/utils/__init__.py", line 879, in user_resource
+    _os.makedirs(target_path)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "<frozen os>", line 228, in makedirs
+OSError: [Errno 30] Read-only file system: '/home/agent/.config/blender/4.3/config/sollumz'
+Traceback (most recent call last):
+  File "/usr/share/blender/scripts/modules/bpy/utils/__init__.py", line 879, in user_resource
+    _os.makedirs(target_path)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "<frozen os>", line 228, in makedirs
+OSError: [Errno 30] Read-only file system: '/home/agent/.config/blender/4.3/config/sollumz'
+Traceback (most recent call last):
+  File "/usr/share/blender/scripts/modules/bpy/utils/__init__.py", line 879, in user_resource
+    _os.makedirs(target_path)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "<frozen os>", line 228, in makedirs
+OSError: [Errno 30] Read-only file system: '/home/agent/.config/blender/4.3/config/sollumz'
+REGISTERED True
+INFO: Successfully imported '/workspace/projeto-guarda-popular/convertidos/nexus_galpao_ext.ydr.xml'
+INFO: Imported in 0.043 seconds
+Info: Successfully imported '/workspace/projeto-guarda-popular/convertidos/nexus_galpao_ext.ydr.xml'
+Info: Imported in 0.043 seconds
+RESULT {'FINISHED'} OBJECTS 2
+Info: Saved "teste_importacao.blend"
+Blender 4.3.2
+
+Blender quit

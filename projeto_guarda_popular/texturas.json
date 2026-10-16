@@ -1,0 +1,586 @@
+[
+  {
+    "arquivo": "nxg_cs_rsn_sl_dryhills_rock_03_h.dds",
+    "largura": 512,
+    "altura": 512,
+    "mip_count": 8,
+    "bytes": 174888,
+    "npot": false
+  },
+  {
+    "arquivo": "gz_v_cl_metal03.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "im_floortiles02_n.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "TEXTLOJA.dds",
+    "largura": 1920,
+    "altura": 1080,
+    "mip_count": 1,
+    "bytes": 2073728,
+    "npot": true
+  },
+  {
+    "arquivo": "am_glue_dirtbrown.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "portaofechadonexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "texturachaoalentonexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "camisappl.dds",
+    "largura": 1024,
+    "altura": 1024,
+    "mip_count": 3,
+    "bytes": 1376384,
+    "npot": false
+  },
+  {
+    "arquivo": "telhanexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "cs_rsn_sl_dryhills_rock_03_n.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "PPL.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "telhanexusaa.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "cabide.dds",
+    "largura": 512,
+    "altura": 512,
+    "mip_count": 1,
+    "bytes": 262272,
+    "npot": false
+  },
+  {
+    "arquivo": "pplagradecimento.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "marmorebancadanexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "sjm_vbwall2_rp_n.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "portaopreto.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "sjm_vbwall2_rp_s.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "sjm_vbwall2.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "vidropplnexus.dds",
+    "largura": 1920,
+    "altura": 1080,
+    "mip_count": 1,
+    "bytes": 2073728,
+    "npot": true
+  },
+  {
+    "arquivo": "texturaconcretovermelho.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "portaofechadonexus2.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "concreto1909.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "pplartenexusdentro.dds",
+    "largura": 1920,
+    "altura": 1080,
+    "mip_count": 1,
+    "bytes": 2073728,
+    "npot": true
+  },
+  {
+    "arquivo": "tl_v_michael_doors_n.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "bh1_48_rsn_am_michaelshouse_wall_bits_n.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "pisomarmorenexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "regatappl.dds",
+    "largura": 1024,
+    "altura": 1024,
+    "mip_count": 3,
+    "bytes": 1376384,
+    "npot": false
+  },
+  {
+    "arquivo": "am_glue_dirtbrown_n.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "vidrocinza.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "txtvermelha.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "nexusalento.dds",
+    "largura": 1920,
+    "altura": 1080,
+    "mip_count": 1,
+    "bytes": 2073728,
+    "npot": true
+  },
+  {
+    "arquivo": "os_ml_vnwall_0001_n.dds",
+    "largura": 128,
+    "altura": 128,
+    "mip_count": 6,
+    "bytes": 11048,
+    "npot": false
+  },
+  {
+    "arquivo": "os_ml_vnwall_0001.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "im_glass_n.dds",
+    "largura": 128,
+    "altura": 128,
+    "mip_count": 6,
+    "bytes": 11048,
+    "npot": false
+  },
+  {
+    "arquivo": "preto.dds",
+    "largura": 512,
+    "altura": 512,
+    "mip_count": 1,
+    "bytes": 262272,
+    "npot": false
+  },
+  {
+    "arquivo": "banheirofeminino.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "branconexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "tijoloalentonexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "tl_v_michael_doors.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "parede1nexusppl.dds",
+    "largura": 212,
+    "altura": 292,
+    "mip_count": 1,
+    "bytes": 62032,
+    "npot": true
+  },
+  {
+    "arquivo": "paredenexusfora.dds",
+    "largura": 1920,
+    "altura": 1080,
+    "mip_count": 1,
+    "bytes": 2073728,
+    "npot": true
+  },
+  {
+    "arquivo": "madeiravermelha.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "chaovermelho.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "ch1_06b_plot1_pal.dds",
+    "largura": 256,
+    "altura": 4,
+    "mip_count": 1,
+    "bytes": 4224,
+    "npot": false
+  },
+  {
+    "arquivo": "madeirapretanexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "concretogdf_d.dds",
+    "largura": 2160,
+    "altura": 2160,
+    "mip_count": 1,
+    "bytes": 4665728,
+    "npot": true
+  },
+  {
+    "arquivo": "telhaalentonexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "pplartenexusa.dds",
+    "largura": 1920,
+    "altura": 1080,
+    "mip_count": 1,
+    "bytes": 2073728,
+    "npot": true
+  },
+  {
+    "arquivo": "glassloja.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "dz909nexus.dds",
+    "largura": 212,
+    "altura": 292,
+    "mip_count": 1,
+    "bytes": 62032,
+    "npot": true
+  },
+  {
+    "arquivo": "cinzabaterianexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "enferrujadonexus.dds",
+    "largura": 1920,
+    "altura": 1080,
+    "mip_count": 1,
+    "bytes": 2073728,
+    "npot": true
+  },
+  {
+    "arquivo": "cs_rsn_sl_dryhills_rock_03.dds",
+    "largura": 512,
+    "altura": 512,
+    "mip_count": 8,
+    "bytes": 174888,
+    "npot": false
+  },
+  {
+    "arquivo": "ferro.dds",
+    "largura": 512,
+    "altura": 512,
+    "mip_count": 1,
+    "bytes": 262272,
+    "npot": false
+  },
+  {
+    "arquivo": "paredebejenexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "banheiromasculinho.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "gz_V_CL_Hanger.dds",
+    "largura": 256,
+    "altura": 128,
+    "mip_count": 6,
+    "bytes": 43808,
+    "npot": false
+  },
+  {
+    "arquivo": "sjm_vbwall2_rp_h.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "peleppl.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "XJ_V_Office_ELEVATOR.dds",
+    "largura": 128,
+    "altura": 128,
+    "mip_count": 6,
+    "bytes": 21968,
+    "npot": false
+  },
+  {
+    "arquivo": "pplartenexus.dds",
+    "largura": 1920,
+    "altura": 1080,
+    "mip_count": 1,
+    "bytes": 2073728,
+    "npot": true
+  },
+  {
+    "arquivo": "bateriappl.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "im_interiorfake_04.dds",
+    "largura": 256,
+    "altura": 256,
+    "mip_count": 7,
+    "bytes": 43816,
+    "npot": false
+  },
+  {
+    "arquivo": "douradobaterianexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "parede2nexusppl.dds",
+    "largura": 212,
+    "altura": 292,
+    "mip_count": 1,
+    "bytes": 62032,
+    "npot": true
+  },
+  {
+    "arquivo": "paredelisanexus.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  },
+  {
+    "arquivo": "texturacinzanexus.dds",
+    "largura": 212,
+    "altura": 292,
+    "mip_count": 1,
+    "bytes": 62032,
+    "npot": true
+  },
+  {
+    "arquivo": "nxg_am_glue_dirtbrown_h.dds",
+    "largura": 512,
+    "altura": 512,
+    "mip_count": 8,
+    "bytes": 174888,
+    "npot": false
+  },
+  {
+    "arquivo": "hospiciocolorado.dds",
+    "largura": 212,
+    "altura": 292,
+    "mip_count": 1,
+    "bytes": 62032,
+    "npot": true
+  },
+  {
+    "arquivo": "gz_v_cl_low_frank05.dds",
+    "largura": 1024,
+    "altura": 1024,
+    "mip_count": 9,
+    "bytes": 1398224,
+    "npot": false
+  },
+  {
+    "arquivo": "ppl.dds",
+    "largura": 1600,
+    "altura": 412,
+    "mip_count": 1,
+    "bytes": 659328,
+    "npot": true
+  },
+  {
+    "arquivo": "paredebrancanexustextura.dds",
+    "largura": 500,
+    "altura": 500,
+    "mip_count": 1,
+    "bytes": 250128,
+    "npot": true
+  }
+]

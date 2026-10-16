@@ -1,0 +1,105 @@
+[
+  {
+    "conjunto": "fachada_bar_reconstruida",
+    "fontes": [
+      "nexus_bar1909_ext",
+      "nexus_bar1909_int"
+    ],
+    "removidos_materiais": [
+      "concreto1909",
+      "txtvermelha",
+      "enferrujadonexus"
+    ],
+    "escala": [
+      1,
+      1,
+      1
+    ],
+    "rotacao_z": -1.5707963267948966,
+    "destino": [
+      -21.4,
+      17.2,
+      0.03
+    ]
+  },
+  {
+    "conjunto": "alento_convivencia",
+    "fontes": [
+      "nexus_alento_ext",
+      "nexus_alento_int"
+    ],
+    "removidos_materiais": [
+      "paredenexusfora",
+      "enferrujadonexus",
+      "texturachaoalentonexus"
+    ],
+    "escala": [
+      1,
+      1,
+      1
+    ],
+    "rotacao_z": 1.5707963267948966,
+    "destino": [
+      -22.8,
+      41,
+      0.03
+    ]
+  },
+  {
+    "conjunto": "galpao_oficina",
+    "fontes": [
+      "nexus_galpao_ext",
+      "nexus_galpao_int"
+    ],
+    "removidos_materiais": [
+      "telhanexusaa"
+    ],
+    "escala": [
+      1,
+      1,
+      1
+    ],
+    "rotacao_z": 0,
+    "destino": [
+      20,
+      47,
+      0.03
+    ]
+  },
+  {
+    "conjunto": "portao_principal",
+    "fontes": [
+      "nexus_portao_alento"
+    ],
+    "removidos_materiais": [],
+    "escala": [
+      1,
+      1,
+      1
+    ],
+    "rotacao_z": 0,
+    "destino": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "conjunto": "quadro_convivencia",
+    "fontes": [
+      "nexus_quadroppl"
+    ],
+    "removidos_materiais": [],
+    "escala": [
+      1,
+      1,
+      1
+    ],
+    "rotacao_z": 0,
+    "destino": [
+      -26,
+      32,
+      2
+    ]
+  }
+]

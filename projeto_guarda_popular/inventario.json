@@ -1,0 +1,1209 @@
+[
+  {
+    "arquivo": "README.md",
+    "bytes": 42,
+    "sha256": "c4c4ac582041b8854ac8a802969229db9a8b38213a8e881959376aca847ef318",
+    "tipo": ".md"
+  },
+  {
+    "arquivo": "stream/ch1_06b_2.ybn",
+    "bytes": 103141,
+    "sha256": "43fbf3d254723a490f36dab7c7005f64b4ee5b6f1c1bbf7433383bd2b0da9e4b",
+    "tipo": ".ybn",
+    "cabecalho": [
+      927159122,
+      43,
+      721944578,
+      2952790016
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 157696,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/ch1_06b_emissive.ydr",
+    "bytes": 25730,
+    "sha256": "edf49476530fd762c3fea97c4163b6a8b6901697ed79395c8b23682b5e621d27",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2835611650,
+      1342177280
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 83968,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/ch1_06b_fur_06.ydr",
+    "bytes": 666,
+    "sha256": "9edda436fd689e73dfad2192756b388c41ef1ad7a18a65b701294c70cbab302d",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2885812224,
+      1342177280
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 9728,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/ch1_06b_plot1.ydr",
+    "bytes": 3045168,
+    "sha256": "f4af2aadf4e7aa5300a1f8b3e34f62027fbd604b2e4c9fa26c3d04fca9ef6236",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2852395011,
+      1342177416
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 8933376,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/ch1_06b_strm_1.ymap",
+    "bytes": 7379,
+    "sha256": "0f55026411bd7ee196087ffe018f492201147ac3e3d3182032262c4c30c27c0d",
+    "tipo": ".ymap",
+    "cabecalho": [
+      927159122,
+      2,
+      201326597,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 49152,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/ch1_occl_01.ymap",
+    "bytes": 17662,
+    "sha256": "fd08766cdb293a1a81d360f6311d41382d2e5d789c38adc39b7d8d839b103565",
+    "tipo": ".ymap",
+    "cabecalho": [
+      927159122,
+      2,
+      67108869,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 32768,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/colsedeppl.col.ybn",
+    "bytes": 164687,
+    "sha256": "7af8d65b928730f6312014b53d0afee89421dbce5e8073f454564c9fcb05f4da",
+    "tipo": ".ybn",
+    "cabecalho": [
+      927159122,
+      43,
+      537266179,
+      2952790016
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 327680,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/faixappl.ytyp",
+    "bytes": 724,
+    "sha256": "d334c3bd68f67d611bb8e507e722d5d51ef60f8614e029ea57d7cce38cd5e792",
+    "tipo": ".ytyp",
+    "cabecalho": [
+      927159122,
+      2,
+      134217732,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 8192,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/gen8/vano_muro1909_ext.model/enferrujadonexus.dds",
+    "bytes": 2073728,
+    "sha256": "cd46e0cb1345d8049facac777d27991262da40ee07bd3a5ec13670c68ccad54e",
+    "tipo": ".dds",
+    "altura": 1080,
+    "largura": 1920,
+    "fourcc": "DXT5"
+  },
+  {
+    "arquivo": "stream/gen8/vano_muro1909_ext.model/txtvermelha.dds",
+    "bytes": 250128,
+    "sha256": "25a50d6fd837a153e27538b853549d6a3de60f9a0b53528a6deef995d19a5f98",
+    "tipo": ".dds",
+    "altura": 500,
+    "largura": 500,
+    "fourcc": "DXT5"
+  },
+  {
+    "arquivo": "stream/gen8/vano_muro1909_ext.model.ydr.xml",
+    "bytes": 199026,
+    "sha256": "9b8f92ea4f1b73d8e95c747b19e2fd0c8c9bca57753516ab05f094e981c36b14",
+    "tipo": ".xml",
+    "raiz": "Drawable",
+    "geometrias": [
+      {
+        "vertices": 16,
+        "triangulos": 8,
+        "shader": "0",
+        "min": [
+          -3.4657593,
+          -29.4540462,
+          -0.0140591
+        ],
+        "max": [
+          5.0006037,
+          -29.2747364,
+          2.4151506
+        ]
+      },
+      {
+        "vertices": 1515,
+        "triangulos": 705,
+        "shader": "1",
+        "min": [
+          -3.4657598,
+          -29.3702469,
+          2.4151506
+        ],
+        "max": [
+          5.0006037,
+          -29.2375546,
+          3.4101388
+        ]
+      }
+    ],
+    "texturas": [
+      "txtvermelha.dds",
+      "enferrujadonexus.dds"
+    ]
+  },
+  {
+    "arquivo": "stream/hei_ch1_06b_long_1.ymap",
+    "bytes": 18090,
+    "sha256": "3203a893a8358d05d61550baae8e12b8f9c92a39f7ae1f2e4c9a5914df420b30",
+    "tipo": ".ymap",
+    "cabecalho": [
+      927159122,
+      2,
+      167772165,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 81920,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/hei_ch1_06b_strm_1.ymap",
+    "bytes": 9302,
+    "sha256": "835809338b7f499efa123038408457ef223c3ab27e1df889ea829db81e23fa87",
+    "tipo": ".ymap",
+    "cabecalho": [
+      927159122,
+      2,
+      201326597,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 49152,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/hi@ch1_06b_2.ybn",
+    "bytes": 88435,
+    "sha256": "76c0114789ec757e96eb02f1f6461673411ba3d3bf35849dc480bd59fc913598",
+    "tipo": ".ybn",
+    "cabecalho": [
+      927159122,
+      43,
+      537133059,
+      2952790016
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_alento_ext.ydr",
+    "bytes": 1048039,
+    "sha256": "ecbb0bbd23be78bb7f3b238d5e0d3477a7a8ee65eae9914902d7730168104d4c",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2919237635,
+      1359085958
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 7237632,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_alento_ext_col.ybn",
+    "bytes": 29464,
+    "sha256": "c7e24d700f02337ed039c8c1f4dd318e1ef49e08ccd0b5af6b9ee7a35512414a",
+    "tipo": ".ybn",
+    "cabecalho": [
+      927159122,
+      43,
+      537133058,
+      2952790016
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 65536,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_alento_int.ydr",
+    "bytes": 1501832,
+    "sha256": "d8a3137163d8acf6f3832d6182f0b00e7a23afaaa9d597001466e98ea0830fd9",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2801926275,
+      1359741318
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 10084352,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_alento_int_col.ybn",
+    "bytes": 70017,
+    "sha256": "f544997bfb07aaaf76523b05b19071a702685a9450c0e5212cca75b194a18c83",
+    "tipo": ".ybn",
+    "cabecalho": [
+      927159122,
+      43,
+      671350787,
+      2952790016
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 135168,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_bandeira_galpao.yft",
+    "bytes": 21809,
+    "sha256": "dc16df0f8e14f2e781a6e8169277d781aa530106c369e7a73ba6c3b25d83f937",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_bandeira_galpao.ytd",
+    "bytes": 145148,
+    "sha256": "eb28d2b2a400837d3c0b036c5685f631f69edf3acc311e07c9b159fde962451a",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792006
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 532480,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_bandeira_galpao2.yft",
+    "bytes": 21831,
+    "sha256": "10570748c933c713e5d18653f5399849b924e53f907d1f8077b4bc2b1a0588ab",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_bandeira_galpao2.ytd",
+    "bytes": 358370,
+    "sha256": "00b34db9cee9a7ec8f6c6ed4d5a1960ed58e63f7f6536a63813fe9dd99d79cf0",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792008
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 2105344,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_bar1909_ext.ydr",
+    "bytes": 949646,
+    "sha256": "1e5e20e368cc26ccc6c00ee12f96a072e7e5ead3c7961a15cc95c63457cbb1d8",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2684354595,
+      1426456710
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 4521984,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_bar1909_ext_col.ybn",
+    "bytes": 79836,
+    "sha256": "55160aaba9f0cef125d4d7da7db848ea7a27ac1a37bccb8b781d5e9996420911",
+    "tipo": ".ybn",
+    "cabecalho": [
+      927159122,
+      43,
+      620759043,
+      2952790016
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 172032,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_bar1909_int.ydr",
+    "bytes": 282212,
+    "sha256": "d40d46ddea695e5bf83cc521a06a8f847b4d9871350bc4bb15ffc553e4e8100e",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2718040067,
+      1342177795
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 1130496,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_bar1909_int_col.ybn",
+    "bytes": 18448,
+    "sha256": "a01e6e68f7d00c6df116c21507ff94e3c46efc99c782bf1d36155c224523459e",
+    "tipo": ".ybn",
+    "cabecalho": [
+      927159122,
+      43,
+      604110850,
+      2952790016
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 36864,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixa_ppl.yft",
+    "bytes": 23064,
+    "sha256": "1880354e5a7a0710ba38e6da266890e9a5953bb89644d01516dd7fb4c57c05a0",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixa_ppl.ytd",
+    "bytes": 2734,
+    "sha256": "66a671143cf255d12b19b614c978724e0e6bf386644e468714d807a0b04019c6",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792004
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 139264,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_1.yft",
+    "bytes": 21848,
+    "sha256": "d35bf8441920044b72fe17d5214667042221ec63215ee5e454bc78fae53f354b",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_1.ytd",
+    "bytes": 91180,
+    "sha256": "ceb1059b3e1f3f44925895934d0a0440cac37467ffe2fa25f3bf3c844e9fdf86",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792006
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 532480,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_2.yft",
+    "bytes": 21860,
+    "sha256": "577c726a5287bd0a9a1d841fe50f61764dcee2973ac484bdbf5f30fcc46fb5b5",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_2.ytd",
+    "bytes": 254810,
+    "sha256": "d4fae1348de2f5ec12d2abcce757cd2b6bc1de8896bb05bdc9158e4ad39623a9",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792007
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 1056768,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_3.yft",
+    "bytes": 21862,
+    "sha256": "3b7eff2a1340fdfe9c9f8646cc248c232d69813b2c99720986e2d80c9d11105b",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_3.ytd",
+    "bytes": 53609,
+    "sha256": "0f5815879547fcd20e46d6d68de8e950c7829580f4e7cdfeed53c421921f2d39",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792004
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 139264,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_4.yft",
+    "bytes": 21858,
+    "sha256": "57d59a27190787f1e420a4f8d91b7df6a1dc00ae5ad6850a0ac17d53f1637882",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_4.ytd",
+    "bytes": 47796,
+    "sha256": "b8bca04b9101c9565d4e22ac8888d1693bd1b14ad7a1128f03d92a539b68a977",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792007
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 1056768,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_5.yft",
+    "bytes": 22083,
+    "sha256": "8dab7603e8af3e5e5a9ccdc4c0131aa42c22cb36c38d730583f7b0cc1e1b39c2",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_5.ytd",
+    "bytes": 136460,
+    "sha256": "5025962a1c702e3b3e6b1db2fd04553932263a72f5a61d2e7df33d1e7c85d097",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792006
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 532480,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_6.yft",
+    "bytes": 21992,
+    "sha256": "8f977be9451a6341383af632cec1fcd48c9ab264c3ef56c4c39afa9fb157f7df",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_6.ytd",
+    "bytes": 255629,
+    "sha256": "05329af4cc4c28a948f6d60649b9fbf54768562358c60d5ba673dcc560ac78bf",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792007
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 1056768,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_7.yft",
+    "bytes": 21813,
+    "sha256": "5db9a3a84f7e579e128a9f51d07e627204adcba279f6626b0e50e71c3da18620",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_7.ytd",
+    "bytes": 39538,
+    "sha256": "f3a5567c1a2b45a1e69e794a1952095cd5f74a4045150db4e661755e0c02a677",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792007
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 1056768,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_8.yft",
+    "bytes": 21816,
+    "sha256": "89d5d628eb6ffcc8d9d8b4b51e415ce5f5de3b748ee8c5384b297d24116cc621",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_8.ytd",
+    "bytes": 10701,
+    "sha256": "e70f45337d160b8e61b0552b5b0bf95c61bbd516ae1f407455ed0fe616be0c22",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792007
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 1056768,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_9.yft",
+    "bytes": 21805,
+    "sha256": "651d1b33fd69fb1e34795679e69751ad1b4d50efa25c5fa44f5551629abf6188",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixaalento_9.ytd",
+    "bytes": 233306,
+    "sha256": "cd2361537d0c128d05941d99ee5cbd268fd210679353d6bf7ab8af80a805600d",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792007
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 1056768,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixafora_2.yft",
+    "bytes": 21864,
+    "sha256": "c464a9f6cb2f8c4f0304fc4a0fbe78d927b25cc2b0c5aeeba0d919d6fe0fffa4",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixafora_2.ytd",
+    "bytes": 54823,
+    "sha256": "8699de76cb27f8de5d0fc9678e3133f635d66ce6dca1de3a8e3ab4b8d3b241a6",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792005
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 270336,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixafora_3.yft",
+    "bytes": 21866,
+    "sha256": "1a5286e2e55d3938ec7df49cce5195a7aa955dd93c3d52d03c6ffac54b2eeeff",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixafora_3.ytd",
+    "bytes": 49849,
+    "sha256": "c696bce2ed6d2832805cbf6e5c4eb4001fffb80a7e3515d69a2cde92ddd48867",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792005
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 270336,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixafora_ppl.yft",
+    "bytes": 21869,
+    "sha256": "62e853ac7a43e851b2e91b5793ca4603d76f26a6bcee82099d9392742cb2fc3d",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixafora_ppl.ytd",
+    "bytes": 104286,
+    "sha256": "f766afec445d8b25b3d5a6db9d291c5cecf2dd9c03a9b6d7da127a7da5a9e4e4",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792006
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 532480,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixappl_galpao.yft",
+    "bytes": 21701,
+    "sha256": "65a641066f17a02ce3e3510d418cf8e6136786d62d101534e0a7c2c510e26941",
+    "tipo": ".yft",
+    "cabecalho": [
+      927159122,
+      162,
+      2684354624,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 131072,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixappl_galpao.ytd",
+    "bytes": 96249,
+    "sha256": "c0526688356aaa8b670d3943520a3817265992aed7111a24282e4c7cdf60f4bf",
+    "tipo": ".ytd",
+    "cabecalho": [
+      927159122,
+      13,
+      131072,
+      3489792006
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 532480,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_faixas.ymap",
+    "bytes": 1479,
+    "sha256": "b6ef2af7640011b1ebd290244ffb4d1829e09a2dee24b0bf32999496981320ff",
+    "tipo": ".ymap",
+    "cabecalho": [
+      927159122,
+      2,
+      67108868,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 16384,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_galpao_ext.ydr",
+    "bytes": 2476355,
+    "sha256": "e9bb79150ce0da8b6ec46688e45dcded2c019c87ef4e3417e40e2277497a1c28",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2835611649,
+      1342308742
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 6857728,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_galpao_ext_col.ybn",
+    "bytes": 7183,
+    "sha256": "73329fb76da0ccae86a44fa64567b4f3ce29ad8539bd529603ef46f62984a61e",
+    "tipo": ".ybn",
+    "cabecalho": [
+      927159122,
+      43,
+      604241920,
+      2952790016
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 17408,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_galpao_int.ydr",
+    "bytes": 1890900,
+    "sha256": "23b22c385d09806f4425f6b1c9813b1d369d46c4bc2edafe5fe09cc5779a9caa",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2885943296,
+      1342308742
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 6833664,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_galpao_int_col.ybn",
+    "bytes": 1534,
+    "sha256": "ae32283d82754e8a9a351d81ad0fbe53eda624d4db0a6eeae764121913814c81",
+    "tipo": ".ybn",
+    "cabecalho": [
+      927159122,
+      43,
+      537001984,
+      2952790016
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 8192,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_murga_ppl.ydr",
+    "bytes": 606125,
+    "sha256": "a1812132a2cc9e7b5b2e521916f689c721d03f4b22ec36cb9a06e724b29f6eeb",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2919497747,
+      1342177795
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 2256896,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_porta_ppl.ydr",
+    "bytes": 73609,
+    "sha256": "6e5f208fabbe79b06a74fe73a8d0509844c10c0acf335340907cc807e4014d2d",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2701262850,
+      1342439427
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 180224,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_portao_1909.ydr",
+    "bytes": 230275,
+    "sha256": "0e2e32995900bb570e441ccfc9c4a5995e4af2f30f21c0b82bd63729a79f1e54",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2885812227,
+      1342177414
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 2174976,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_portao_alento.ydr",
+    "bytes": 304986,
+    "sha256": "e6ea7bb9841a52367b65ac98bfc1084049f22473889127e8947ffbf52d8759d3",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2684356611,
+      1342177542
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 4325376,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_portao_alento2.ydr",
+    "bytes": 23896,
+    "sha256": "d86d685fd26fc7bbbe074356fd2073b0ac8d047f0eccad8b2c58db3e61a398d0",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2684616704,
+      1342177539
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 540672,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_portao_galpao.ydr",
+    "bytes": 863707,
+    "sha256": "df9f59b49bf1cb615ee6b46134c929b720e43bf7e536349fef658f514092a0b8",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2718040064,
+      1342177414
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 2107392,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_ppl_loja.ydr",
+    "bytes": 1549424,
+    "sha256": "bb6802999c1ee69519fa5d523232b9a81b8fb284a2f46c799a175fc287a0f853",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2752251955,
+      1342177670
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 8396800,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_ppl_loja2.ydr",
+    "bytes": 99369,
+    "sha256": "b6d05d4f6c9f7490145cb0368dcde821b6401c6767fb08544cd8fe767c3901eb",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2801926147,
+      1342177414
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 2220032,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_ppl_loja3.ydr",
+    "bytes": 524558,
+    "sha256": "ddfa5cb90d7ed6bfa104687a6e7ec850f915d5fa3eadac7601039591ab66e4a1",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2751729667,
+      1342177414
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 2498560,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_ppl_loja4.ydr",
+    "bytes": 330735,
+    "sha256": "25164438191d4c3c9abd13782ac9f3e0d9a247b100b5acbefc8d81753ab3740b",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2919241731,
+      1342177414
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 2519040,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_propsppl.ytyp",
+    "bytes": 891,
+    "sha256": "649e848b2132f2427e932160ee8aa666f1b6fec8f878ee916f8119da2dd74bce",
+    "tipo": ".ytyp",
+    "cabecalho": [
+      927159122,
+      2,
+      134217732,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 8192,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_quadro.ytyp",
+    "bytes": 506,
+    "sha256": "f4004839bdb78a059c8361ef326ed291ec8501c50f13299b9c4211b9d1b92765",
+    "tipo": ".ytyp",
+    "cabecalho": [
+      927159122,
+      2,
+      134217732,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 8192,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_quadroppl.ydr",
+    "bytes": 75861,
+    "sha256": "5b3d07dc560822e05dadf8159051fb28975b57c838576f17e4d3932926e4ae9a",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2751594496,
+      1342177411
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 271360,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_sede_ppl.ymap",
+    "bytes": 3465,
+    "sha256": "c951ca744882a9a9d6f3fb6b1355d3eead10553f8f6619c359215f6b080d5291",
+    "tipo": ".ymap",
+    "cabecalho": [
+      927159122,
+      2,
+      201326597,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 49152,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nexus_sedeppl.ytyp",
+    "bytes": 795,
+    "sha256": "084783d5bf0dee37ceb68d383c511ffddbd92181a80f82c00b1122e389d4b3d6",
+    "tipo": ".ytyp",
+    "cabecalho": [
+      927159122,
+      2,
+      134217732,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 8192,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/nx_alento_ext.ydr",
+    "bytes": 1048838,
+    "sha256": "1c9d7dfd413abed6e69c1d403382aa9630519a339230092dfc4dd516bff24b5f",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2701133827,
+      1359085958
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 7241728,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/portoesppl.ytyp",
+    "bytes": 674,
+    "sha256": "949de8334675f8a8b9e998547c40eeb94b87ba371b3482652e9ac8f2be5a6814",
+    "tipo": ".ytyp",
+    "cabecalho": [
+      927159122,
+      2,
+      134217732,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 8192,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/vano_muro1909_ext.model.ydr",
+    "bytes": 308686,
+    "sha256": "745d9250f658ee47ede6d2083d75b741316e23b1341d606aaca86ad8f279eb82",
+    "tipo": ".ydr",
+    "cabecalho": [
+      927159122,
+      165,
+      2684354592,
+      1342179348
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 2424832,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/vano_muro1909_ext.model.ytyp",
+    "bytes": 501,
+    "sha256": "4e6426c4feb245cbf2705fd73383f6b6bbc1fdf5bb38c8b2d55a6bf0f3145368",
+    "tipo": ".ytyp",
+    "cabecalho": [
+      927159122,
+      2,
+      134217732,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 8192,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  },
+  {
+    "arquivo": "stream/vano_murobar.ymap",
+    "bytes": 1160,
+    "sha256": "f12c29c3207d6d2f95521bf7803592ea990f00cfd53c2be8aa3e1799f786c708",
+    "tipo": ".ymap",
+    "cabecalho": [
+      927159122,
+      2,
+      134217732,
+      536870912
+    ],
+    "deflate": "OK",
+    "bytes_descomprimidos": 8192,
+    "interpretacao": "Contêiner descomprimido; malha, materiais, hierarquia e dependências ainda não decodificados."
+  }
+]

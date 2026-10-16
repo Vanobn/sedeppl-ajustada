@@ -1,0 +1,13 @@
+OBJ vano_original_nexus_galpao_ext EMPTY
+OBJ vano_original_nexus_galpao_ext.model MESH
+MATS [('pplartenexusa', 'default.sps'), ('pplartenexus', 'default.sps'), ('branconexus.001', 'default.sps'), ('telhanexusaa', 'default.sps')]
+UV ['UVMap 0']
+ATTR [('position', 'FLOAT_VECTOR'), ('.select_vert', 'BOOLEAN'), ('.edge_verts', 'INT32_2D'), ('.select_edge', 'BOOLEAN'), ('sharp_edge', 'BOOLEAN'), ('material_index', 'INT'), ('.select_poly', 'BOOLEAN'), ('sharp_face', 'BOOLEAN'), ('.corner_vert', 'INT'), ('.corner_edge', 'INT'), ('Color 1', 'BYTE_COLOR'), ('UVMap 0', 'FLOAT2')]
+MAT pplartenexusa IMAGES [('DiffuseSampler', 'pplartenexusa')]
+MAT pplartenexus IMAGES [('DiffuseSampler', 'pplartenexus')]
+MAT branconexus.001 IMAGES [('DiffuseSampler', 'branconexus')]
+MAT telhanexusaa IMAGES [('DiffuseSampler', 'telhanexusaa')]
+Blender 4.3.2
+Read blend: "/workspace/projeto-guarda-popular/vano_biblioteca_originais.blend"
+
+Blender quit
