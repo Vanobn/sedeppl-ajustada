@@ -1,0 +1,98 @@
+{
+  "vano_sede_master.blend": {
+    "bytes": 139476197,
+    "sha256": "321a2a7b53b12850c2787f2ec3df840e82d567ba676b78a951245ad74e90d698"
+  },
+  "vano_relatorio.md": {
+    "bytes": 11295,
+    "sha256": "3f66a57d6aa311fc72c349fde31cd94bc2ba021c229a0ee930c6a84f45a468be"
+  },
+  "vano_perspectiva.png": {
+    "bytes": 2007592,
+    "sha256": "dc5f3e420ba39e1a01002b4190060cd3f8132c6597a9abf878f9d4d1573f76fc"
+  },
+  "vano_frente.png": {
+    "bytes": 2173137,
+    "sha256": "96678065b32d649106776e16a1d5c66c8c41177ef461b2558700dce7bf86c164"
+  },
+  "vano_planta.png": {
+    "bytes": 3174458,
+    "sha256": "f32d7502f628992d0900825215c0a01a54b9d777bd117b0de2c82b120614a75b"
+  },
+  "vano_patio.png": {
+    "bytes": 3049962,
+    "sha256": "9dfb016b131d24666eb431a9de12a5db4c6faa2bde1961b5afc37c3e226b0b77"
+  },
+  "vano_implantacao_cotada.svg": {
+    "bytes": 2420,
+    "sha256": "7d9e59a5543aa46325328fa7e3fce7dd7f850af69998cdb398988aa8c67a9aab"
+  },
+  "vano_medidas.json": {
+    "bytes": 3361,
+    "sha256": "0227c2a58e6c385c31defd212b589e5542b64d06344984003e394de4cc9686c5"
+  },
+  "vano_validacao.json": {
+    "bytes": 2687,
+    "sha256": "930aedba205a3d72c40140bbc1fad4bbe385c5f2ddb747c2aa4761a6f520bba6"
+  },
+  "vano_reaproveitamento.json": {
+    "bytes": 1551,
+    "sha256": "df9e24871fb921ba2b0fff07f6a6cfad7b838fec454b9724028d45dab3a545a1"
+  },
+  "inventario.json": {
+    "bytes": 35176,
+    "sha256": "63974a10b7fd61962717c13688d503078a0f94b5fe27e345b15578be584f9920"
+  },
+  "analise_modelos.json": {
+    "bytes": 31918,
+    "sha256": "ff41878c5a89f3263ac1fbee5b123bed8176e09562dd809209f122f7832667d2"
+  },
+  "variantes_texturas.json": {
+    "bytes": 3924,
+    "sha256": "e188047b33f81d7bc0748a658ce6084efab5ad10d6c5fa78c8a0c242ce743930"
+  },
+  "texturas.json": {
+    "bytes": 10573,
+    "sha256": "4169bd8016ce5ae7c4ca8938c831d8989cc8329890efc6d85bd1960b3136d63d"
+  },
+  "hierarquias_ytyp.json": {
+    "bytes": 6686,
+    "sha256": "c1bd3941ca1721d77120f78517ea32f9e823dfe43e8b870a9b3009a6ac4d56a6"
+  },
+  "gerar_base.py": {
+    "bytes": 10988,
+    "sha256": "a830f2baeb115a6cad5475b5475dee86cc04719c0e3597f8ad2f55027e349f24"
+  },
+  "desenvolver.py": {
+    "bytes": 14815,
+    "sha256": "be7d6781d9cf06d95f1089ea6ba9a779a2deb0c58b928625c62a3ddd59a7a9bd"
+  },
+  "importar_originais.py": {
+    "bytes": 4531,
+    "sha256": "2d422bccd37a2017f3bb55250f1d91f686fd849f63dad7646fb7a05c2e1330d4"
+  },
+  "inspecionar.py": {
+    "bytes": 1799,
+    "sha256": "d45635f4c18581120e40bf0cf332b120490d312465fe629ef1ba28b8745a6b10"
+  },
+  "analisar_xml.py": {
+    "bytes": 1763,
+    "sha256": "3eb0a01784ade809c262ad1d515c415772bb120270d5819fe921700b85172b88"
+  },
+  "preparar_cameras.py": {
+    "bytes": 1082,
+    "sha256": "72069c5d9474a0cc108abc5915b52549591da1e55e7503be2a600301dcaa7386"
+  },
+  "preservar_variantes.py": {
+    "bytes": 1535,
+    "sha256": "7d9ebd4adbfda648febe13fa51b69d1d497da31dad4018fe2ee8f58c0ecd72e1"
+  },
+  "validar_master.py": {
+    "bytes": 2452,
+    "sha256": "1fa0c5d29ab78a82e4ddbe80e510b3bc9273a25a287aa7c10099980870a9cfcd"
+  },
+  "relatar.py": {
+    "bytes": 13766,
+    "sha256": "9152ccf517939e62e33705232ae9e0f99f1528b7723bc8257f0fb9b6d25aa66b"
+  }
+}

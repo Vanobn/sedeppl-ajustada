@@ -1,0 +1,32 @@
+{
+  "pplartenexusa.dds": {
+    "6181c03f1c85840065b73f3f5f4ba6c093e05e1042da9eca0bf277a99653286f": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_galpao_int.ydr/pplartenexusa.dds",
+    "f9a7bdb589702aa908c5e781b658a96312f796385b606c71266576760c9dc773": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_galpao_ext.ydr/pplartenexusa.dds"
+  },
+  "ppl.dds": {
+    "edc1ab669f3d990b70fc8a6a365ee5bfcb78aaee86e77b3eeb0f88c45d184f1a": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixappl_galpao.ytd/ppl.dds",
+    "7537b3f988672dc44386bab6c0df3ec0316f21ab94a82aba94cb89d4b340716a": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixafora_2.ytd/ppl.dds",
+    "5be358ec696818c695ab7f94ff1ec941d445d6508bffd9b37970ead5b42fa950": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixafora_ppl.ytd/ppl.dds",
+    "13e8cb41539b74541a05ac176f838cca7981dbf68f4fc8ca0d0eba755440ac95": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixa_ppl.ytd/ppl.dds",
+    "14033a22b3be99c056f99d9277be33bacbb8d8271067640809d3dad670015025": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixaalento_9.ytd/ppl.dds",
+    "09c102dea2a595c0fc1f8e24ad50bf3ae98ec6f527fa6b737fd1776e4468cc1d": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixaalento_3.ytd/ppl.dds",
+    "522b589c8e293f95768bb41f6c181c2f19934c58c0d94952db01722c905f6d98": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixaalento_8.ytd/ppl.dds",
+    "8cabb5641e542942caf77df0a1ff37674a6864394920b8833d4ebaf907bf3787": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_bandeira_galpao.ytd/ppl.dds",
+    "9a51d3ce52870eff2d5be6d1153f42a754c698c876742fb6f1b6ed0d86012d97": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixaalento_2.ytd/ppl.dds",
+    "40870d8219f07a2794f40c9776e9ad875537ea57569f8653a12d29d67db043e0": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_bandeira_galpao2.ytd/ppl.dds",
+    "45e5ae259e9cf8988244c25634efa90b23dd7daa1d08309a1b30fe723299cee4": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixaalento_1.ytd/ppl.dds",
+    "2c75715292bdf00fcd225b15c0ae583d68e32d0b786b62f134e79258ed097dde": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixaalento_6.ytd/ppl.dds",
+    "de487e3d0b34464c7571466e90c7128184a01a4ac7bb796670ee5dc1b64f2683": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixafora_3.ytd/ppl.dds",
+    "d193345a5d25c8daa90fd73a9bd85836c079c87190e6105cacc2f020c24cce4c": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixaalento_5.ytd/ppl.dds",
+    "d0b64081746d35f460dfeecb86cbb396cbadd526d91a7e2b81ab6ff9aabe5c28": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixaalento_7.ytd/ppl.dds",
+    "a7fc86ee49f15cc84ef68eae7611daef2c9d1d5098d3956818cb58a8d81851be": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_faixaalento_4.ytd/ppl.dds"
+  },
+  "preto.dds": {
+    "d3df80245c77fa5c230879ebadc1afed15de12ffc57cb6b40b21a71fc4696ecd": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_ppl_loja2.ydr/preto.dds",
+    "1555552cca743f71355cd03bf114e0fd60b2e7629b8c0efac997962120907873": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_alento_int.ydr/preto.dds"
+  },
+  "gz_v_cl_low_frank05.dds": {
+    "ffd5a5f885584ff7660b8ffe38fb0bfb16676b26a10742362797b48cb7c503e3": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_ppl_loja3.ydr/gz_v_cl_low_frank05.dds",
+    "2cb3ba4b24f79ec1b0e47167d9f0b91f77d58b74067b1d5d43b425ae9bd9705e": "/workspace/projeto-guarda-popular/convertidos/texturas_por_asset/nexus_ppl_loja4.ydr/gz_v_cl_low_frank05.dds"
+  }
+}

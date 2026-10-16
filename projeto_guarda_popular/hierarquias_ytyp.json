@@ -1,0 +1,322 @@
+[
+  {
+    "arquivo": "portoesppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_portao_alento",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "portoesppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_portao_alento2",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "portoesppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_portao_galpao",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "portoesppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_portao_1909",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "portoesppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_porta_ppl",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixa_ppl",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixaalento_1",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixaalento_2",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixaalento_3",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixaalento_4",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixaalento_5",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixaalento_6",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixaalento_7",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixaalento_8",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixaalento_9",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixappl_galpao",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_bandeira_galpao",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_bandeira_galpao2",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixafora_ppl",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixafora_2",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_faixafora_3",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_propsppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_ppl_loja",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_propsppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "hash_3CC90123",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_propsppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_ppl_loja2",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_propsppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "hash_9E2922F8",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_propsppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_ppl_loja3",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_propsppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "hash_4F06ACD3",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_propsppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_ppl_loja4",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_propsppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "hash_975D6A61",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_propsppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_murga_ppl",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_propsppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "hash_44A22397",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_quadro.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_quadroppl",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_quadro.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "hash_E2B55D30",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_sedeppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_alento_int",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_sedeppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_alento_ext",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_sedeppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_galpao_ext",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_sedeppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_galpao_int",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_sedeppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_bar1909_ext",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "nexus_sedeppl.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "nexus_bar1909_int",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  },
+  {
+    "arquivo": "vano_muro1909_ext.model.ytyp.xml",
+    "tipo": "CBaseArchetypeDef",
+    "nome": "vano_muro1909_ext.model",
+    "salas": 0,
+    "portais": 0,
+    "entidades": 0
+  }
+]

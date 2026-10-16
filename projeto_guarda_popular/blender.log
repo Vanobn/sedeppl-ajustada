@@ -1,0 +1,866 @@
+Blender 4.3.2
+Fra:1 Mem:49.62M (Peak 49.62M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Perimetro ocupado 58 x 60
+Fra:1 Mem:49.63M (Peak 49.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vaga demarcacao.001
+Fra:1 Mem:49.63M (Peak 49.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vaga fundo
+Fra:1 Mem:49.63M (Peak 49.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vaga demarcacao.003
+Fra:1 Mem:49.63M (Peak 49.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vaga fundo.001
+Fra:1 Mem:49.64M (Peak 49.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vaga demarcacao.004
+Fra:1 Mem:49.64M (Peak 49.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vaga fundo.002
+Fra:1 Mem:49.64M (Peak 49.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Laje terreo
+Fra:1 Mem:49.64M (Peak 49.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Laje pavimento
+Fra:1 Mem:49.64M (Peak 49.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Laje pavimento.001
+Fra:1 Mem:49.64M (Peak 49.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Parede fundos
+Fra:1 Mem:49.64M (Peak 49.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Parede lateral
+Fra:1 Mem:49.65M (Peak 49.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Parede lateral.001
+Fra:1 Mem:49.65M (Peak 49.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Faixa fachada
+Fra:1 Mem:49.65M (Peak 49.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Faixa fachada.001
+Fra:1 Mem:49.65M (Peak 49.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Faixa fachada.002
+Fra:1 Mem:49.65M (Peak 49.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar fachada
+Fra:1 Mem:49.65M (Peak 49.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar fachada.001
+Fra:1 Mem:49.65M (Peak 49.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar fachada.002
+Fra:1 Mem:49.66M (Peak 49.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vidro
+Fra:1 Mem:49.66M (Peak 49.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Montante
+Fra:1 Mem:49.66M (Peak 49.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Caixilho.001
+Fra:1 Mem:49.66M (Peak 49.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vidro.001
+Fra:1 Mem:49.66M (Peak 49.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Montante.001
+Fra:1 Mem:49.66M (Peak 49.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Caixilho.002
+Fra:1 Mem:49.66M (Peak 49.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vidro.002
+Fra:1 Mem:49.67M (Peak 49.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Montante.002
+Fra:1 Mem:49.67M (Peak 49.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Caixilho.003
+Fra:1 Mem:49.67M (Peak 49.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vidro.003
+Fra:1 Mem:49.70M (Peak 49.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Montante.003
+Fra:1 Mem:49.78M (Peak 49.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Caixilho.004
+Fra:1 Mem:49.84M (Peak 49.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vidro.004
+Fra:1 Mem:49.87M (Peak 49.87M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Montante.004
+Fra:1 Mem:49.87M (Peak 49.87M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Caixilho.005
+Fra:1 Mem:49.89M (Peak 49.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vidro.005
+Fra:1 Mem:49.89M (Peak 49.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Montante.005
+Fra:1 Mem:49.89M (Peak 49.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Marquise entrada
+Fra:1 Mem:50.01M (Peak 50.01M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Identificacao 1909
+Fra:1 Mem:50.25M (Peak 50.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada
+Fra:1 Mem:50.25M (Peak 50.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.001
+Fra:1 Mem:50.25M (Peak 50.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.003
+Fra:1 Mem:50.25M (Peak 50.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.004
+Fra:1 Mem:50.26M (Peak 50.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.005
+Fra:1 Mem:50.26M (Peak 50.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.006
+Fra:1 Mem:50.26M (Peak 50.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.007
+Fra:1 Mem:50.26M (Peak 50.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.008
+Fra:1 Mem:50.26M (Peak 50.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.009
+Fra:1 Mem:50.26M (Peak 50.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.010
+Fra:1 Mem:50.26M (Peak 50.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.011
+Fra:1 Mem:50.26M (Peak 50.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.012
+Fra:1 Mem:50.27M (Peak 50.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.013
+Fra:1 Mem:50.27M (Peak 50.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.014
+Fra:1 Mem:50.27M (Peak 50.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.015
+Fra:1 Mem:50.27M (Peak 50.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.016
+Fra:1 Mem:50.27M (Peak 50.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.017
+Fra:1 Mem:50.27M (Peak 50.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.018
+Fra:1 Mem:50.28M (Peak 50.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.019
+Fra:1 Mem:50.28M (Peak 50.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Piso boteco
+Fra:1 Mem:50.28M (Peak 50.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Fundo boteco
+Fra:1 Mem:50.28M (Peak 50.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cobertura boteco
+Fra:1 Mem:50.28M (Peak 50.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar boteco
+Fra:1 Mem:50.28M (Peak 50.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar boteco.001
+Fra:1 Mem:50.28M (Peak 50.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar boteco.002
+Fra:1 Mem:50.29M (Peak 50.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar boteco.003
+Fra:1 Mem:50.29M (Peak 50.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Boteco placa
+Fra:1 Mem:50.33M (Peak 50.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Balcao tampo
+Fra:1 Mem:50.51M (Peak 50.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Testeira
+Fra:1 Mem:50.72M (Peak 50.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico
+Fra:1 Mem:50.72M (Peak 50.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica
+Fra:1 Mem:50.72M (Peak 50.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.001
+Fra:1 Mem:50.72M (Peak 50.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica
+Fra:1 Mem:50.72M (Peak 50.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.001
+Fra:1 Mem:50.73M (Peak 50.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.003
+Fra:1 Mem:50.73M (Peak 50.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.004
+Fra:1 Mem:50.73M (Peak 50.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.005
+Fra:1 Mem:50.73M (Peak 50.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.006
+Fra:1 Mem:50.73M (Peak 50.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.007
+Fra:1 Mem:50.73M (Peak 50.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.002
+Fra:1 Mem:50.73M (Peak 50.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.003
+Fra:1 Mem:50.74M (Peak 50.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.003
+Fra:1 Mem:50.74M (Peak 50.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.004
+Fra:1 Mem:50.74M (Peak 50.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.005
+Fra:1 Mem:50.74M (Peak 50.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.008
+Fra:1 Mem:50.74M (Peak 50.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.009
+Fra:1 Mem:50.74M (Peak 50.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.010
+Fra:1 Mem:50.74M (Peak 50.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.011
+Fra:1 Mem:50.75M (Peak 50.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.012
+Fra:1 Mem:50.75M (Peak 50.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.013
+Fra:1 Mem:50.75M (Peak 50.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.015
+Fra:1 Mem:50.75M (Peak 50.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.004
+Fra:1 Mem:50.75M (Peak 50.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.005
+Fra:1 Mem:50.75M (Peak 50.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.008
+Fra:1 Mem:50.76M (Peak 50.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.016
+Fra:1 Mem:50.76M (Peak 50.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.017
+Fra:1 Mem:50.76M (Peak 50.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.018
+Fra:1 Mem:50.76M (Peak 50.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.019
+Fra:1 Mem:50.76M (Peak 50.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.020
+Fra:1 Mem:50.77M (Peak 50.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.021
+Fra:1 Mem:50.77M (Peak 50.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.022
+Fra:1 Mem:50.77M (Peak 50.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.023
+Fra:1 Mem:50.77M (Peak 50.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.006
+Fra:1 Mem:50.77M (Peak 50.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.007
+Fra:1 Mem:50.77M (Peak 50.77M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.009
+Fra:1 Mem:50.77M (Peak 50.77M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.010
+Fra:1 Mem:50.78M (Peak 50.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.024
+Fra:1 Mem:50.78M (Peak 50.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.025
+Fra:1 Mem:50.78M (Peak 50.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.026
+Fra:1 Mem:50.78M (Peak 50.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.027
+Fra:1 Mem:50.78M (Peak 50.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.028
+Fra:1 Mem:50.78M (Peak 50.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.029
+Fra:1 Mem:50.78M (Peak 50.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.030
+Fra:1 Mem:50.79M (Peak 50.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.031
+Fra:1 Mem:50.79M (Peak 50.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.008
+Fra:1 Mem:50.79M (Peak 50.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.009
+Fra:1 Mem:50.79M (Peak 50.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.012
+Fra:1 Mem:50.79M (Peak 50.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.013
+Fra:1 Mem:50.80M (Peak 50.80M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.032
+Fra:1 Mem:50.80M (Peak 50.80M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.033
+Fra:1 Mem:50.80M (Peak 50.80M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.034
+Fra:1 Mem:50.80M (Peak 50.80M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mural tipografico
+Fra:1 Mem:50.80M (Peak 50.80M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.037
+Fra:1 Mem:50.84M (Peak 50.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.038
+Fra:1 Mem:50.93M (Peak 50.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.039
+Fra:1 Mem:50.98M (Peak 50.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Terca
+Fra:1 Mem:50.98M (Peak 50.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Terca.001
+Fra:1 Mem:51.01M (Peak 51.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Terca.004
+Fra:1 Mem:51.01M (Peak 51.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Agua cobertura
+Fra:1 Mem:51.02M (Peak 51.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Agua cobertura.001
+Fra:1 Mem:51.05M (Peak 51.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Fundo galpao
+Fra:1 Mem:51.15M (Peak 51.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mural subtitulo
+Fra:1 Mem:51.65M (Peak 51.65M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Piso oficina
+Fra:1 Mem:51.65M (Peak 51.65M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Placa oficina
+Fra:1 Mem:51.68M (Peak 51.68M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Testeira oficina
+Fra:1 Mem:51.91M (Peak 51.91M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Coluna elevador
+Fra:1 Mem:51.91M (Peak 51.91M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Coluna elevador.001
+Fra:1 Mem:51.91M (Peak 51.91M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Braco elevador.001
+Fra:1 Mem:51.92M (Peak 51.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Bancada oficina
+Fra:1 Mem:51.92M (Peak 51.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pneu.001
+Fra:1 Mem:51.92M (Peak 51.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Bancada oficina.001
+Fra:1 Mem:51.93M (Peak 51.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pneu.002
+Fra:1 Mem:51.93M (Peak 51.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pneu.003
+Fra:1 Mem:51.94M (Peak 51.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pneu.004
+Fra:1 Mem:51.95M (Peak 51.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pneu.005
+Fra:1 Mem:51.95M (Peak 51.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro lateral.001
+Fra:1 Mem:51.95M (Peak 51.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro fundos
+Fra:1 Mem:51.95M (Peak 51.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo
+Fra:1 Mem:51.96M (Peak 51.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical
+Fra:1 Mem:51.96M (Peak 51.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.002
+Fra:1 Mem:51.96M (Peak 51.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.003
+Fra:1 Mem:51.97M (Peak 51.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.004
+Fra:1 Mem:51.97M (Peak 51.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.004
+Fra:1 Mem:51.97M (Peak 51.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.005
+Fra:1 Mem:51.97M (Peak 51.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.005
+Fra:1 Mem:51.97M (Peak 51.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.007
+Fra:1 Mem:51.97M (Peak 51.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.007
+Fra:1 Mem:51.98M (Peak 51.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.008
+Fra:1 Mem:51.98M (Peak 51.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.008
+Fra:1 Mem:51.98M (Peak 51.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.009
+Fra:1 Mem:51.98M (Peak 51.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.009
+Fra:1 Mem:51.98M (Peak 51.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.010
+Fra:1 Mem:51.98M (Peak 51.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.011
+Fra:1 Mem:51.99M (Peak 51.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.011
+Fra:1 Mem:51.99M (Peak 51.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.012
+Fra:1 Mem:51.99M (Peak 51.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.013
+Fra:1 Mem:51.99M (Peak 51.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.013
+Fra:1 Mem:51.99M (Peak 51.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.014
+Fra:1 Mem:51.99M (Peak 51.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.014
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.015
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.016
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.016
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.017
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.018
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.018
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.019
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.019
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.020
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.021
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.021
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.022
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.022
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.023
+Fra:1 Mem:52.02M (Peak 52.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.023
+Fra:1 Mem:52.02M (Peak 52.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade
+Fra:1 Mem:52.02M (Peak 52.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.001
+Fra:1 Mem:52.02M (Peak 52.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.002
+Fra:1 Mem:52.02M (Peak 52.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.004
+Fra:1 Mem:52.02M (Peak 52.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.005
+Fra:1 Mem:52.02M (Peak 52.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.007
+Fra:1 Mem:52.03M (Peak 52.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.008
+Fra:1 Mem:52.03M (Peak 52.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.009
+Fra:1 Mem:52.03M (Peak 52.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.010
+Fra:1 Mem:52.03M (Peak 52.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.012
+Fra:1 Mem:52.03M (Peak 52.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.014
+Fra:1 Mem:52.04M (Peak 52.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.015
+Fra:1 Mem:52.04M (Peak 52.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.016
+Fra:1 Mem:52.04M (Peak 52.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.018
+Fra:1 Mem:52.04M (Peak 52.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.019
+Fra:1 Mem:52.04M (Peak 52.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.020
+Fra:1 Mem:52.04M (Peak 52.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.021
+Fra:1 Mem:52.04M (Peak 52.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.022
+Fra:1 Mem:52.05M (Peak 52.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.023
+Fra:1 Mem:52.05M (Peak 52.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.025
+Fra:1 Mem:52.05M (Peak 52.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.026
+Fra:1 Mem:52.05M (Peak 52.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.027
+Fra:1 Mem:52.05M (Peak 52.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.028
+Fra:1 Mem:52.05M (Peak 52.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.030
+Fra:1 Mem:52.06M (Peak 52.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.031
+Fra:1 Mem:52.06M (Peak 52.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.033
+Fra:1 Mem:52.07M (Peak 52.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.034
+Fra:1 Mem:52.07M (Peak 52.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.035
+Fra:1 Mem:52.07M (Peak 52.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.036
+Fra:1 Mem:52.07M (Peak 52.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.037
+Fra:1 Mem:52.07M (Peak 52.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.038
+Fra:1 Mem:52.07M (Peak 52.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.039
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.040
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.041
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.042
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.044
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.045
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.046
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.024
+Fra:1 Mem:52.09M (Peak 52.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.025
+Fra:1 Mem:52.09M (Peak 52.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.026
+Fra:1 Mem:52.09M (Peak 52.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.026
+Fra:1 Mem:52.09M (Peak 52.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.027
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.027
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.028
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.029
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.029
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.030
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.030
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.031
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.031
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.032
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.032
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.033
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.033
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.034
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.034
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.035
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.035
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.036
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.037
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.038
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.038
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.039
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.040
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.041
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.041
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.042
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.042
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.043
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.043
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.044
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.044
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.045
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.046
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.046
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.047
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.047
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.048
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.049
+Fra:1 Mem:52.16M (Peak 52.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.051
+Fra:1 Mem:52.16M (Peak 52.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.052
+Fra:1 Mem:52.16M (Peak 52.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.053
+Fra:1 Mem:52.16M (Peak 52.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.056
+Fra:1 Mem:52.16M (Peak 52.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.057
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.058
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.060
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.061
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.062
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.063
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.064
+Fra:1 Mem:52.18M (Peak 52.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.065
+Fra:1 Mem:52.18M (Peak 52.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.067
+Fra:1 Mem:52.18M (Peak 52.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.069
+Fra:1 Mem:52.18M (Peak 52.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.070
+Fra:1 Mem:52.18M (Peak 52.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.072
+Fra:1 Mem:52.18M (Peak 52.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.073
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.074
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.075
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.076
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.077
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.078
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.079
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.080
+Fra:1 Mem:52.25M (Peak 52.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.081
+Fra:1 Mem:52.26M (Peak 52.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.082
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.083
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.084
+Fra:1 Mem:52.26M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.085
+Fra:1 Mem:52.26M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.086
+Fra:1 Mem:52.26M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.087
+Fra:1 Mem:52.26M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.088
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.089
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.090
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.091
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.092
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.093
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.094
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.095
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar entrada
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar entrada.001
+Fra:1 Mem:52.28M (Peak 52.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Portao deslizante — animacao estudo
+Fra:1 Mem:52.28M (Peak 52.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Painel portao
+Fra:1 Mem:52.28M (Peak 52.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_REUSO vano muro XML
+Fra:1 Mem:52.28M (Peak 52.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_REUSO vano muro XML.001
+Fra:1 Mem:52.28M (Peak 52.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mesa
+Fra:1 Mem:52.35M (Peak 52.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento
+Fra:1 Mem:52.35M (Peak 52.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira
+Fra:1 Mem:52.36M (Peak 52.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.001
+Fra:1 Mem:52.37M (Peak 52.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.001
+Fra:1 Mem:52.37M (Peak 52.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.002
+Fra:1 Mem:52.37M (Peak 52.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.003
+Fra:1 Mem:52.37M (Peak 52.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.002
+Fra:1 Mem:52.37M (Peak 52.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.004
+Fra:1 Mem:52.38M (Peak 52.38M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.005
+Fra:1 Mem:52.39M (Peak 52.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.003
+Fra:1 Mem:52.39M (Peak 52.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.006
+Fra:1 Mem:52.41M (Peak 52.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.007
+Fra:1 Mem:52.41M (Peak 52.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mesa.001
+Fra:1 Mem:52.41M (Peak 52.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.004
+Fra:1 Mem:52.41M (Peak 52.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.008
+Fra:1 Mem:52.44M (Peak 52.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.009
+Fra:1 Mem:52.44M (Peak 52.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.005
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.010
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.011
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.006
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.012
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.013
+Fra:1 Mem:52.48M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.007
+Fra:1 Mem:52.48M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.014
+Fra:1 Mem:52.47M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.015
+Fra:1 Mem:52.47M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.008
+Fra:1 Mem:52.47M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.016
+Fra:1 Mem:52.48M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.017
+Fra:1 Mem:52.48M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.009
+Fra:1 Mem:52.48M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.019
+Fra:1 Mem:52.48M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.010
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.020
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.021
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.011
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.022
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.023
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mesa.003
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.024
+Fra:1 Mem:52.50M (Peak 52.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.025
+Fra:1 Mem:52.50M (Peak 52.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.013
+Fra:1 Mem:52.50M (Peak 52.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.027
+Fra:1 Mem:52.50M (Peak 52.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.014
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.028
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.029
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.015
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.030
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.031
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mesa.004
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.016
+Fra:1 Mem:52.52M (Peak 52.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.032
+Fra:1 Mem:52.52M (Peak 52.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.033
+Fra:1 Mem:52.52M (Peak 52.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.017
+Fra:1 Mem:52.52M (Peak 52.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.035
+Fra:1 Mem:52.52M (Peak 52.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.018
+Fra:1 Mem:52.53M (Peak 52.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.036
+Fra:1 Mem:52.53M (Peak 52.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.037
+Fra:1 Mem:52.53M (Peak 52.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.019
+Fra:1 Mem:52.53M (Peak 52.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.038
+Fra:1 Mem:52.53M (Peak 52.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente
+Fra:1 Mem:52.54M (Peak 52.54M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo
+Fra:1 Mem:52.54M (Peak 52.54M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.001
+Fra:1 Mem:52.54M (Peak 52.54M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.002
+Fra:1 Mem:52.55M (Peak 52.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.002
+Fra:1 Mem:52.55M (Peak 52.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.003
+Fra:1 Mem:52.55M (Peak 52.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.008
+Fra:1 Mem:52.55M (Peak 52.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.004
+Fra:1 Mem:52.55M (Peak 52.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.004
+Fra:1 Mem:52.56M (Peak 52.56M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.005
+Fra:1 Mem:52.56M (Peak 52.56M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.005
+Fra:1 Mem:52.56M (Peak 52.56M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.006
+Fra:1 Mem:52.56M (Peak 52.56M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.006
+Fra:1 Mem:52.57M (Peak 52.57M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.007
+Fra:1 Mem:52.57M (Peak 52.57M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.007
+Fra:1 Mem:52.58M (Peak 52.58M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:47.46M (Peak 52.58M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading enferrujadonexus.dds
+Fra:1 Mem:47.46M (Peak 52.58M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading txtvermelha.dds
+Fra:1 Mem:43.36M (Peak 72.16M) | Time:00:00.05 | Mem:8.86M, Peak:8.86M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:43.36M (Peak 72.16M) | Time:00:00.05 | Mem:8.86M, Peak:8.86M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:43.36M (Peak 72.16M) | Time:00:00.05 | Mem:8.86M, Peak:8.86M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:43.36M (Peak 72.16M) | Time:00:00.05 | Mem:8.86M, Peak:8.86M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:43.45M (Peak 72.16M) | Time:00:00.05 | Mem:8.87M, Peak:8.87M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:43.45M (Peak 72.16M) | Time:00:00.05 | Mem:8.87M, Peak:8.87M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:43.45M (Peak 72.16M) | Time:00:00.05 | Mem:8.87M, Peak:8.87M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:43.45M (Peak 72.16M) | Time:00:00.05 | Mem:8.87M, Peak:8.87M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:43.45M (Peak 72.16M) | Time:00:00.05 | Mem:8.87M, Peak:8.87M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:43.45M (Peak 72.16M) | Time:00:00.05 | Mem:8.87M, Peak:8.87M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:43.56M (Peak 72.16M) | Time:00:00.05 | Mem:8.98M, Peak:8.98M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:43.56M (Peak 72.16M) | Time:00:00.05 | Mem:8.98M, Peak:8.98M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:43.56M (Peak 72.16M) | Time:00:00.05 | Mem:8.98M, Peak:8.98M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:43.56M (Peak 72.16M) | Time:00:00.05 | Mem:8.98M, Peak:8.98M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:43.96M (Peak 72.16M) | Time:00:00.05 | Mem:8.98M, Peak:8.98M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:44.36M (Peak 72.16M) | Time:00:00.05 | Mem:9.00M, Peak:9.00M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:44.29M (Peak 72.16M) | Time:00:00.05 | Mem:9.31M, Peak:9.31M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:44.29M (Peak 72.16M) | Time:00:00.05 | Mem:9.31M, Peak:9.31M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:44.29M (Peak 72.16M) | Time:00:00.06 | Mem:10.11M, Peak:10.11M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:44.29M (Peak 72.16M) | Time:00:00.06 | Mem:10.98M, Peak:11.78M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:44.29M (Peak 72.16M) | Time:00:00.06 | Mem:10.98M, Peak:11.78M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:45.56M (Peak 72.16M) | Time:00:00.06 | Mem:10.98M, Peak:11.78M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:45.56M (Peak 72.16M) | Time:00:00.06 | Mem:12.24M, Peak:12.24M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:45.56M (Peak 72.16M) | Time:00:00.06 | Mem:12.24M, Peak:12.24M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:45.56M (Peak 72.16M) | Time:00:00.06 | Mem:12.25M, Peak:12.25M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:45.56M (Peak 72.16M) | Time:00:00.06 | Mem:12.25M, Peak:12.25M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:45.56M (Peak 72.16M) | Time:00:00.06 | Mem:12.25M, Peak:12.25M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:45.56M (Peak 72.16M) | Time:00:00.07 | Mem:12.33M, Peak:12.33M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:45.56M (Peak 72.16M) | Time:00:00.07 | Mem:12.33M, Peak:12.33M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:45.56M (Peak 72.16M) | Time:00:00.07 | Mem:12.33M, Peak:12.33M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:45.56M (Peak 72.16M) | Time:00:00.07 | Mem:12.33M, Peak:12.33M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:45.57M (Peak 72.16M) | Time:00:00.07 | Mem:12.25M, Peak:12.33M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:45.57M (Peak 72.16M) | Time:00:00.07 | Mem:12.34M, Peak:12.34M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:45.57M (Peak 72.16M) | Time:00:00.07 | Mem:12.34M, Peak:12.34M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:45.58M (Peak 72.16M) | Time:00:00.07 | Mem:12.34M, Peak:12.34M | Scene, ViewLayer | Sample 0/32
+Fra:1 Mem:107.40M (Peak 107.40M) | Time:00:00.49 | Remaining:00:13.06 | Mem:74.15M, Peak:74.15M | Scene, ViewLayer | Sample 1/32
+Fra:1 Mem:134.87M (Peak 189.80M) | Time:00:11.97 | Mem:74.15M, Peak:74.15M | Scene, ViewLayer | Sample 32/32
+Fra:1 Mem:134.87M (Peak 189.80M) | Time:00:11.97 | Mem:74.15M, Peak:74.15M | Scene, ViewLayer | Finished
+Saved: '/workspace/projeto-guarda-popular/perspectiva.png'
+Time: 00:12.32 (Saving: 00:00.34)
+
+Fra:1 Mem:49.86M (Peak 49.86M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Perimetro ocupado 58 x 60
+Fra:1 Mem:49.86M (Peak 49.86M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vaga fundo
+Fra:1 Mem:49.86M (Peak 49.86M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vaga demarcacao.002
+Fra:1 Mem:49.86M (Peak 49.86M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vaga demarcacao.003
+Fra:1 Mem:49.86M (Peak 49.86M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vaga fundo.001
+Fra:1 Mem:49.87M (Peak 49.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vaga demarcacao.005
+Fra:1 Mem:49.87M (Peak 49.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vaga fundo.002
+Fra:1 Mem:49.87M (Peak 49.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Laje pavimento
+Fra:1 Mem:49.87M (Peak 49.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Laje pavimento.001
+Fra:1 Mem:49.87M (Peak 49.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Parede fundos
+Fra:1 Mem:49.87M (Peak 49.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Parede lateral
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Parede lateral.001
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Faixa fachada
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Identificacao
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Faixa fachada.002
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar fachada
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar fachada.001
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar fachada.003
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Caixilho
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vidro
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Montante
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Caixilho.001
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vidro.001
+Fra:1 Mem:49.88M (Peak 49.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Montante.001
+Fra:1 Mem:49.92M (Peak 49.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Caixilho.002
+Fra:1 Mem:50.01M (Peak 50.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vidro.002
+Fra:1 Mem:50.06M (Peak 50.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Montante.002
+Fra:1 Mem:50.06M (Peak 50.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Caixilho.003
+Fra:1 Mem:50.06M (Peak 50.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vidro.003
+Fra:1 Mem:50.06M (Peak 50.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Montante.003
+Fra:1 Mem:50.09M (Peak 50.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Caixilho.004
+Fra:1 Mem:50.09M (Peak 50.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vidro.004
+Fra:1 Mem:50.09M (Peak 50.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Montante.004
+Fra:1 Mem:50.09M (Peak 50.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Caixilho.005
+Fra:1 Mem:50.09M (Peak 50.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Vidro.005
+Fra:1 Mem:50.09M (Peak 50.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Montante.005
+Fra:1 Mem:50.09M (Peak 50.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Marquise entrada
+Fra:1 Mem:50.22M (Peak 50.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Identificacao 1909
+Fra:1 Mem:50.46M (Peak 50.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada
+Fra:1 Mem:50.46M (Peak 50.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.001
+Fra:1 Mem:50.46M (Peak 50.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.002
+Fra:1 Mem:50.47M (Peak 50.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.003
+Fra:1 Mem:50.47M (Peak 50.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.004
+Fra:1 Mem:50.47M (Peak 50.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.005
+Fra:1 Mem:50.47M (Peak 50.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.006
+Fra:1 Mem:50.47M (Peak 50.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.007
+Fra:1 Mem:50.47M (Peak 50.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.008
+Fra:1 Mem:50.47M (Peak 50.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.009
+Fra:1 Mem:50.47M (Peak 50.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.010
+Fra:1 Mem:50.47M (Peak 50.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.011
+Fra:1 Mem:50.47M (Peak 50.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.012
+Fra:1 Mem:50.47M (Peak 50.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.013
+Fra:1 Mem:50.47M (Peak 50.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.014
+Fra:1 Mem:50.48M (Peak 50.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.015
+Fra:1 Mem:50.48M (Peak 50.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.016
+Fra:1 Mem:50.48M (Peak 50.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.018
+Fra:1 Mem:50.48M (Peak 50.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Escada.019
+Fra:1 Mem:50.48M (Peak 50.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Piso boteco
+Fra:1 Mem:50.48M (Peak 50.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Fundo boteco
+Fra:1 Mem:50.48M (Peak 50.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cobertura boteco
+Fra:1 Mem:50.48M (Peak 50.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar boteco
+Fra:1 Mem:50.48M (Peak 50.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar boteco.002
+Fra:1 Mem:50.48M (Peak 50.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar boteco.003
+Fra:1 Mem:50.49M (Peak 50.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Balcao base
+Fra:1 Mem:50.49M (Peak 50.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Boteco placa
+Fra:1 Mem:50.53M (Peak 50.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Testeira
+Fra:1 Mem:50.92M (Peak 50.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico
+Fra:1 Mem:50.92M (Peak 50.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.001
+Fra:1 Mem:50.92M (Peak 50.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.001
+Fra:1 Mem:50.92M (Peak 50.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.002
+Fra:1 Mem:50.92M (Peak 50.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica
+Fra:1 Mem:50.92M (Peak 50.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.001
+Fra:1 Mem:50.92M (Peak 50.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.002
+Fra:1 Mem:50.92M (Peak 50.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.003
+Fra:1 Mem:50.92M (Peak 50.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.004
+Fra:1 Mem:50.92M (Peak 50.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.005
+Fra:1 Mem:50.93M (Peak 50.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.006
+Fra:1 Mem:50.93M (Peak 50.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.007
+Fra:1 Mem:50.93M (Peak 50.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.002
+Fra:1 Mem:50.93M (Peak 50.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.003
+Fra:1 Mem:50.93M (Peak 50.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.004
+Fra:1 Mem:50.93M (Peak 50.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.005
+Fra:1 Mem:50.93M (Peak 50.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.008
+Fra:1 Mem:50.93M (Peak 50.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.009
+Fra:1 Mem:50.93M (Peak 50.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.010
+Fra:1 Mem:50.93M (Peak 50.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.011
+Fra:1 Mem:50.93M (Peak 50.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.012
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.013
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.014
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.015
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.004
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.005
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.006
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.007
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.008
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.016
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.017
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.018
+Fra:1 Mem:50.94M (Peak 50.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.019
+Fra:1 Mem:50.95M (Peak 50.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.020
+Fra:1 Mem:50.95M (Peak 50.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.021
+Fra:1 Mem:50.95M (Peak 50.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.022
+Fra:1 Mem:50.95M (Peak 50.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.023
+Fra:1 Mem:50.95M (Peak 50.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.006
+Fra:1 Mem:50.95M (Peak 50.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.007
+Fra:1 Mem:50.95M (Peak 50.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.009
+Fra:1 Mem:50.95M (Peak 50.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.010
+Fra:1 Mem:50.95M (Peak 50.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.011
+Fra:1 Mem:50.95M (Peak 50.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.024
+Fra:1 Mem:50.95M (Peak 50.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.025
+Fra:1 Mem:50.95M (Peak 50.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.026
+Fra:1 Mem:50.96M (Peak 50.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.027
+Fra:1 Mem:50.96M (Peak 50.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.028
+Fra:1 Mem:50.96M (Peak 50.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.029
+Fra:1 Mem:50.96M (Peak 50.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.030
+Fra:1 Mem:50.96M (Peak 50.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.031
+Fra:1 Mem:50.96M (Peak 50.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.008
+Fra:1 Mem:50.96M (Peak 50.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar metalico.009
+Fra:1 Mem:50.96M (Peak 50.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.012
+Fra:1 Mem:50.96M (Peak 50.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.013
+Fra:1 Mem:50.96M (Peak 50.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Banzo trelica.014
+Fra:1 Mem:50.97M (Peak 50.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.033
+Fra:1 Mem:50.97M (Peak 50.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.034
+Fra:1 Mem:50.97M (Peak 50.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.035
+Fra:1 Mem:50.97M (Peak 50.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.037
+Fra:1 Mem:50.97M (Peak 50.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.038
+Fra:1 Mem:50.97M (Peak 50.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Diagonal trelica.039
+Fra:1 Mem:50.97M (Peak 50.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Terca
+Fra:1 Mem:50.97M (Peak 50.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Terca.001
+Fra:1 Mem:50.97M (Peak 50.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Terca.002
+Fra:1 Mem:50.97M (Peak 50.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Terca.003
+Fra:1 Mem:50.98M (Peak 50.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Terca.004
+Fra:1 Mem:50.98M (Peak 50.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Fundo galpao
+Fra:1 Mem:50.98M (Peak 50.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mural tipografico
+Fra:1 Mem:51.31M (Peak 51.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mural subtitulo
+Fra:1 Mem:51.81M (Peak 51.81M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Piso oficina
+Fra:1 Mem:51.81M (Peak 51.81M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Parede oficina
+Fra:1 Mem:51.81M (Peak 51.81M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Testeira oficina
+Fra:1 Mem:51.81M (Peak 51.81M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Placa oficina
+Fra:1 Mem:52.07M (Peak 52.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Coluna elevador
+Fra:1 Mem:52.07M (Peak 52.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Coluna elevador.001
+Fra:1 Mem:52.07M (Peak 52.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Bancada oficina
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pneu
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pneu.001
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Bancada oficina.001
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pneu.002
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pneu.003
+Fra:1 Mem:52.08M (Peak 52.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Bancada oficina.002
+Fra:1 Mem:52.09M (Peak 52.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pneu.004
+Fra:1 Mem:52.09M (Peak 52.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pneu.005
+Fra:1 Mem:52.09M (Peak 52.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro lateral
+Fra:1 Mem:52.09M (Peak 52.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro lateral.001
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro fundos
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.001
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.001
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.002
+Fra:1 Mem:52.10M (Peak 52.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.003
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.003
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.004
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.005
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.006
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.006
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.007
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.007
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.008
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.009
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.009
+Fra:1 Mem:52.11M (Peak 52.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.010
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.010
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.011
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.011
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.012
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.012
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.013
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.013
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.014
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.014
+Fra:1 Mem:52.12M (Peak 52.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.015
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.015
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.016
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.016
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.017
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.017
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.018
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.018
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.019
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.019
+Fra:1 Mem:52.13M (Peak 52.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.020
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.021
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.021
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.023
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.023
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.001
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.002
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.004
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.005
+Fra:1 Mem:52.14M (Peak 52.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.006
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.008
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.010
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.012
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.013
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.014
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.016
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.017
+Fra:1 Mem:52.15M (Peak 52.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.018
+Fra:1 Mem:52.16M (Peak 52.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.019
+Fra:1 Mem:52.16M (Peak 52.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.020
+Fra:1 Mem:52.16M (Peak 52.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.021
+Fra:1 Mem:52.16M (Peak 52.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.024
+Fra:1 Mem:52.16M (Peak 52.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.025
+Fra:1 Mem:52.16M (Peak 52.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.027
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.028
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.030
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.031
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.033
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.034
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.035
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.037
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.038
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.039
+Fra:1 Mem:52.17M (Peak 52.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.040
+Fra:1 Mem:52.18M (Peak 52.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.043
+Fra:1 Mem:52.18M (Peak 52.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.044
+Fra:1 Mem:52.18M (Peak 52.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.045
+Fra:1 Mem:52.18M (Peak 52.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.046
+Fra:1 Mem:52.19M (Peak 52.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.047
+Fra:1 Mem:52.19M (Peak 52.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.024
+Fra:1 Mem:52.19M (Peak 52.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.024
+Fra:1 Mem:52.19M (Peak 52.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.025
+Fra:1 Mem:52.19M (Peak 52.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.026
+Fra:1 Mem:52.19M (Peak 52.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.026
+Fra:1 Mem:52.19M (Peak 52.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.027
+Fra:1 Mem:52.19M (Peak 52.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.027
+Fra:1 Mem:52.19M (Peak 52.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.028
+Fra:1 Mem:52.19M (Peak 52.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.029
+Fra:1 Mem:52.19M (Peak 52.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.029
+Fra:1 Mem:52.20M (Peak 52.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.030
+Fra:1 Mem:52.20M (Peak 52.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.031
+Fra:1 Mem:52.20M (Peak 52.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.031
+Fra:1 Mem:52.20M (Peak 52.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.032
+Fra:1 Mem:52.20M (Peak 52.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.033
+Fra:1 Mem:52.20M (Peak 52.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.034
+Fra:1 Mem:52.20M (Peak 52.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.034
+Fra:1 Mem:52.20M (Peak 52.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.035
+Fra:1 Mem:52.20M (Peak 52.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.035
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.036
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.036
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.037
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.038
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.038
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.039
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.040
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.040
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.041
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.041
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.042
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.043
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.043
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.044
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.045
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.046
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.046
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Muro frontal curvo.047
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Grade vertical.047
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.048
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.049
+Fra:1 Mem:52.22M (Peak 52.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.051
+Fra:1 Mem:52.23M (Peak 52.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.052
+Fra:1 Mem:52.23M (Peak 52.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.053
+Fra:1 Mem:52.23M (Peak 52.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.055
+Fra:1 Mem:52.23M (Peak 52.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.056
+Fra:1 Mem:52.23M (Peak 52.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.058
+Fra:1 Mem:52.23M (Peak 52.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.059
+Fra:1 Mem:52.23M (Peak 52.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.061
+Fra:1 Mem:52.23M (Peak 52.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.062
+Fra:1 Mem:52.23M (Peak 52.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.063
+Fra:1 Mem:52.23M (Peak 52.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.064
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.065
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.066
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.067
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.068
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.070
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.071
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.072
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.074
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.075
+Fra:1 Mem:52.24M (Peak 52.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.077
+Fra:1 Mem:52.25M (Peak 52.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.078
+Fra:1 Mem:52.25M (Peak 52.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.080
+Fra:1 Mem:52.25M (Peak 52.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.081
+Fra:1 Mem:52.25M (Peak 52.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.083
+Fra:1 Mem:52.25M (Peak 52.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.084
+Fra:1 Mem:52.25M (Peak 52.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.085
+Fra:1 Mem:52.25M (Peak 52.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.086
+Fra:1 Mem:52.25M (Peak 52.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.088
+Fra:1 Mem:52.25M (Peak 52.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.090
+Fra:1 Mem:52.26M (Peak 52.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.091
+Fra:1 Mem:52.26M (Peak 52.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.092
+Fra:1 Mem:52.26M (Peak 52.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.093
+Fra:1 Mem:52.26M (Peak 52.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Corrimao grade.095
+Fra:1 Mem:52.26M (Peak 52.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Placa portao
+Fra:1 Mem:52.26M (Peak 52.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar entrada
+Fra:1 Mem:52.27M (Peak 52.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pilar entrada.001
+Fra:1 Mem:52.30M (Peak 52.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Portao deslizante — animacao estudo
+Fra:1 Mem:52.30M (Peak 52.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Painel portao
+Fra:1 Mem:52.32M (Peak 52.32M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_REUSO vano muro XML
+Fra:1 Mem:52.33M (Peak 52.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_REUSO vano muro XML.001
+Fra:1 Mem:52.33M (Peak 52.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mesa
+Fra:1 Mem:52.36M (Peak 52.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento
+Fra:1 Mem:52.39M (Peak 52.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira
+Fra:1 Mem:52.39M (Peak 52.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.001
+Fra:1 Mem:52.39M (Peak 52.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.001
+Fra:1 Mem:52.41M (Peak 52.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.002
+Fra:1 Mem:52.41M (Peak 52.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.003
+Fra:1 Mem:52.42M (Peak 52.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.002
+Fra:1 Mem:52.42M (Peak 52.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.004
+Fra:1 Mem:52.43M (Peak 52.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.005
+Fra:1 Mem:52.43M (Peak 52.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.003
+Fra:1 Mem:52.43M (Peak 52.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.006
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.007
+Fra:1 Mem:52.44M (Peak 52.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mesa.001
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.004
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.008
+Fra:1 Mem:52.44M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.009
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.005
+Fra:1 Mem:52.44M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.010
+Fra:1 Mem:52.44M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.006
+Fra:1 Mem:52.44M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.012
+Fra:1 Mem:52.44M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.013
+Fra:1 Mem:52.45M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.007
+Fra:1 Mem:52.45M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.014
+Fra:1 Mem:52.45M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.015
+Fra:1 Mem:52.45M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mesa.002
+Fra:1 Mem:52.45M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.008
+Fra:1 Mem:52.45M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.016
+Fra:1 Mem:52.45M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.017
+Fra:1 Mem:52.45M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.009
+Fra:1 Mem:52.45M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.018
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.019
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.010
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.020
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.021
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.011
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.022
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.023
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mesa.003
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.012
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.024
+Fra:1 Mem:52.47M (Peak 52.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.025
+Fra:1 Mem:52.47M (Peak 52.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.013
+Fra:1 Mem:52.47M (Peak 52.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.026
+Fra:1 Mem:52.47M (Peak 52.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.027
+Fra:1 Mem:52.47M (Peak 52.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.014
+Fra:1 Mem:52.47M (Peak 52.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.028
+Fra:1 Mem:52.47M (Peak 52.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.029
+Fra:1 Mem:52.47M (Peak 52.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.015
+Fra:1 Mem:52.47M (Peak 52.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.030
+Fra:1 Mem:52.47M (Peak 52.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.031
+Fra:1 Mem:52.47M (Peak 52.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Mesa.004
+Fra:1 Mem:52.48M (Peak 52.48M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.016
+Fra:1 Mem:52.48M (Peak 52.48M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.032
+Fra:1 Mem:52.48M (Peak 52.48M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.033
+Fra:1 Mem:52.48M (Peak 52.48M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.017
+Fra:1 Mem:52.48M (Peak 52.48M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.034
+Fra:1 Mem:52.48M (Peak 52.48M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.035
+Fra:1 Mem:52.48M (Peak 52.48M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.018
+Fra:1 Mem:52.48M (Peak 52.48M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.036
+Fra:1 Mem:52.48M (Peak 52.48M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.037
+Fra:1 Mem:52.48M (Peak 52.48M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Assento.019
+Fra:1 Mem:52.48M (Peak 52.48M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.038
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pe cadeira.039
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.001
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.001
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.002
+Fra:1 Mem:52.49M (Peak 52.49M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.002
+Fra:1 Mem:52.50M (Peak 52.50M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.003
+Fra:1 Mem:52.50M (Peak 52.50M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.003
+Fra:1 Mem:52.50M (Peak 52.50M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.004
+Fra:1 Mem:52.50M (Peak 52.50M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.004
+Fra:1 Mem:52.50M (Peak 52.50M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.005
+Fra:1 Mem:52.50M (Peak 52.50M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.005
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.006
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.006
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.007
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.007
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Pendente.008
+Fra:1 Mem:52.51M (Peak 52.51M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | vano_Cabo.008
+Fra:1 Mem:52.52M (Peak 52.52M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:47.40M (Peak 52.52M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading enferrujadonexus.dds
+Fra:1 Mem:47.40M (Peak 52.52M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading txtvermelha.dds
+Fra:1 Mem:43.36M (Peak 72.11M) | Time:00:00.06 | Mem:8.86M, Peak:8.86M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:43.36M (Peak 72.11M) | Time:00:00.06 | Mem:8.86M, Peak:8.86M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:43.36M (Peak 72.11M) | Time:00:00.06 | Mem:8.86M, Peak:8.86M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:43.36M (Peak 72.11M) | Time:00:00.06 | Mem:8.86M, Peak:8.86M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:43.45M (Peak 72.11M) | Time:00:00.06 | Mem:8.87M, Peak:8.87M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:43.45M (Peak 72.11M) | Time:00:00.06 | Mem:8.87M, Peak:8.87M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:43.45M (Peak 72.11M) | Time:00:00.06 | Mem:8.87M, Peak:8.87M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:43.45M (Peak 72.11M) | Time:00:00.06 | Mem:8.87M, Peak:8.87M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:43.45M (Peak 72.11M) | Time:00:00.06 | Mem:8.87M, Peak:8.87M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:43.45M (Peak 72.11M) | Time:00:00.06 | Mem:8.87M, Peak:8.87M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:43.55M (Peak 72.11M) | Time:00:00.06 | Mem:8.98M, Peak:8.98M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:43.55M (Peak 72.11M) | Time:00:00.06 | Mem:8.98M, Peak:8.98M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:43.55M (Peak 72.11M) | Time:00:00.06 | Mem:8.98M, Peak:8.98M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:43.56M (Peak 72.11M) | Time:00:00.06 | Mem:8.98M, Peak:8.98M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:43.95M (Peak 72.11M) | Time:00:00.06 | Mem:8.98M, Peak:8.98M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:44.35M (Peak 72.11M) | Time:00:00.06 | Mem:9.00M, Peak:9.00M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:44.28M (Peak 72.11M) | Time:00:00.06 | Mem:9.31M, Peak:9.31M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:44.29M (Peak 72.11M) | Time:00:00.06 | Mem:9.31M, Peak:9.31M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:44.29M (Peak 72.11M) | Time:00:00.06 | Mem:10.10M, Peak:10.10M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:44.29M (Peak 72.11M) | Time:00:00.06 | Mem:10.98M, Peak:11.77M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:44.29M (Peak 72.11M) | Time:00:00.06 | Mem:10.98M, Peak:11.77M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:45.55M (Peak 72.11M) | Time:00:00.06 | Mem:10.98M, Peak:11.77M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:45.55M (Peak 72.11M) | Time:00:00.06 | Mem:12.24M, Peak:12.24M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:45.55M (Peak 72.11M) | Time:00:00.06 | Mem:12.24M, Peak:12.24M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:45.55M (Peak 72.11M) | Time:00:00.06 | Mem:12.24M, Peak:12.24M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:45.55M (Peak 72.11M) | Time:00:00.06 | Mem:12.24M, Peak:12.24M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:45.55M (Peak 72.11M) | Time:00:00.06 | Mem:12.24M, Peak:12.24M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:45.55M (Peak 72.11M) | Time:00:00.06 | Mem:12.32M, Peak:12.32M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:45.56M (Peak 72.11M) | Time:00:00.06 | Mem:12.33M, Peak:12.33M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:45.56M (Peak 72.11M) | Time:00:00.06 | Mem:12.33M, Peak:12.33M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:45.56M (Peak 72.11M) | Time:00:00.06 | Mem:12.33M, Peak:12.33M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:45.56M (Peak 72.11M) | Time:00:00.06 | Mem:12.25M, Peak:12.33M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:45.56M (Peak 72.11M) | Time:00:00.06 | Mem:12.33M, Peak:12.33M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:45.56M (Peak 72.11M) | Time:00:00.06 | Mem:12.33M, Peak:12.33M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:45.57M (Peak 72.11M) | Time:00:00.06 | Mem:12.33M, Peak:12.33M | Scene, ViewLayer | Sample 0/32
+Fra:1 Mem:108.08M (Peak 108.08M) | Time:00:01.11 | Remaining:00:32.39 | Mem:74.83M, Peak:74.83M | Scene, ViewLayer | Sample 1/32
+Fra:1 Mem:135.86M (Peak 191.40M) | Time:00:27.54 | Mem:74.83M, Peak:74.83M | Scene, ViewLayer | Sample 32/32
+Fra:1 Mem:135.86M (Peak 191.40M) | Time:00:27.54 | Mem:74.83M, Peak:74.83M | Scene, ViewLayer | Finished
+Saved: '/workspace/projeto-guarda-popular/planta.png'
+Time: 00:27.75 (Saving: 00:00.20)
+
+Info: Packed 2 file(s)
+Info: Saved "vano_sede_master.blend"
+{"largura": 58.0, "comprimento": 60.0, "area_envelope": 3480.0, "altura_acima_piso": 10.169771194458008, "margem_area": 20.0, "margem_altura": 4.830228805541992, "altura_muros": 3.0, "margem_muros": 5.6, "triangulos_base": 6845}
+
+Blender quit

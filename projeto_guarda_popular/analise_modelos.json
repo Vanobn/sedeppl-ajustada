@@ -1,0 +1,1680 @@
+[
+  {
+    "arquivo": "ch1_06b_2.ybn.xml",
+    "raiz": "BoundsFile"
+  },
+  {
+    "arquivo": "ch1_06b_emissive.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -23.97461,
+      -49.54248,
+      -7.1567383
+    ],
+    "max": [
+      23.97461,
+      130.41699,
+      15.336426
+    ],
+    "dimensoes": [
+      47.94922,
+      179.95947,
+      22.4931643
+    ],
+    "vertices": 1748,
+    "triangulos": 896,
+    "geometrias": 4,
+    "materiais": [
+      {
+        "shader": "emissive.sps",
+        "texturas": [
+          "im_emissive_window_012"
+        ]
+      },
+      {
+        "shader": "emissive.sps",
+        "texturas": [
+          "im_emissive_window_011"
+        ]
+      },
+      {
+        "shader": "emissive.sps",
+        "texturas": [
+          "im_emissive_window_005"
+        ]
+      },
+      {
+        "shader": "emissive.sps",
+        "texturas": [
+          "im_emissive_window_004"
+        ]
+      },
+      {
+        "shader": "emissive.sps",
+        "texturas": [
+          "im_emissive_window_001"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": [
+      "im_emissive_window_001",
+      "im_emissive_window_004",
+      "im_emissive_window_005",
+      "im_emissive_window_011",
+      "im_emissive_window_012"
+    ]
+  },
+  {
+    "arquivo": "ch1_06b_fur_06.ydr.xml",
+    "raiz": "Drawable",
+    "vertices": 0,
+    "triangulos": 0,
+    "geometrias": 0,
+    "materiais": [
+      {
+        "shader": "grass_fur_mask.sps",
+        "texturas": [
+          "im_grass11b_fur_hf_B",
+          "fur_grass_n_fade",
+          "im_grass11b_fur_HF",
+          "fur_grass_rgba4_0",
+          "fur_grass_rgba4_1",
+          "fur_grass_rgba4_2",
+          "fur_grass_rgba4_3",
+          "CH1_06b_grass_mask",
+          "CH1_06b_grass_area",
+          "txstipple"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": [
+      "CH1_06b_grass_area",
+      "CH1_06b_grass_mask",
+      "fur_grass_n_fade",
+      "fur_grass_rgba4_0",
+      "fur_grass_rgba4_1",
+      "fur_grass_rgba4_2",
+      "fur_grass_rgba4_3",
+      "im_grass11b_fur_HF",
+      "im_grass11b_fur_hf_B",
+      "txstipple"
+    ]
+  },
+  {
+    "arquivo": "ch1_06b_plot1.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -32.598145,
+      -28.576172,
+      -4.4526367
+    ],
+    "max": [
+      32.598145,
+      28.576172,
+      3.175293
+    ],
+    "dimensoes": [
+      65.19629,
+      57.152344,
+      7.6279297
+    ],
+    "vertices": 8426,
+    "triangulos": 5674,
+    "geometrias": 10,
+    "materiais": [
+      {
+        "shader": "normal_spec.sps",
+        "texturas": [
+          "rsn_am_hedge_03",
+          "rsn_am_hedge_03_n",
+          "rsn_am_hedge_03_s"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "concretogdf_d"
+        ]
+      },
+      {
+        "shader": "normal.sps",
+        "texturas": [
+          "os_ml_bhsteps_0001",
+          "os_ml_bhsteps_0001_n"
+        ]
+      },
+      {
+        "shader": "normal_spec.sps",
+        "texturas": [
+          "rsn_mjg_im_ground_bricks03",
+          "rsn_mjg_im_ground_bricks03_n",
+          "rsn_mjg_im_ground_bricks03_s"
+        ]
+      },
+      {
+        "shader": "normal.sps",
+        "texturas": [
+          "im_steps_03",
+          "im_steps_03_n"
+        ]
+      },
+      {
+        "shader": "normal_spec.sps",
+        "texturas": [
+          "im_floortiles02",
+          "im_floortiles02_n",
+          "im_floortiles03_s"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "sm1_12_rnim_pooltiles02"
+        ]
+      },
+      {
+        "shader": "normal_spec.sps",
+        "texturas": [
+          "os_ml_hhsptile_0002",
+          "os_ml_hhsptile_0002_n",
+          "os_ml_hhsptile_0002_s"
+        ]
+      },
+      {
+        "shader": "normal.sps",
+        "texturas": [
+          "os_mlhxd_wall_0007",
+          "os_mlhxd_wall_0007_n"
+        ]
+      },
+      {
+        "shader": "normal_spec.sps",
+        "texturas": [
+          "im_wood_panels_05",
+          "im_wood_panels_05_n",
+          "im_wood_panels_05_s"
+        ]
+      },
+      {
+        "shader": "normal_spec.sps",
+        "texturas": [
+          "rsn_dc_wooden_wall_0001",
+          "rsn_dc_wooden_wall_0001_n",
+          "rsn_dc_wooden_wall_0001_s"
+        ]
+      },
+      {
+        "shader": "normal.sps",
+        "texturas": [
+          "bh1_48_rsn_am_michaelshouse_wall_bits",
+          "bh1_48_rsn_am_michaelshouse_wall_bits_n"
+        ]
+      },
+      {
+        "shader": "normal_spec_pxm.sps",
+        "texturas": [
+          "sjm_vbwall2",
+          "sjm_vbwall2_rp_h",
+          "sjm_vbwall2_rp_n",
+          "sjm_vbwall2_rp_s"
+        ]
+      },
+      {
+        "shader": "normal_spec.sps",
+        "texturas": [
+          "ch1_06_tw_ledges2",
+          "ch1_06_tw_ledges2_n",
+          "ch1_06_tw_ledges2_s"
+        ]
+      },
+      {
+        "shader": "terrain_cb_w_4lyr_pxm.sps",
+        "texturas": [
+          "im_grass11b",
+          "im_grass07_n",
+          "nxg_im_grass07_h",
+          "im_grass10b",
+          "im_grass07_n",
+          "nxg_im_grass07_h",
+          "im_grass03",
+          "im_grass02_n",
+          "nxg_im_grass02_h",
+          "im_grass02",
+          "im_grass02_n",
+          "nxg_im_grass02_h"
+        ]
+      },
+      {
+        "shader": "normal_pxm.sps",
+        "texturas": [
+          "cs_rsn_sl_dryhills_rock_03",
+          "nxg_cs_rsn_sl_dryhills_rock_03_h",
+          "cs_rsn_sl_dryhills_rock_03_n"
+        ]
+      },
+      {
+        "shader": "emissive.sps",
+        "texturas": [
+          "im_interiorfake_04"
+        ]
+      },
+      {
+        "shader": "normal.sps",
+        "texturas": [
+          "im_wall23",
+          "im_wall23_n"
+        ]
+      },
+      {
+        "shader": "normal.sps",
+        "texturas": [
+          "os_ml_bhsteps_0002",
+          "os_ml_bhsteps_0002_n"
+        ]
+      },
+      {
+        "shader": "normal_spec_tnt.sps",
+        "texturas": [
+          "im_roof04",
+          "ch1_06b_plot1_pal",
+          "im_roof4_n",
+          "im_roof04_s3"
+        ]
+      },
+      {
+        "shader": "normal.sps",
+        "texturas": [
+          "os_ml_vnwall_0001",
+          "os_ml_vnwall_0001_n"
+        ]
+      },
+      {
+        "shader": "spec_const.sps",
+        "texturas": [
+          "ch1_06b_windows"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "ch1_06b_windows"
+        ]
+      },
+      {
+        "shader": "normal_spec.sps",
+        "texturas": [
+          "ch1_06_tw_doors",
+          "ch1_06_tw_doors_n",
+          "ch1_06_tw_doors_s"
+        ]
+      },
+      {
+        "shader": "normal_spec.sps",
+        "texturas": [
+          "ch1_06b_tw_ledges",
+          "ch1_06b_tw_ledges_n",
+          "ch1_06b_tw_ledges_s"
+        ]
+      },
+      {
+        "shader": "normal.sps",
+        "texturas": [
+          "ch1_06b_windows",
+          "im_glass_n"
+        ]
+      },
+      {
+        "shader": "normal_pxm.sps",
+        "texturas": [
+          "am_glue_dirtbrown",
+          "nxg_am_glue_dirtbrown_h",
+          "am_glue_dirtbrown_n"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": [
+      "bh1_48_rsn_am_michaelshouse_wall_bits",
+      "ch1_06_tw_doors",
+      "ch1_06_tw_doors_n",
+      "ch1_06_tw_doors_s",
+      "ch1_06_tw_ledges2",
+      "ch1_06_tw_ledges2_n",
+      "ch1_06_tw_ledges2_s",
+      "ch1_06b_tw_ledges",
+      "ch1_06b_tw_ledges_n",
+      "ch1_06b_tw_ledges_s",
+      "ch1_06b_windows",
+      "im_floortiles02",
+      "im_floortiles03_s",
+      "im_grass02",
+      "im_grass02_n",
+      "im_grass03",
+      "im_grass07_n",
+      "im_grass10b",
+      "im_grass11b",
+      "im_roof04",
+      "im_roof04_s3",
+      "im_roof4_n",
+      "im_steps_03",
+      "im_steps_03_n",
+      "im_wall23",
+      "im_wall23_n",
+      "im_wood_panels_05",
+      "im_wood_panels_05_n",
+      "im_wood_panels_05_s",
+      "nxg_im_grass02_h",
+      "nxg_im_grass07_h",
+      "os_ml_bhsteps_0001",
+      "os_ml_bhsteps_0001_n",
+      "os_ml_bhsteps_0002",
+      "os_ml_bhsteps_0002_n",
+      "os_ml_hhsptile_0002",
+      "os_ml_hhsptile_0002_n",
+      "os_ml_hhsptile_0002_s",
+      "os_mlhxd_wall_0007",
+      "os_mlhxd_wall_0007_n",
+      "rsn_am_hedge_03",
+      "rsn_am_hedge_03_n",
+      "rsn_am_hedge_03_s",
+      "rsn_dc_wooden_wall_0001",
+      "rsn_dc_wooden_wall_0001_n",
+      "rsn_dc_wooden_wall_0001_s",
+      "rsn_mjg_im_ground_bricks03",
+      "rsn_mjg_im_ground_bricks03_n",
+      "rsn_mjg_im_ground_bricks03_s",
+      "sm1_12_rnim_pooltiles02"
+    ]
+  },
+  {
+    "arquivo": "ch1_06b_strm_1.ymap.xml",
+    "raiz": "CMapData"
+  },
+  {
+    "arquivo": "ch1_occl_01.ymap.xml",
+    "raiz": "CMapData"
+  },
+  {
+    "arquivo": "colsedeppl.col.ybn.xml",
+    "raiz": "BoundsFile"
+  },
+  {
+    "arquivo": "faixappl.ytyp.xml",
+    "raiz": "CMapTypes"
+  },
+  {
+    "arquivo": "hei_ch1_06b_long_1.ymap.xml",
+    "raiz": "CMapData"
+  },
+  {
+    "arquivo": "hei_ch1_06b_strm_1.ymap.xml",
+    "raiz": "CMapData"
+  },
+  {
+    "arquivo": "hi@ch1_06b_2.ybn.xml",
+    "raiz": "BoundsFile"
+  },
+  {
+    "arquivo": "nexus_alento_ext.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -35.661198,
+      -15.391471,
+      -0.0231593
+    ],
+    "max": [
+      5.0005856,
+      -6.7939053,
+      5.6336627
+    ],
+    "dimensoes": [
+      40.6617836,
+      8.5975657,
+      5.656822
+    ],
+    "vertices": 3541,
+    "triangulos": 1557,
+    "geometrias": 7,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "tijoloalentonexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "paredenexusfora"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "enferrujadonexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "texturachaoalentonexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "telhaalentonexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          null
+        ]
+      },
+      {
+        "shader": "glass_pv_env.sps",
+        "texturas": [
+          "vidropplnexus"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_alento_ext_col.ybn.xml",
+    "raiz": "BoundsFile"
+  },
+  {
+    "arquivo": "nexus_alento_int.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -35.66121,
+      -15.391444,
+      -0.0140581
+    ],
+    "max": [
+      -4.834899,
+      -6.8386564,
+      5.5411735
+    ],
+    "dimensoes": [
+      30.826310999999997,
+      8.5527876,
+      5.5552316
+    ],
+    "vertices": 8786,
+    "triangulos": 3643,
+    "geometrias": 15,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "tijoloalentonexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "madeirapretanexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "branconexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "portaofechadonexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "portaofechadonexus2"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "branconexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "branconexus"
+        ]
+      },
+      {
+        "shader": "glass_pv_env.sps",
+        "texturas": [
+          "vidrocinza"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "preto"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "marmorebancadanexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "pisomarmorenexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "madeirapretanexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "banheirofeminino"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "banheiromasculinho"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "paredenexusfora"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "enferrujadonexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "texturachaoalentonexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "telhaalentonexus"
+        ]
+      },
+      {
+        "shader": "glass_pv_env.sps",
+        "texturas": [
+          "vidropplnexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "madeirapretanexus"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_alento_int_col.ybn.xml",
+    "raiz": "BoundsFile"
+  },
+  {
+    "arquivo": "nexus_bandeira_galpao.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_bandeira_galpao.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_bandeira_galpao2.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_bandeira_galpao2.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_bar1909_ext.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -18.743507,
+      -29.454046,
+      -0.0140591
+    ],
+    "max": [
+      5.0006046,
+      -15.121153,
+      10.751197
+    ],
+    "dimensoes": [
+      23.7441116,
+      14.332893000000002,
+      10.7652561
+    ],
+    "vertices": 9733,
+    "triangulos": 4377,
+    "geometrias": 15,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "parede1nexusppl"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "paredelisanexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "paredebejenexus"
+        ]
+      },
+      {
+        "shader": "decal.sps",
+        "texturas": [
+          "hospiciocolorado"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "paredebrancanexustextura"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "parede2nexusppl"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "paredelisanexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "dz909nexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "paredebejenexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "telhanexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "texturacinzanexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "paredebejenexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "concreto1909"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "txtvermelha"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "enferrujadonexus"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_bar1909_ext_col.ybn.xml",
+    "raiz": "BoundsFile"
+  },
+  {
+    "arquivo": "nexus_bar1909_int.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -18.174412,
+      -24.369297,
+      0.2279663
+    ],
+    "max": [
+      -2.3645315,
+      -15.675351,
+      8.05463
+    ],
+    "dimensoes": [
+      15.8098805,
+      8.693946,
+      7.826663699999999
+    ],
+    "vertices": 1773,
+    "triangulos": 901,
+    "geometrias": 4,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "texturaconcretovermelho"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "chaovermelho"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "madeiravermelha"
+        ]
+      },
+      {
+        "shader": "decal.sps",
+        "texturas": [
+          "PPL"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_bar1909_int_col.ybn.xml",
+    "raiz": "BoundsFile"
+  },
+  {
+    "arquivo": "nexus_faixa_ppl.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixa_ppl.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixaalento_1.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixaalento_1.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixaalento_2.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixaalento_2.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixaalento_3.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixaalento_3.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixaalento_4.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixaalento_4.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixaalento_5.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixaalento_5.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixaalento_6.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixaalento_6.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixaalento_7.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixaalento_7.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixaalento_8.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixaalento_8.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixaalento_9.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixaalento_9.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixafora_2.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixafora_2.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixafora_3.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixafora_3.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixafora_ppl.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixafora_ppl.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixappl_galpao.yft.xml",
+    "raiz": "Fragment"
+  },
+  {
+    "arquivo": "nexus_faixappl_galpao.ytd.xml",
+    "raiz": "TextureDictionary"
+  },
+  {
+    "arquivo": "nexus_faixas.ymap.xml",
+    "raiz": "CMapData"
+  },
+  {
+    "arquivo": "nexus_galpao_ext.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -4.922982,
+      -8.989869,
+      -0.014058
+    ],
+    "max": [
+      4.993896,
+      8.969238,
+      7.311056
+    ],
+    "dimensoes": [
+      9.916878,
+      17.959107000000003,
+      7.325114
+    ],
+    "vertices": 705,
+    "triangulos": 310,
+    "geometrias": 4,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "pplartenexusa"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "pplartenexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "branconexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "pplartenexusdentro"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "telhanexusaa"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_galpao_ext_col.ybn.xml",
+    "raiz": "BoundsFile"
+  },
+  {
+    "arquivo": "nexus_galpao_int.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -4.922982,
+      -8.968643,
+      -0.0110298
+    ],
+    "max": [
+      4.922982,
+      8.969166,
+      7.120515
+    ],
+    "dimensoes": [
+      9.845964,
+      17.937809,
+      7.1315448
+    ],
+    "vertices": 100,
+    "triangulos": 37,
+    "geometrias": 3,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "pplartenexusa"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "pplartenexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "branconexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "pplartenexusdentro"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "telhanexusaa"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_galpao_int_col.ybn.xml",
+    "raiz": "BoundsFile"
+  },
+  {
+    "arquivo": "nexus_murga_ppl.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -0.1769234,
+      -0.4081282,
+      -0.4196481
+    ],
+    "max": [
+      0.0750929,
+      0.4163263,
+      0.5312628
+    ],
+    "dimensoes": [
+      0.2520163,
+      0.8244545,
+      0.9509109
+    ],
+    "vertices": 23763,
+    "triangulos": 7924,
+    "geometrias": 5,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "douradobaterianexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "peleppl"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "cinzabaterianexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "bateriappl"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "cinzabaterianexus"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_porta_ppl.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -1.1994138,
+      -0.0942366,
+      -1.1499023
+    ],
+    "max": [
+      0.0004883,
+      0.0853885,
+      1.1335455
+    ],
+    "dimensoes": [
+      1.1999021,
+      0.1796251,
+      2.2834478000000002
+    ],
+    "vertices": 704,
+    "triangulos": 510,
+    "geometrias": 3,
+    "materiais": [
+      {
+        "shader": "spec.sps",
+        "texturas": [
+          "mh_v_fh_doorhandle2_d",
+          "mh_v_fh_doorhandle2_d"
+        ]
+      },
+      {
+        "shader": "normal_detail.sps",
+        "texturas": [
+          "tl_v_michael_doors",
+          "env_woodgrain",
+          "tl_v_michael_doors_n"
+        ]
+      },
+      {
+        "shader": "spec.sps",
+        "texturas": [
+          "mh_v_aph_doorknob_d",
+          "mh_v_aph_doorknob_d"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": [
+      "env_woodgrain",
+      "mh_v_aph_doorknob_d",
+      "mh_v_fh_doorhandle2_d"
+    ]
+  },
+  {
+    "arquivo": "nexus_portao_1909.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -0.0058594,
+      -0.0014555,
+      -0.0126953
+    ],
+    "max": [
+      4.1341953,
+      0.0375501,
+      2.0869858
+    ],
+    "dimensoes": [
+      4.1400547,
+      0.0390056,
+      2.0996810999999997
+    ],
+    "vertices": 1219,
+    "triangulos": 480,
+    "geometrias": 1,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "enferrujadonexus"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_portao_alento.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -3.802599,
+      -0.0239261,
+      -2.1870117
+    ],
+    "max": [
+      3.739203,
+      0.0698271,
+      1.2614932
+    ],
+    "dimensoes": [
+      7.541802,
+      0.09375320000000001,
+      3.4485048999999997
+    ],
+    "vertices": 3132,
+    "triangulos": 1152,
+    "geometrias": 2,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "nexusalento"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "enferrujadonexus"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_portao_alento2.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -1.7540114,
+      -0.0601741,
+      -2.1163726
+    ],
+    "max": [
+      1.7540123,
+      0.0601742,
+      2.0858622
+    ],
+    "dimensoes": [
+      3.5080237,
+      0.12034829999999999,
+      4.2022348
+    ],
+    "vertices": 140,
+    "triangulos": 52,
+    "geometrias": 2,
+    "materiais": [
+      {
+        "shader": "glass_pv_env.sps",
+        "texturas": [
+          "vidrocinza"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "portaopreto"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_portao_galpao.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -2.2698944,
+      -0.1463199,
+      -2.1870117
+    ],
+    "max": [
+      2.342162,
+      0.0239258,
+      0.4267119
+    ],
+    "dimensoes": [
+      4.6120564,
+      0.1702457,
+      2.6137235999999997
+    ],
+    "vertices": 75,
+    "triangulos": 26,
+    "geometrias": 1,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "pplartenexus"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_ppl_loja.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -0.8448187,
+      -3.3643296,
+      -1.6824559
+    ],
+    "max": [
+      0.4592928,
+      3.6449864,
+      1.9785904
+    ],
+    "dimensoes": [
+      1.3041115,
+      7.009316,
+      3.6610462999999998
+    ],
+    "vertices": 35030,
+    "triangulos": 19464,
+    "geometrias": 10,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "ferro"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "ferro"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "cabide"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "regatappl"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "TEXTLOJA"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "camisappl"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "cabide"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "regatappl"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "XJ_V_Office_ELEVATOR"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "gz_V_CL_Hanger"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_ppl_loja2.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -0.0359797,
+      -0.5516715,
+      -0.7134016
+    ],
+    "max": [
+      0.0645952,
+      0.546999,
+      0.5388967
+    ],
+    "dimensoes": [
+      0.10057490000000001,
+      1.0986704999999999,
+      1.2522983
+    ],
+    "vertices": 1194,
+    "triangulos": 1466,
+    "geometrias": 3,
+    "materiais": [
+      {
+        "shader": "reflect.sps",
+        "texturas": [
+          "preto",
+          "None"
+        ]
+      },
+      {
+        "shader": "glass_pv_env.sps",
+        "texturas": [
+          "glassloja"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "camisappl"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": [
+      "None"
+    ]
+  },
+  {
+    "arquivo": "nexus_ppl_loja3.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -0.2637272,
+      -1.3885387,
+      -0.7270371
+    ],
+    "max": [
+      0.2753348,
+      1.2262074,
+      0.4499809
+    ],
+    "dimensoes": [
+      0.5390619999999999,
+      2.6147461,
+      1.177018
+    ],
+    "vertices": 4437,
+    "triangulos": 5370,
+    "geometrias": 3,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "ferro"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "cabide"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "gz_v_cl_low_frank05"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_ppl_loja4.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -0.3370795,
+      -1.1006796,
+      -0.7431576
+    ],
+    "max": [
+      0.3311435,
+      1.0653363,
+      0.6035225
+    ],
+    "dimensoes": [
+      0.668223,
+      2.1660159,
+      1.3466801
+    ],
+    "vertices": 5640,
+    "triangulos": 4810,
+    "geometrias": 3,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "gz_v_cl_metal03"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "gz_v_cl_low_frank05"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "gz_v_cl_low_frank05"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_propsppl.ytyp.xml",
+    "raiz": "CMapTypes"
+  },
+  {
+    "arquivo": "nexus_quadro.ytyp.xml",
+    "raiz": "CMapTypes"
+  },
+  {
+    "arquivo": "nexus_quadroppl.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -0.5431228,
+      -0.0153544,
+      -0.6316893
+    ],
+    "max": [
+      0.5431228,
+      0.0153544,
+      0.6316893
+    ],
+    "dimensoes": [
+      1.0862456,
+      0.0307088,
+      1.2633786
+    ],
+    "vertices": 24,
+    "triangulos": 12,
+    "geometrias": 1,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "pplagradecimento"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "nexus_sede_ppl.ymap.xml",
+    "raiz": "CMapData"
+  },
+  {
+    "arquivo": "nexus_sedeppl.ytyp.xml",
+    "raiz": "CMapTypes"
+  },
+  {
+    "arquivo": "nx_alento_ext.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -21.696299,
+      -4.278472,
+      -2.5661306
+    ],
+    "max": [
+      18.965485,
+      4.319093,
+      3.090691
+    ],
+    "dimensoes": [
+      40.661784,
+      8.597565,
+      5.656821600000001
+    ],
+    "vertices": 3648,
+    "triangulos": 1557,
+    "geometrias": 7,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "tijoloalentonexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "paredenexusfora"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "enferrujadonexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "texturachaoalentonexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "telhaalentonexus"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          null
+        ]
+      },
+      {
+        "shader": "glass_pv_env.sps",
+        "texturas": [
+          "vidropplnexus"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "portoesppl.ytyp.xml",
+    "raiz": "CMapTypes"
+  },
+  {
+    "arquivo": "vano_muro1909_ext.model.ydr.xml",
+    "raiz": "Drawable",
+    "min": [
+      -3.4657598,
+      -29.454046,
+      -0.0140591
+    ],
+    "max": [
+      5.0006037,
+      -29.237555,
+      3.4101388
+    ],
+    "dimensoes": [
+      8.4663635,
+      0.21649100000000132,
+      3.4241979
+    ],
+    "vertices": 1531,
+    "triangulos": 713,
+    "geometrias": 2,
+    "materiais": [
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "txtvermelha"
+        ]
+      },
+      {
+        "shader": "default.sps",
+        "texturas": [
+          "enferrujadonexus"
+        ]
+      }
+    ],
+    "texturas_nao_encontradas": []
+  },
+  {
+    "arquivo": "vano_muro1909_ext.model.ytyp.xml",
+    "raiz": "CMapTypes"
+  },
+  {
+    "arquivo": "vano_murobar.ymap.xml",
+    "raiz": "CMapData"
+  }
+]

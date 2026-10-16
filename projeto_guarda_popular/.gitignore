@@ -1,0 +1,8 @@
+*.blend1
+__pycache__/
+ferramentas/conversor/bin/
+ferramentas/conversor/obj/
+# Os masters descompactados são gerados localmente a partir dos arquivos .gz/ZIP.
+vano_sede_master.blend
+vano_biblioteca_originais.blend
+convertidos/
