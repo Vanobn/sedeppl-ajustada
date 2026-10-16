@@ -1,0 +1,18 @@
+INFO: Starting export...
+INFO: Successfully exported 'ap_mlo'
+INFO: Successfully exported 'ap_exterior'
+INFO: Successfully exported 'ap_oficina'
+INFO: Successfully exported 'ap_arquetipos'
+INFO: Exported in 0.308 seconds
+Info: Starting export...
+Info: Successfully exported 'ap_mlo'
+Info: Successfully exported 'ap_exterior'
+Info: Successfully exported 'ap_oficina'
+Info: Successfully exported 'ap_arquetipos'
+Info: Exported in 0.308 seconds
+Info: Saved "alemao_pneus_master.blend"
+LODS {'ap_exterior': {'high': 6904, 'medium': 3452, 'low': 1726}, 'ap_oficina': {'high': 3920, 'medium': 1960, 'low': 980}}
+Blender 4.3.2
+Read blend: "/workspace/sedeppl-ajustada/alemao_pneus/blender/alemao_pneus_master.blend"
+
+Blender quit

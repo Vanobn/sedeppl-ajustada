@@ -1,0 +1,110 @@
+[
+  {
+    "nome": "ap_vermelho",
+    "resolucao": [
+      256,
+      256
+    ],
+    "mips": 9,
+    "dds_bytes": 87536
+  },
+  {
+    "nome": "ap_branco",
+    "resolucao": [
+      256,
+      256
+    ],
+    "mips": 9,
+    "dds_bytes": 87536
+  },
+  {
+    "nome": "ap_metal",
+    "resolucao": [
+      256,
+      256
+    ],
+    "mips": 9,
+    "dds_bytes": 87536
+  },
+  {
+    "nome": "ap_borracha",
+    "resolucao": [
+      128,
+      128
+    ],
+    "mips": 8,
+    "dds_bytes": 22000
+  },
+  {
+    "nome": "ap_cromado",
+    "resolucao": [
+      128,
+      128
+    ],
+    "mips": 8,
+    "dds_bytes": 22000
+  },
+  {
+    "nome": "ap_concreto",
+    "resolucao": [
+      512,
+      512
+    ],
+    "mips": 10,
+    "dds_bytes": 349680
+  },
+  {
+    "nome": "ap_telha",
+    "resolucao": [
+      256,
+      256
+    ],
+    "mips": 9,
+    "dds_bytes": 87536
+  },
+  {
+    "nome": "ap_preto",
+    "resolucao": [
+      128,
+      128
+    ],
+    "mips": 8,
+    "dds_bytes": 22000
+  },
+  {
+    "nome": "ap_vidro",
+    "resolucao": [
+      128,
+      128
+    ],
+    "mips": 8,
+    "dds_bytes": 22000
+  },
+  {
+    "nome": "ap_placa_sem_telefone",
+    "resolucao": [
+      1024,
+      256
+    ],
+    "mips": 11,
+    "dds_bytes": 349712
+  },
+  {
+    "nome": "ap_bandeira_brasil",
+    "resolucao": [
+      256,
+      256
+    ],
+    "mips": 9,
+    "dds_bytes": 87536
+  },
+  {
+    "nome": "ap_bandeira_rs_estudo",
+    "resolucao": [
+      256,
+      256
+    ],
+    "mips": 9,
+    "dds_bytes": 87536
+  }
+]

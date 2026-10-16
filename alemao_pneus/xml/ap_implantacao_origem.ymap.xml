@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CMapData>
+  <name>ap_implantacao_origem</name>
+  <parent />
+  <flags value="0" />
+  <contentFlags value="1" />
+  <streamingExtentsMin x="-208.82499980926514" y="-203.20000004768372" z="-200.18000000715256" />
+  <streamingExtentsMax x="204.49499988555908" y="218.39999961853027" z="206.4249997138977" />
+  <entitiesExtentsMin x="-8.824999809265137" y="-3.200000047683716" z="-0.18000000715255737" />
+  <entitiesExtentsMax x="4.494999885559082" y="18.399999618530273" z="6.424999713897705" />
+  <entities>
+    <Item type="CMloInstanceDef">
+      <archetypeName>ap_mlo</archetypeName>
+      <flags value="32" />
+      <guid value="0" />
+      <position x="0" y="0" z="0" />
+      <rotation x="0" y="0" z="0" w="1" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="180" />
+      <childLodDist value="0" />
+      <numChildren value="0" />
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+      <groupId value="0" />
+      <floorId value="0" />
+      <numExitPortals value="1" />
+      <MLOInstflags value="0" />
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions />
+      <defaultEntitySets />
+    </Item>
+  </entities>
+  <containerLods />
+  <boxOccluders />
+  <occludeModels />
+  <physicsDictionaries />
+  <instancedData />
+  <timeCycleModifiers />
+  <carGenerators />
+  <LODLightsSOA />
+  <DistantLODLightsSOA />
+  <block>
+    <version value="0" />
+    <flags value="0" />
+    <name>ap_implantacao_origem</name>
+    <exportedBy>vano_boteco_colorado</exportedBy>
+    <owner />
+    <time />
+  </block>
+</CMapData>

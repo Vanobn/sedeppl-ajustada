@@ -1,0 +1,62 @@
+{
+  "ap_arquetipos.ytyp": {
+    "bytes": 1301,
+    "sha256": "826436f903528ffbc9c225088fdc81936a36bea904d65d4824fd7258a978bc3f",
+    "descomprimido": 8192,
+    "versao": 2
+  },
+  "ap_exterior.ydr": {
+    "bytes": 342167,
+    "sha256": "45c5f538327b192fa6ce66a28d2e675b2921b060f7a7b0978f82f94da3d08fb3",
+    "descomprimido": 1277952,
+    "versao": 165
+  },
+  "ap_mlo.ybn": {
+    "bytes": 7179,
+    "sha256": "130acb15361a1903a120fdf339819463823d8cec13809b4ebdd474e170768520",
+    "descomprimido": 16384,
+    "versao": 43
+  },
+  "ap_oficina.ydr": {
+    "bytes": 181502,
+    "sha256": "eafefaffe92b84ab450e78db9b7dad00b5fd9cdfb6ef9c9934ba8e4d955126e3",
+    "descomprimido": 720896,
+    "versao": 165
+  },
+  "ap_texturas.ytd": {
+    "bytes": 348717,
+    "sha256": "f93e9bf54108908d2061ff647afb719a64567cee99232a0e9a615889c1bcfcbb",
+    "descomprimido": 1581056,
+    "versao": 13
+  },
+  "ap_implantacao_origem.ymap": {
+    "bytes": 1106,
+    "sha256": "2406922d419e5abd3476aa90dfce84a4f3c704099492e53bf3cb12a8c74905fc",
+    "descomprimido": 8192,
+    "versao": 2
+  },
+  "MLO": {
+    "salas": [
+      "limbo",
+      "oficina"
+    ],
+    "portais": [
+      [
+        0,
+        1
+      ]
+    ],
+    "entidades": 2,
+    "conectividade": "todas as salas acessíveis a partir do exterior",
+    "texturas": 12,
+    "luzes_com_horario_e_sombra": 8,
+    "triangulos": {
+      "ap_exterior.ydr.xml": 6904,
+      "ap_oficina.ydr.xml": 3920
+    },
+    "triangulos_colisao": 432,
+    "compilados": 6,
+    "instancia_exemplo": "CMloInstanceDef",
+    "teste_no_jogo": false
+  }
+}
