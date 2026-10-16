@@ -5,7 +5,17 @@ from mathutils.bvhtree import BVHTree
 P=Path(__file__).resolve().parents[1];sys.path[:0]=[os.getenv('VANO_TOOLS','/workspace/tools'),os.getenv('VANO_TOOLS','/workspace/tools')+'/pydeps']
 import addon_utils;addon_utils.enable('Sollumz',default_set=True,persistent=True)
 bpy.ops.wm.open_mainfile(filepath=str(P/'blender/vano_boteco_colorado_master.blend'))
-col=bpy.data.objects['vano_bc_colisao_malha'];me=col.data;me.calc_loop_triangles();verts=[col.matrix_world@v.co for v in me.vertices];tris=[tuple(t.vertices) for t in me.loop_triangles];bvh=BVHTree.FromPolygons(verts,tris,all_triangles=True)
+compiled='--colisao-compilada' in sys.argv
+col=bpy.data.objects['vano_bc_colisao_malha']
+if compiled:
+ before=set(bpy.data.objects)
+ result=bpy.ops.sollumz.import_assets(directory=str(P/'relatorios/roundtrip'),files=[{'name':'vano_bc_mlo.ybn.xml'}])
+ assert result=={'FINISHED'}
+ meshes=[o for o in set(bpy.data.objects)-before if o.type=='MESH']
+ assert len(meshes)==1
+ col=meshes[0]
+ bpy.context.view_layer.update()
+me=col.data;me.calc_loop_triangles();verts=[col.matrix_world@v.co for v in me.vertices];tris=[tuple(t.vertices) for t in me.loop_triangles];bvh=BVHTree.FromPolygons(verts,tris,all_triangles=True)
 checks=[]
 def cast(name,a,b,expect_hit):
  direction=Vector(b)-Vector(a);hit=bvh.ray_cast(Vector(a),direction.normalized(),direction.length)[0];ok=(hit is not None)==expect_hit;checks.append({'nome':name,'passou':ok,'atingiu_colisao':hit is not None,'ponto':list(hit) if hit else None});assert ok,name
@@ -24,4 +34,5 @@ images=[]
 for img in bpy.data.images:
  if img.source=='FILE':images.append({'nome':img.name,'empacotada':img.packed_file is not None,'dimensoes':list(img.size)});assert img.packed_file and img.size[0]>0
 report={'cheques_de_colisao':checks,'passaram':sum(c['passou'] for c in checks),'salas':len(archetype.rooms),'portais':len(archetype.portals),'entidades':len(archetype.entities),'ids_de_sala_colisao':sorted({m.collision_properties.room_id for m in me.materials}),'texturas':images,'limite_validacao':'Raios em BVH e dados de arquivo; não é teste do motor GTA/FiveM.'}
-(P/'relatorios/validacao_blender.json').write_text(json.dumps(report,indent=2,ensure_ascii=False));print('PASS',report['passaram'],'checagens físicas; 5 salas; 4 portais; 5 entidades; texturas empacotadas.')
+report['origem_colisao']='YBN compilado e relido pelo CodeWalker.Core, reimportado pelo Sollumz' if compiled else 'Master Blender fonte'
+(P/('relatorios/validacao_colisao_compilada.json' if compiled else 'relatorios/validacao_blender.json')).write_text(json.dumps(report,indent=2,ensure_ascii=False));print('PASS',report['passaram'],'checagens físicas; 5 salas; 4 portais; 5 entidades; texturas empacotadas.')

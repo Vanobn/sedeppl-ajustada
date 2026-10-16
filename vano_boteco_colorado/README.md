@@ -5,7 +5,7 @@ Somente o boteco térreo, sem o prédio acima. Salão, área de apoio/circulaç�
 ## Entrega
 
 - [Master Blender editável](blender/vano_boteco_colorado_master.blend), comprimido internamente sem perda, com geometria, shaders GTA, imagens empacotadas e dados MLO registrados no Sollumz.
-- `stream/`: **5 YDR + 1 YBN + 1 YTD + 1 YTYP**, todos binários RSC7 compilados e relidos pelo CodeWalker.Core.
+- `stream/`: **5 YDR + 1 YBN + 1 YTD + 1 YTYP**, todos binários RSC7 para GTA V Gen8, compilados e relidos pelo CodeWalker.Core.
 - `xml/`: fontes CodeWalker XML correspondentes, incluindo a YTD e seus DDS.
 - `texturas/`: PNGs de autoria/reconstrução e DDS DXT5 com cadeias completas de mipmaps.
 - `exemplos/vano_bc_implantacao_origem.ymap`: exemplo binário **CMloInstanceDef**, na origem, separado do stream para evitar instalação em posição indesejada.
@@ -67,7 +67,7 @@ Foram reproduzidos os elementos visíveis: placa vermelha corrugada com BRAHMA �
 
 - Compilação e releitura de **9 binários**: os oito arquivos de stream e o YMAP de exemplo. Todos passaram, incluindo as referências de texturas e os dados MLO.
 - Inspeção de conectividade dos portais, winding, planicidade, índices de sala, entidades anexadas e contagem de portais por sala.
-- 25 checagens físicas por raycast na colisão Blender: acesso, portas, continuidade de pisos e paredes que devem bloquear.
+- 25 checagens físicas por raycast na colisão fonte e os mesmos 25 casos repetidos no YBN compilado, relido pelo CodeWalker.Core e reimportado no Sollumz: acesso, portas, continuidade de pisos e paredes que devem bloquear. Ambos passaram.
 - Master reaberto; texturas disponíveis e empacotadas; IDs de sala da colisão conferidos.
 - Sem execução no GTA V, no visualizador DirectX do CodeWalker ou no cliente FiveM neste ambiente Linux. A validação de arquivo não prova comportamento do motor, sombras, streaming ou desempenho no jogo. A entrega exige essa validação após o posicionamento.
 
@@ -88,7 +88,9 @@ DOTNET_CLI_HOME=/workspace/tools/dotnet-home NUGET_PACKAGES=/workspace/tools/nug
 BLENDER_USER_CONFIG=/workspace/tools/blender-config blender -b -t 6 --python scripts/finalizar_master.py
 BLENDER_USER_CONFIG=/workspace/tools/blender-config blender -b --python scripts/validar_blender.py
 python3 scripts/validar_gta.py
+BLENDER_USER_CONFIG=/workspace/tools/blender-config blender -b --python scripts/validar_blender.py -- --colisao-compilada
 python3 scripts/documentar.py
+python3 scripts/empacotar.py --saida /workspace/entregas
 ```
 
 A etapa `preparar_meta.py` calcula o envelope do CMloArchetypeDef e normaliza o limbo com os vértices medidos; o exportador Sollumz consultado escreve bounds MLO zerados por padrão. Não a omitir. O arquivo da placa reconstruída é mantido na pasta para que a geração não dependa do serviço de imagens. O relatório de build registra um aviso NU1900 por indisponibilidade da consulta de auditoria NuGet no ambiente; a compilação dos assets terminou sem falhas, sem desativar validação de certificados ou assinaturas.

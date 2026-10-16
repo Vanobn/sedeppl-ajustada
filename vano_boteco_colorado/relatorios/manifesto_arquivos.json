@@ -8,8 +8,8 @@
     "sha256": "8e9e07e562b11d1c4efde01e3cf3b5f5a4107a5a6e291c0fda22ae389119e3b3"
   },
   "README.md": {
-    "bytes": 8869,
-    "sha256": "83f75a1e4ddf951c12f71113cd27224aa02a4fd19d3dab9d6e855b8330c0a583"
+    "bytes": 9181,
+    "sha256": "47aed855df1c47d1b08abad589e272eabdfb7247692c23ec5a8b09e73bf8c8a2"
   },
   "blender/vano_boteco_colorado_master.blend": {
     "bytes": 1717607,
@@ -107,6 +107,14 @@
     "bytes": 216,
     "sha256": "3729596470a4f22327cec78753e9de2d758a9abccb9f06f08d90a6aa650b6ff1"
   },
+  "relatorios/validacao_colisao_compilada.json": {
+    "bytes": 5224,
+    "sha256": "2c82b13303737d4b81cbf2b96a6d289b9d9e2a30201fbdd520519088999afda0"
+  },
+  "relatorios/validacao_colisao_compilada.log": {
+    "bytes": 520,
+    "sha256": "51d6892ab0cf70b9045c0da9a4a1ce38e70c23361e0c4dab9df229ff032be056"
+  },
   "relatorios/validacao_gta.json": {
     "bytes": 2420,
     "sha256": "70c6f9b329978a4992435eebb3902fe6c7773fe5b499fe17ee86deba20a0c705"
@@ -124,8 +132,8 @@
     "sha256": "6f5c9a12d4fbb3a8709b0e23fce38bffa50cbb9272d74dfe6538389b72c10f68"
   },
   "scripts/documentar.py": {
-    "bytes": 12040,
-    "sha256": "12469b7448376f0dd761d806056e2aff44f5c121d9812f6bb6c6a666f60c3b8f"
+    "bytes": 12365,
+    "sha256": "641926c01b78857a6b7f884838a4d8891455c16941a3dc5327831c909fa35806"
   },
   "scripts/empacotar.py": {
     "bytes": 1323,
@@ -152,8 +160,8 @@
     "sha256": "a6a6f7c7459163a3488cf483ddee90661195b314859ad2f4b101a0a76c57d642"
   },
   "scripts/validar_blender.py": {
-    "bytes": 3017,
-    "sha256": "6e0e7e65aa617999815981c29bb14e853a0e1c3d2534076766c146fc7d95bf48"
+    "bytes": 3591,
+    "sha256": "cb91c786204bebb5bbe7eb1a13912c3b1bb2eeefb3c3771f981bea78d126cae4"
   },
   "scripts/validar_gta.py": {
     "bytes": 4531,
