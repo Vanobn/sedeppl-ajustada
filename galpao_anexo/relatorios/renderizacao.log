@@ -1,0 +1,225 @@
+Blender 4.3.2
+Read blend: "/workspace/sedeppl-ajustada/galpao_anexo/blender/galpao_anexo_master.blend"
+Fra:1 Mem:27.00M (Peak 27.00M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Synchronizing object | ga_exterior.model
+Fra:1 Mem:27.02M (Peak 27.02M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Synchronizing object | ga_mezanino.model
+Fra:1 Mem:27.10M (Peak 27.10M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Synchronizing object | ga_salao.model
+Fra:1 Mem:27.98M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Initializing
+Fra:1 Mem:27.96M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_concreto.dds
+Fra:1 Mem:27.96M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_tijolo_vermelho.dds
+Fra:1 Mem:27.96M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_tijolo_branco.dds
+Fra:1 Mem:35.99M (Peak 36.99M) | Time:00:00.01 | Mem:1.00M, Peak:1.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_murais.dds
+Fra:1 Mem:33.97M (Peak 37.99M) | Time:00:00.01 | Mem:3.00M, Peak:3.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_metal_vermelho.dds
+Fra:1 Mem:33.97M (Peak 37.99M) | Time:00:00.01 | Mem:3.00M, Peak:3.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_telha.dds
+Fra:1 Mem:38.99M (Peak 38.99M) | Time:00:00.01 | Mem:3.25M, Peak:3.25M | galpao_anexo, ViewLayer | Updating Images | Loading ga_claraboia.dds
+Fra:1 Mem:38.55M (Peak 38.99M) | Time:00:00.01 | Mem:3.50M, Peak:3.50M | galpao_anexo, ViewLayer | Updating Images | Loading ga_piso_vermelho.dds
+Fra:1 Mem:38.80M (Peak 38.99M) | Time:00:00.01 | Mem:3.56M, Peak:3.56M | galpao_anexo, ViewLayer | Updating Images | Loading ga_luminaria.dds
+Fra:1 Mem:40.33M (Peak 40.33M) | Time:00:00.01 | Mem:3.58M, Peak:3.58M | galpao_anexo, ViewLayer | Updating Images | Loading ga_porta.dds
+Fra:1 Mem:41.07M (Peak 41.07M) | Time:00:00.01 | Mem:3.83M, Peak:3.83M | galpao_anexo, ViewLayer | Updating Images | Loading ga_metal_preto.dds
+Fra:1 Mem:32.79M (Peak 41.07M) | Time:00:00.02 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Waiting for render to start
+Fra:1 Mem:32.79M (Peak 41.07M) | Time:00:00.02 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:32.79M (Peak 41.07M) | Time:00:00.02 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Updating Scene
+Fra:1 Mem:32.79M (Peak 41.07M) | Time:00:00.02 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Updating Shaders
+Fra:1 Mem:32.89M (Peak 41.07M) | Time:00:00.02 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Procedurals
+Fra:1 Mem:32.89M (Peak 41.07M) | Time:00:00.02 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Background
+Fra:1 Mem:32.89M (Peak 41.07M) | Time:00:00.02 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Camera
+Fra:1 Mem:32.89M (Peak 41.07M) | Time:00:00.02 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:32.89M (Peak 41.07M) | Time:00:00.02 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Objects
+Fra:1 Mem:32.89M (Peak 41.07M) | Time:00:00.02 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:32.89M (Peak 41.07M) | Time:00:00.02 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:32.89M (Peak 41.07M) | Time:00:00.02 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Particle Systems
+Fra:1 Mem:32.89M (Peak 41.07M) | Time:00:00.02 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:32.89M (Peak 41.07M) | Time:00:00.02 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Meshes
+Fra:1 Mem:33.03M (Peak 41.07M) | Time:00:00.02 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:33.30M (Peak 41.07M) | Time:00:00.02 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:33.30M (Peak 41.07M) | Time:00:00.02 | Mem:7.43M, Peak:7.43M | galpao_anexo, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:33.30M (Peak 41.07M) | Time:00:00.02 | Mem:7.43M, Peak:7.43M | galpao_anexo, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:33.30M (Peak 41.07M) | Time:00:00.02 | Mem:7.70M, Peak:7.70M | galpao_anexo, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:33.30M (Peak 41.07M) | Time:00:00.02 | Mem:8.03M, Peak:8.30M | galpao_anexo, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:33.30M (Peak 41.07M) | Time:00:00.02 | Mem:8.03M, Peak:8.30M | galpao_anexo, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:33.65M (Peak 41.07M) | Time:00:00.02 | Mem:8.03M, Peak:8.30M | galpao_anexo, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:33.65M (Peak 41.07M) | Time:00:00.02 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Objects Flags
+Fra:1 Mem:33.65M (Peak 41.07M) | Time:00:00.02 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:33.65M (Peak 41.07M) | Time:00:00.02 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Images
+Fra:1 Mem:33.65M (Peak 41.07M) | Time:00:00.02 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Camera Volume
+Fra:1 Mem:33.65M (Peak 41.07M) | Time:00:00.02 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:33.65M (Peak 41.07M) | Time:00:00.02 | Mem:8.46M, Peak:8.46M | galpao_anexo, ViewLayer | Updating Lights
+Fra:1 Mem:33.66M (Peak 41.07M) | Time:00:00.02 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:33.66M (Peak 41.07M) | Time:00:00.02 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Integrator
+Fra:1 Mem:33.66M (Peak 41.07M) | Time:00:00.02 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Film
+Fra:1 Mem:33.66M (Peak 41.07M) | Time:00:00.02 | Mem:8.39M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:33.66M (Peak 41.07M) | Time:00:00.02 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Baking
+Fra:1 Mem:33.66M (Peak 41.07M) | Time:00:00.02 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:33.66M (Peak 41.07M) | Time:00:00.02 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Sample 0/32
+Fra:1 Mem:79.82M (Peak 79.82M) | Time:00:02.84 | Remaining:01:27.32 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Sample 1/32
+Fra:1 Mem:79.82M (Peak 79.82M) | Time:00:21.46 | Remaining:00:54.79 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Sample 9/32
+Fra:1 Mem:79.82M (Peak 79.82M) | Time:00:54.01 | Remaining:00:15.11 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Sample 25/32
+Fra:1 Mem:100.33M (Peak 141.34M) | Time:01:08.51 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Sample 32/32
+Fra:1 Mem:100.33M (Peak 141.34M) | Time:01:08.51 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Finished
+Saved: '/workspace/sedeppl-ajustada/galpao_anexo/previews/ga_interior.png'
+Time: 01:08.80 (Saving: 00:00.28)
+
+Fra:1 Mem:27.35M (Peak 27.35M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Synchronizing object | ga_exterior.model
+Fra:1 Mem:27.35M (Peak 27.35M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Synchronizing object | ga_mezanino.model
+Fra:1 Mem:27.98M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Initializing
+Fra:1 Mem:27.96M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_faixa_guarda_popular.dds
+Fra:1 Mem:27.96M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_tijolo_branco.dds
+Fra:1 Mem:38.00M (Peak 39.00M) | Time:00:00.00 | Mem:1.00M, Peak:1.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_murais.dds
+Fra:1 Mem:37.99M (Peak 40.00M) | Time:00:00.00 | Mem:2.00M, Peak:2.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_metal_vermelho.dds
+Fra:1 Mem:35.98M (Peak 40.00M) | Time:00:00.00 | Mem:3.00M, Peak:3.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_telha.dds
+Fra:1 Mem:34.48M (Peak 40.00M) | Time:00:00.00 | Mem:4.00M, Peak:4.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_claraboia.dds
+Fra:1 Mem:34.54M (Peak 40.00M) | Time:00:00.00 | Mem:4.25M, Peak:4.25M | galpao_anexo, ViewLayer | Updating Images | Loading ga_piso_vermelho.dds
+Fra:1 Mem:34.79M (Peak 40.00M) | Time:00:00.00 | Mem:4.31M, Peak:4.31M | galpao_anexo, ViewLayer | Updating Images | Loading ga_luminaria.dds
+Fra:1 Mem:34.81M (Peak 40.00M) | Time:00:00.00 | Mem:4.56M, Peak:4.56M | galpao_anexo, ViewLayer | Updating Images | Loading ga_porta.dds
+Fra:1 Mem:35.31M (Peak 40.00M) | Time:00:00.00 | Mem:4.58M, Peak:4.58M | galpao_anexo, ViewLayer | Updating Images | Loading ga_metal_preto.dds
+Fra:1 Mem:32.79M (Peak 40.00M) | Time:00:00.01 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Waiting for render to start
+Fra:1 Mem:32.79M (Peak 40.00M) | Time:00:00.01 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:32.79M (Peak 40.00M) | Time:00:00.01 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Updating Scene
+Fra:1 Mem:32.79M (Peak 40.00M) | Time:00:00.01 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Updating Shaders
+Fra:1 Mem:32.89M (Peak 40.00M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Procedurals
+Fra:1 Mem:32.89M (Peak 40.00M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Background
+Fra:1 Mem:32.89M (Peak 40.00M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Camera
+Fra:1 Mem:32.89M (Peak 40.00M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:32.89M (Peak 40.00M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Objects
+Fra:1 Mem:32.89M (Peak 40.00M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:32.89M (Peak 40.00M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:32.89M (Peak 40.00M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Particle Systems
+Fra:1 Mem:32.89M (Peak 40.00M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:32.89M (Peak 40.00M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Meshes
+Fra:1 Mem:33.03M (Peak 40.00M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:33.30M (Peak 40.00M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:33.30M (Peak 40.00M) | Time:00:00.01 | Mem:7.43M, Peak:7.43M | galpao_anexo, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:33.30M (Peak 40.00M) | Time:00:00.01 | Mem:7.43M, Peak:7.43M | galpao_anexo, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:33.30M (Peak 40.00M) | Time:00:00.01 | Mem:7.70M, Peak:7.70M | galpao_anexo, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:33.30M (Peak 40.00M) | Time:00:00.01 | Mem:8.03M, Peak:8.30M | galpao_anexo, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:33.30M (Peak 40.00M) | Time:00:00.01 | Mem:8.03M, Peak:8.30M | galpao_anexo, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:33.65M (Peak 40.00M) | Time:00:00.01 | Mem:8.03M, Peak:8.30M | galpao_anexo, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:33.65M (Peak 40.00M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Objects Flags
+Fra:1 Mem:33.65M (Peak 40.00M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:33.65M (Peak 40.00M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Images
+Fra:1 Mem:33.65M (Peak 40.00M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Camera Volume
+Fra:1 Mem:33.65M (Peak 40.00M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:33.65M (Peak 40.00M) | Time:00:00.01 | Mem:8.46M, Peak:8.46M | galpao_anexo, ViewLayer | Updating Lights
+Fra:1 Mem:33.66M (Peak 40.00M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:33.66M (Peak 40.00M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Integrator
+Fra:1 Mem:33.66M (Peak 40.00M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Film
+Fra:1 Mem:33.66M (Peak 40.00M) | Time:00:00.01 | Mem:8.39M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:33.66M (Peak 40.00M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Baking
+Fra:1 Mem:33.66M (Peak 40.00M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:33.66M (Peak 40.00M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Sample 0/32
+Fra:1 Mem:79.82M (Peak 79.82M) | Time:00:02.29 | Remaining:01:10.62 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Sample 1/32
+Fra:1 Mem:79.82M (Peak 79.82M) | Time:00:35.30 | Remaining:00:31.14 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Sample 17/32
+Fra:1 Mem:100.33M (Peak 141.35M) | Time:01:05.33 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Sample 32/32
+Fra:1 Mem:100.33M (Peak 141.35M) | Time:01:05.33 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Finished
+Saved: '/workspace/sedeppl-ajustada/galpao_anexo/previews/ga_mezanino.png'
+Time: 01:05.50 (Saving: 00:00.17)
+
+Fra:1 Mem:27.35M (Peak 27.35M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Synchronizing object | ga_exterior.model
+Fra:1 Mem:27.35M (Peak 27.35M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Synchronizing object | ga_mezanino.model
+Fra:1 Mem:27.98M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Initializing
+Fra:1 Mem:27.96M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_tijolo_vermelho.dds
+Fra:1 Mem:27.96M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_tijolo_branco.dds
+Fra:1 Mem:35.99M (Peak 35.99M) | Time:00:00.00 | Mem:1.00M, Peak:1.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_metal_vermelho.dds
+Fra:1 Mem:38.25M (Peak 38.25M) | Time:00:00.00 | Mem:1.25M, Peak:1.25M | galpao_anexo, ViewLayer | Updating Images | Loading ga_telha.dds
+Fra:1 Mem:36.49M (Peak 38.25M) | Time:00:00.00 | Mem:2.25M, Peak:2.25M | galpao_anexo, ViewLayer | Updating Images | Loading ga_claraboia.dds
+Fra:1 Mem:35.06M (Peak 38.25M) | Time:00:00.00 | Mem:3.25M, Peak:3.25M | galpao_anexo, ViewLayer | Updating Images | Loading ga_murais.dds
+Fra:1 Mem:37.06M (Peak 38.25M) | Time:00:00.00 | Mem:3.31M, Peak:3.31M | galpao_anexo, ViewLayer | Updating Images | Loading ga_piso_vermelho.dds
+Fra:1 Mem:36.55M (Peak 38.25M) | Time:00:00.00 | Mem:3.56M, Peak:3.56M | galpao_anexo, ViewLayer | Updating Images | Loading ga_luminaria.dds
+Fra:1 Mem:36.81M (Peak 38.25M) | Time:00:00.00 | Mem:3.58M, Peak:3.58M | galpao_anexo, ViewLayer | Updating Images | Loading ga_porta.dds
+Fra:1 Mem:37.06M (Peak 38.25M) | Time:00:00.00 | Mem:3.83M, Peak:3.83M | galpao_anexo, ViewLayer | Updating Images | Loading ga_metal_preto.dds
+Fra:1 Mem:32.79M (Peak 39.12M) | Time:00:00.01 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Waiting for render to start
+Fra:1 Mem:32.79M (Peak 39.12M) | Time:00:00.01 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:32.79M (Peak 39.12M) | Time:00:00.01 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Updating Scene
+Fra:1 Mem:32.79M (Peak 39.12M) | Time:00:00.01 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Updating Shaders
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Procedurals
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Background
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Camera
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Objects
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Particle Systems
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Meshes
+Fra:1 Mem:33.03M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:33.30M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:33.30M (Peak 39.12M) | Time:00:00.01 | Mem:7.43M, Peak:7.43M | galpao_anexo, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:33.30M (Peak 39.12M) | Time:00:00.01 | Mem:7.43M, Peak:7.43M | galpao_anexo, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:33.30M (Peak 39.12M) | Time:00:00.01 | Mem:7.70M, Peak:7.70M | galpao_anexo, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:33.30M (Peak 39.12M) | Time:00:00.01 | Mem:8.03M, Peak:8.30M | galpao_anexo, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:33.30M (Peak 39.12M) | Time:00:00.01 | Mem:8.03M, Peak:8.30M | galpao_anexo, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.03M, Peak:8.30M | galpao_anexo, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Objects Flags
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Images
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Camera Volume
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.46M, Peak:8.46M | galpao_anexo, ViewLayer | Updating Lights
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Integrator
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Film
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.39M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Baking
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Sample 0/32
+Fra:1 Mem:79.82M (Peak 79.82M) | Time:00:00.34 | Remaining:00:10.04 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Sample 1/32
+Fra:1 Mem:100.33M (Peak 141.34M) | Time:00:09.81 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Sample 32/32
+Fra:1 Mem:100.33M (Peak 141.34M) | Time:00:09.81 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Finished
+Saved: '/workspace/sedeppl-ajustada/galpao_anexo/previews/ga_frente.png'
+Time: 00:09.98 (Saving: 00:00.16)
+
+Fra:1 Mem:27.35M (Peak 27.35M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Synchronizing object | ga_exterior.model
+Fra:1 Mem:27.35M (Peak 27.35M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Synchronizing object | ga_mezanino.model
+Fra:1 Mem:27.98M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Initializing
+Fra:1 Mem:27.96M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_faixa_guarda_popular.dds
+Fra:1 Mem:27.96M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_tijolo_vermelho.dds
+Fra:1 Mem:27.96M (Peak 27.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_tijolo_branco.dds
+Fra:1 Mem:36.00M (Peak 36.99M) | Time:00:00.00 | Mem:1.00M, Peak:1.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_metal_vermelho.dds
+Fra:1 Mem:34.23M (Peak 38.00M) | Time:00:00.00 | Mem:3.00M, Peak:3.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_claraboia.dds
+Fra:1 Mem:33.05M (Peak 38.00M) | Time:00:00.00 | Mem:4.00M, Peak:4.00M | galpao_anexo, ViewLayer | Updating Images | Loading ga_murais.dds
+Fra:1 Mem:32.54M (Peak 38.00M) | Time:00:00.00 | Mem:4.25M, Peak:4.25M | galpao_anexo, ViewLayer | Updating Images | Loading ga_piso_vermelho.dds
+Fra:1 Mem:35.30M (Peak 38.00M) | Time:00:00.00 | Mem:4.50M, Peak:4.50M | galpao_anexo, ViewLayer | Updating Images | Loading ga_luminaria.dds
+Fra:1 Mem:34.80M (Peak 38.00M) | Time:00:00.00 | Mem:4.75M, Peak:4.75M | galpao_anexo, ViewLayer | Updating Images | Loading ga_porta.dds
+Fra:1 Mem:35.05M (Peak 38.00M) | Time:00:00.00 | Mem:4.81M, Peak:4.81M | galpao_anexo, ViewLayer | Updating Images | Loading ga_metal_preto.dds
+Fra:1 Mem:32.79M (Peak 39.12M) | Time:00:00.01 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Waiting for render to start
+Fra:1 Mem:32.79M (Peak 39.12M) | Time:00:00.01 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:32.79M (Peak 39.12M) | Time:00:00.01 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Updating Scene
+Fra:1 Mem:32.79M (Peak 39.12M) | Time:00:00.01 | Mem:7.14M, Peak:7.14M | galpao_anexo, ViewLayer | Updating Shaders
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Procedurals
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Background
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Camera
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Objects
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Particle Systems
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:32.89M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Meshes
+Fra:1 Mem:33.03M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:33.30M (Peak 39.12M) | Time:00:00.01 | Mem:7.16M, Peak:7.16M | galpao_anexo, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:33.30M (Peak 39.12M) | Time:00:00.01 | Mem:7.43M, Peak:7.43M | galpao_anexo, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:33.30M (Peak 39.12M) | Time:00:00.01 | Mem:7.43M, Peak:7.43M | galpao_anexo, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:33.30M (Peak 39.12M) | Time:00:00.01 | Mem:7.70M, Peak:7.70M | galpao_anexo, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:33.30M (Peak 39.12M) | Time:00:00.01 | Mem:8.03M, Peak:8.30M | galpao_anexo, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:33.30M (Peak 39.12M) | Time:00:00.01 | Mem:8.03M, Peak:8.30M | galpao_anexo, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.03M, Peak:8.30M | galpao_anexo, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Objects Flags
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Images
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Camera Volume
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.38M, Peak:8.38M | galpao_anexo, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:33.65M (Peak 39.12M) | Time:00:00.01 | Mem:8.46M, Peak:8.46M | galpao_anexo, ViewLayer | Updating Lights
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Integrator
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Film
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.39M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Baking
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:33.66M (Peak 39.12M) | Time:00:00.01 | Mem:8.47M, Peak:8.47M | galpao_anexo, ViewLayer | Sample 0/32
+Fra:1 Mem:79.82M (Peak 79.82M) | Time:00:00.39 | Remaining:00:11.65 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Sample 1/32
+Fra:1 Mem:100.33M (Peak 141.34M) | Time:00:09.79 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Sample 32/32
+Fra:1 Mem:100.33M (Peak 141.34M) | Time:00:09.79 | Mem:54.63M, Peak:54.63M | galpao_anexo, ViewLayer | Finished
+Saved: '/workspace/sedeppl-ajustada/galpao_anexo/previews/ga_perspectiva.png'
+Time: 00:09.93 (Saving: 00:00.13)
+
+
+Blender quit

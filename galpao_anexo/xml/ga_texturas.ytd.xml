@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureDictionary>
+  <Item>
+    <Name>ga_tijolo_branco</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="512" />
+    <Height value="512" />
+    <MipLevels value="10" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>ga_tijolo_branco.dds</FileName>
+  </Item>
+  <Item>
+    <Name>ga_tijolo_vermelho</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="512" />
+    <Height value="512" />
+    <MipLevels value="10" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>ga_tijolo_vermelho.dds</FileName>
+  </Item>
+  <Item>
+    <Name>ga_concreto</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="512" />
+    <Height value="512" />
+    <MipLevels value="10" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>ga_concreto.dds</FileName>
+  </Item>
+  <Item>
+    <Name>ga_metal_vermelho</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="256" />
+    <Height value="256" />
+    <MipLevels value="9" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>ga_metal_vermelho.dds</FileName>
+  </Item>
+  <Item>
+    <Name>ga_metal_preto</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="128" />
+    <Height value="128" />
+    <MipLevels value="8" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>ga_metal_preto.dds</FileName>
+  </Item>
+  <Item>
+    <Name>ga_telha</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="256" />
+    <Height value="256" />
+    <MipLevels value="9" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>ga_telha.dds</FileName>
+  </Item>
+  <Item>
+    <Name>ga_piso_vermelho</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="256" />
+    <Height value="256" />
+    <MipLevels value="9" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>ga_piso_vermelho.dds</FileName>
+  </Item>
+  <Item>
+    <Name>ga_porta</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="256" />
+    <Height value="256" />
+    <MipLevels value="9" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>ga_porta.dds</FileName>
+  </Item>
+  <Item>
+    <Name>ga_claraboia</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="128" />
+    <Height value="128" />
+    <MipLevels value="8" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>ga_claraboia.dds</FileName>
+  </Item>
+  <Item>
+    <Name>ga_luminaria</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="64" />
+    <Height value="64" />
+    <MipLevels value="7" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>ga_luminaria.dds</FileName>
+  </Item>
+  <Item>
+    <Name>ga_faixa_guarda_popular</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="1024" />
+    <Height value="256" />
+    <MipLevels value="11" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>ga_faixa_guarda_popular.dds</FileName>
+  </Item>
+  <Item>
+    <Name>ga_murais</Name>
+    <Unk32 value="0" />
+    <ExtraFlags value="0" />
+    <Width value="1024" />
+    <Height value="512" />
+    <MipLevels value="11" />
+    <Usage>DIFFUSE</Usage>
+    <UsageFlags />
+    <Format>D3DFMT_DXT5</Format>
+    <FileName>ga_murais.dds</FileName>
+  </Item>
+</TextureDictionary>

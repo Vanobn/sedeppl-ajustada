@@ -1,0 +1,467 @@
+[
+  {
+    "arquivo": ".gitignore",
+    "bytes": 70,
+    "sha256": "23d45ac634d0d5761ab3749d368adfdd3eff3f0272a23b2907d35d47ab67c3c8"
+  },
+  {
+    "arquivo": "README.md",
+    "bytes": 8923,
+    "sha256": "bc606b05f50f3971327c5e4498a3d5ca6fb382c7744edbf1dab5207efd2377d4"
+  },
+  {
+    "arquivo": "blender/galpao_anexo_master.blend",
+    "bytes": 1676253,
+    "sha256": "e7a927047698c3b6a26b9b78b46ec1e2f366d5563c6cb7c956d54ab5862cc792"
+  },
+  {
+    "arquivo": "blender/galpao_anexo_pecas_editaveis.blend",
+    "bytes": 1695441,
+    "sha256": "93cbce095df348005ee116798c4314df608fba3a8c5f35a75caa8d858a1b0887"
+  },
+  {
+    "arquivo": "exemplos/ga_implantacao_origem.ymap",
+    "bytes": 1097,
+    "sha256": "f333c1765aaffc85a3aa77fbb9f6460500dc8f6bf17d716ed15483d54d2e6fda"
+  },
+  {
+    "arquivo": "fxmanifest.lua",
+    "bytes": 332,
+    "sha256": "99fb7c2ebed151e300713dda1bb08ec2e65059a802891ea37a8e2d11f49e955f"
+  },
+  {
+    "arquivo": "previews/ga_frente.png",
+    "bytes": 1662834,
+    "sha256": "3a56a2c105f70cbc717c43828fced0e42a55ade3b95d4f1cebb1cbd7b10c3916"
+  },
+  {
+    "arquivo": "previews/ga_interior.png",
+    "bytes": 3144628,
+    "sha256": "a219401f68b53bd8b9132b4b7a5dadbffc69b393066cbe3afd029eb8e965e13b"
+  },
+  {
+    "arquivo": "previews/ga_mezanino.png",
+    "bytes": 3195485,
+    "sha256": "8de18ee8bc9186df9d496cb06882ecd80f447a8c9ae15f51c10b0acbc0e97eaf"
+  },
+  {
+    "arquivo": "previews/ga_perspectiva.png",
+    "bytes": 1662013,
+    "sha256": "360415357e92ae9a1f25443e11012cccf1e7559b843088408c0e1977faeaa161"
+  },
+  {
+    "arquivo": "relatorios/finalizacao.log",
+    "bytes": 857,
+    "sha256": "8b4c7c6bcc9d7dc41502c2a055a3ea8c007eb98d767e18c31dea529e04a1c749"
+  },
+  {
+    "arquivo": "relatorios/geometria.json",
+    "bytes": 1718,
+    "sha256": "33271e78338bb4044692b63472bb1617ce19c5d8d9565f3657d0dd54b8c4ca83"
+  },
+  {
+    "arquivo": "relatorios/reconstrucao.log",
+    "bytes": 4359,
+    "sha256": "8e8fe01d5c0ef1ba1dc4449c4ff374219009901e95ff7515a18e8b4543b582df"
+  },
+  {
+    "arquivo": "relatorios/renderizacao.log",
+    "bytes": 27888,
+    "sha256": "a0d2ad95939290ca9b3423dd5c5fd003c22eb9b49ae884372f53c21dccc2065a"
+  },
+  {
+    "arquivo": "relatorios/resumo_validacao.json",
+    "bytes": 316,
+    "sha256": "81b5e0bdff74baa9d0ebcf64856ef09244fe9eff99d09c8ae7da5e1ddf185909"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ga_arquetipos.ytyp.xml",
+    "bytes": 5846,
+    "sha256": "0bd6b73969b662de04a516665e6dbb78651c3422eaa65ed11c7c3abd66cc8883"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ga_exterior.ydr.xml",
+    "bytes": 688175,
+    "sha256": "0ba6cd356596029ad0838af304a28c837242f3cf96b5ff6886d717db1722c30f"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ga_implantacao_origem.ymap.xml",
+    "bytes": 2116,
+    "sha256": "4b76d77dfdfde6e388cff65e1593c359aa2b5c83a2d630f9e791984d3241b040"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ga_mezanino.ydr.xml",
+    "bytes": 335701,
+    "sha256": "8a1ac116c06262b1ce289e1feaeea73b859de0803a6e6e7781000c0b8fae5a0f"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ga_mlo.ybn.xml",
+    "bytes": 75801,
+    "sha256": "86f94c4e2a2eb02b06a84478fda62040fc1764004e6ecce14cacb74f5778e864"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ga_salao.ydr.xml",
+    "bytes": 2681520,
+    "sha256": "8323ef483355fe906420d44bfd207149ab0c76fa462b6841e5b2595f13177bfa"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ga_texturas.ytd.xml",
+    "bytes": 3653,
+    "sha256": "ecdafdd02a3c9db42115fbca6c2a88d4c7d56fddbad2cbac3d3b46a256d3ecab"
+  },
+  {
+    "arquivo": "relatorios/teste_sincronizacao.log",
+    "bytes": 289,
+    "sha256": "dedf91d4cfb8de129461c75992818a2ebf3fb307d8c01104fee40ab40a440f31"
+  },
+  {
+    "arquivo": "relatorios/texturas.json",
+    "bytes": 1495,
+    "sha256": "9b4a03a5b4bf912580d5770939ac51f00cc913a7242fb0011de43b50115b1d5f"
+  },
+  {
+    "arquivo": "relatorios/validacao_blender.json",
+    "bytes": 17765,
+    "sha256": "c250af1aeb0293a768fcaf28d44ec65852c2e96baed204fb464279ab86c34fc7"
+  },
+  {
+    "arquivo": "relatorios/validacao_colisao_compilada.json",
+    "bytes": 18307,
+    "sha256": "3e621a2faf044040ca1a86e104b9d573cf12b79a5f65e21aabd2856a0d22f10e"
+  },
+  {
+    "arquivo": "relatorios/validacao_gta.json",
+    "bytes": 1765,
+    "sha256": "4231fbaa8675b1712ba318fd9d152f231203a354cfecc033a7d611e8b2beb0c5"
+  },
+  {
+    "arquivo": "scripts/atualizar_texturas.py",
+    "bytes": 1811,
+    "sha256": "4228a3dbb4f04b57dd969a3b98fc0f49650d8e434576f79707564cf253bdc3c6"
+  },
+  {
+    "arquivo": "scripts/compilador/Program.cs",
+    "bytes": 2778,
+    "sha256": "21a1cf276becd5768e4867989c94df62631b5fd25dd42b995e93190103d14d00"
+  },
+  {
+    "arquivo": "scripts/compilador/vano_compilador.csproj",
+    "bytes": 352,
+    "sha256": "369c2880a2e58063da195892014402bf3aa7a609e37e582664f1110cc289c2b8"
+  },
+  {
+    "arquivo": "scripts/construir.py",
+    "bytes": 24066,
+    "sha256": "59a65b7b0b187ebbf84d8b3d5dc6c0a457dd99fb9dabf6e0901df7f105c3a3ca"
+  },
+  {
+    "arquivo": "scripts/empacotar.py",
+    "bytes": 915,
+    "sha256": "91572bd312fb8864a09220f1c4ff16f588334625a151ac1f049da3c191676134"
+  },
+  {
+    "arquivo": "scripts/finalizar.py",
+    "bytes": 3706,
+    "sha256": "0bccb6916c5f7cdf91d8a21bbf373e517c3d5fb9ddc88d8c088f6c6b38cd1169"
+  },
+  {
+    "arquivo": "scripts/posicionar.py",
+    "bytes": 1732,
+    "sha256": "95622b86e485cf36fdbecd6cfdea3dd6f5f835dec2f4a10bc57fab97adeb062c"
+  },
+  {
+    "arquivo": "scripts/preparar_meta.py",
+    "bytes": 3025,
+    "sha256": "6c2b67d474e83e5f9a0f2d231b1871ad490efd25f4c41e24efb0e933e3a1d2db"
+  },
+  {
+    "arquivo": "scripts/reconstruir.sh",
+    "bytes": 1100,
+    "sha256": "a7473ae1a39c4b31e525c1ca0222807ec95247557b47f908a569cae8e9cbc46e"
+  },
+  {
+    "arquivo": "scripts/renderizar.py",
+    "bytes": 1152,
+    "sha256": "2f6d3063f1def54c4c676b352af5ee1b7423db529276698e73ae245030922829"
+  },
+  {
+    "arquivo": "scripts/requirements.txt",
+    "bytes": 28,
+    "sha256": "e32056a5263b5972e789540468f3d3e1e8e2d1649d21ef65e814317727be4897"
+  },
+  {
+    "arquivo": "scripts/salvar_pecas.py",
+    "bytes": 1158,
+    "sha256": "2192c6645c904589ddaa8d1bc3fb0609bf4dfaae5358f75da50ef78d0fe81f55"
+  },
+  {
+    "arquivo": "scripts/sincronizar_pecas.py",
+    "bytes": 3329,
+    "sha256": "82eb74dbd593e2daea784810748187e75b9d00613a969fe8f81d98fa1c26c25b"
+  },
+  {
+    "arquivo": "scripts/texturas.py",
+    "bytes": 3497,
+    "sha256": "a57b57844ce168b35a8f35228488c246d4d93405f8e1929d336bb418a72bf17f"
+  },
+  {
+    "arquivo": "scripts/validar_blender.py",
+    "bytes": 4280,
+    "sha256": "2d716b772dcc8abfa135721459582b1c066525aa2a6402e7177074f725053b43"
+  },
+  {
+    "arquivo": "scripts/validar_gta.py",
+    "bytes": 5284,
+    "sha256": "2e97bdc19961e117cba6a6c5a257a5171739b72f8cdb5c827d11ba0004e7c433"
+  },
+  {
+    "arquivo": "stream/ga_arquetipos.ytyp",
+    "bytes": 1348,
+    "sha256": "8771c99b2490698baba4a72dd19a16c091aac04bd82ff1074f140c7d35f8cd5e"
+  },
+  {
+    "arquivo": "stream/ga_exterior.ydr",
+    "bytes": 59631,
+    "sha256": "c9dd45b33196275f7a1943abfec3701f92166a9cf4fb6a4498ee46bf5b5ee7ae"
+  },
+  {
+    "arquivo": "stream/ga_mezanino.ydr",
+    "bytes": 28892,
+    "sha256": "d7faed6b57b1d57b0bbc0bac80c678130f4912d035eda241cb46634d8d10fdb9"
+  },
+  {
+    "arquivo": "stream/ga_mlo.ybn",
+    "bytes": 12489,
+    "sha256": "13e95926ec03230d65bb326fee7946e2b818d311696745db8ff08fce931544f6"
+  },
+  {
+    "arquivo": "stream/ga_salao.ydr",
+    "bytes": 249246,
+    "sha256": "514ffb433cc3578bfd70d270dcf40148d32d90522eea9ce48d33bcc3964c0093"
+  },
+  {
+    "arquivo": "stream/ga_texturas.ytd",
+    "bytes": 988566,
+    "sha256": "1ac5bee8d41bc657bb21939b5656b15543f69f9f257bddfc769809fd335b68cc"
+  },
+  {
+    "arquivo": "texturas/ga_claraboia.dds",
+    "bytes": 22000,
+    "sha256": "0ad2dbd54dadc60669ed332a94e39f464b1b5dee5267963eb8cba2b555285a0b"
+  },
+  {
+    "arquivo": "texturas/ga_claraboia.png",
+    "bytes": 12636,
+    "sha256": "b0ec316384044215eb6f77615f969fb15f6679b5d21570fa1c41bfa08163f702"
+  },
+  {
+    "arquivo": "texturas/ga_concreto.dds",
+    "bytes": 349680,
+    "sha256": "5e588ce7f1b63b78a1385bdfba7f5aab6eefc63be807edc00b5fc9c4806a6c98"
+  },
+  {
+    "arquivo": "texturas/ga_concreto.png",
+    "bytes": 360944,
+    "sha256": "0d92b6eb128192740df940ab4fa1df53e4f756f00d37a88250e69b2a49e7fe50"
+  },
+  {
+    "arquivo": "texturas/ga_faixa_guarda_popular.dds",
+    "bytes": 349712,
+    "sha256": "93c67c5d7d4a69a96ebaa882a14fc190bf86b3d3e86bc357f23ed61d68767bbf"
+  },
+  {
+    "arquivo": "texturas/ga_faixa_guarda_popular.png",
+    "bytes": 176980,
+    "sha256": "9f374e604bca9bcf53a80d3a81efeea0a54b57cd432ebd967520dffa8ded746f"
+  },
+  {
+    "arquivo": "texturas/ga_luminaria.dds",
+    "bytes": 5616,
+    "sha256": "8e5be08640a5ef9cbb0507161d93792d601a254b48bf3c62f6fa4e35729c1fa8"
+  },
+  {
+    "arquivo": "texturas/ga_luminaria.png",
+    "bytes": 211,
+    "sha256": "4111dd2223a460bbcc5afa48704aba5c4240d812630c581e7df44884bcd2f328"
+  },
+  {
+    "arquivo": "texturas/ga_metal_preto.dds",
+    "bytes": 22000,
+    "sha256": "7a8523d485153958ba2c9ace956d9fd980f1a295602e50fec212bc39582e85a3"
+  },
+  {
+    "arquivo": "texturas/ga_metal_preto.png",
+    "bytes": 15982,
+    "sha256": "c3e6e5b9e338420047bfc11e32504f97d41cb925b7fed6d8d9f42203e2a3a52f"
+  },
+  {
+    "arquivo": "texturas/ga_metal_vermelho.dds",
+    "bytes": 87536,
+    "sha256": "cc264448f0d5056866db051f5fc8836b0608d6464288c3a0ce50a1b66a568bd3"
+  },
+  {
+    "arquivo": "texturas/ga_metal_vermelho.png",
+    "bytes": 73644,
+    "sha256": "e66fca51bd1f63816111429576bc9ccf3c43cff4d60c9110471fe136b4641664"
+  },
+  {
+    "arquivo": "texturas/ga_murais.dds",
+    "bytes": 699216,
+    "sha256": "a9f561d23bb43255c6e9da1af867403dfc6a61696357139d3eb0778f9ce45f86"
+  },
+  {
+    "arquivo": "texturas/ga_murais.png",
+    "bytes": 1269645,
+    "sha256": "a13104245c7d1eca6e731bc0a46f079d1fc8f87a101c76adda88db176bb0da0b"
+  },
+  {
+    "arquivo": "texturas/ga_murais_fonte.png",
+    "bytes": 3331167,
+    "sha256": "e91fe66d599bd4b460889c1412edf1045166e7833e52cf4c4b851a0a8d699b65"
+  },
+  {
+    "arquivo": "texturas/ga_piso_vermelho.dds",
+    "bytes": 87536,
+    "sha256": "21fbc0b33d8c4586a8f6ba16f48736e9db4cbf6464c820557f5885e82a5ac42b"
+  },
+  {
+    "arquivo": "texturas/ga_piso_vermelho.png",
+    "bytes": 78305,
+    "sha256": "30722f8c2ab558a09281d42576c91de47158611ef76dfe3fd0a4578654ae7fc9"
+  },
+  {
+    "arquivo": "texturas/ga_porta.dds",
+    "bytes": 87536,
+    "sha256": "0ac397e3f72c2c7258bd1b9f80556e683d0fea6557ce7da2c24ff83d9fcdfb0c"
+  },
+  {
+    "arquivo": "texturas/ga_porta.png",
+    "bytes": 64981,
+    "sha256": "3f8d41f9dc953feb0927c5c1bb5000928969e6236ac5defa56eab857c95d0e38"
+  },
+  {
+    "arquivo": "texturas/ga_telha.dds",
+    "bytes": 87536,
+    "sha256": "b086d1d4e3ed80585cb28333603b972cca427f3ef56cc120e947e30af10d6a23"
+  },
+  {
+    "arquivo": "texturas/ga_telha.png",
+    "bytes": 69406,
+    "sha256": "47230533731f7244c45925c8626a15ca847c7a4a84d4ce7cf40588ba8011e72a"
+  },
+  {
+    "arquivo": "texturas/ga_tijolo_branco.dds",
+    "bytes": 349680,
+    "sha256": "72e2fb58a23916445956dc34e3abda80cef583d20405ddd2669235cecffd6884"
+  },
+  {
+    "arquivo": "texturas/ga_tijolo_branco.png",
+    "bytes": 291986,
+    "sha256": "8fb29baa43ee2aacb258dddc6c39649367120fbea2e4105d406ad8d77f16c836"
+  },
+  {
+    "arquivo": "texturas/ga_tijolo_vermelho.dds",
+    "bytes": 349680,
+    "sha256": "f1fe1c9f3bccae85ddf476da95572eea9c1ba26e4fddf42a5a9acd226e7e5c9c"
+  },
+  {
+    "arquivo": "texturas/ga_tijolo_vermelho.png",
+    "bytes": 294398,
+    "sha256": "0051108582cb362c42bce0d7e335c2a4bc98371e28667be5becf42af684fcdfb"
+  },
+  {
+    "arquivo": "xml/ga_arquetipos.ytyp.xml",
+    "bytes": 5937,
+    "sha256": "ab2dbd32e2ee6050123dbf1a882d807ddd1de9e26a990b1d9408c24d8e9b3430"
+  },
+  {
+    "arquivo": "xml/ga_exterior.ydr.xml",
+    "bytes": 864151,
+    "sha256": "c5095a49e17f7107c5bb677979975e24b624d150ba8302936a3513f13a1d436c"
+  },
+  {
+    "arquivo": "xml/ga_implantacao_origem.ymap.xml",
+    "bytes": 1732,
+    "sha256": "2eb720ce2f61c33ee09ebd2b24cccce3ea2ce0c8bbfa0a4b32fb579050e33683"
+  },
+  {
+    "arquivo": "xml/ga_mezanino.ydr.xml",
+    "bytes": 463507,
+    "sha256": "6e150bdd06bb73401780350b96902f7ad8d3b78d0b3b387065f7b1b30bcb2c07"
+  },
+  {
+    "arquivo": "xml/ga_mlo.ybn.xml",
+    "bytes": 94266,
+    "sha256": "daaab52b90cb79e075cde37698c5efe2cfaeb77fc2181f3d8c19a0c04e68d370"
+  },
+  {
+    "arquivo": "xml/ga_salao.ydr.xml",
+    "bytes": 3513343,
+    "sha256": "62b88a2cab52376710b0812f184bb9f10baff2392a240a5d73a010ca460f91da"
+  },
+  {
+    "arquivo": "xml/ga_texturas/ga_claraboia.dds",
+    "bytes": 22000,
+    "sha256": "0ad2dbd54dadc60669ed332a94e39f464b1b5dee5267963eb8cba2b555285a0b"
+  },
+  {
+    "arquivo": "xml/ga_texturas/ga_concreto.dds",
+    "bytes": 349680,
+    "sha256": "5e588ce7f1b63b78a1385bdfba7f5aab6eefc63be807edc00b5fc9c4806a6c98"
+  },
+  {
+    "arquivo": "xml/ga_texturas/ga_faixa_guarda_popular.dds",
+    "bytes": 349712,
+    "sha256": "93c67c5d7d4a69a96ebaa882a14fc190bf86b3d3e86bc357f23ed61d68767bbf"
+  },
+  {
+    "arquivo": "xml/ga_texturas/ga_luminaria.dds",
+    "bytes": 5616,
+    "sha256": "8e5be08640a5ef9cbb0507161d93792d601a254b48bf3c62f6fa4e35729c1fa8"
+  },
+  {
+    "arquivo": "xml/ga_texturas/ga_metal_preto.dds",
+    "bytes": 22000,
+    "sha256": "7a8523d485153958ba2c9ace956d9fd980f1a295602e50fec212bc39582e85a3"
+  },
+  {
+    "arquivo": "xml/ga_texturas/ga_metal_vermelho.dds",
+    "bytes": 87536,
+    "sha256": "cc264448f0d5056866db051f5fc8836b0608d6464288c3a0ce50a1b66a568bd3"
+  },
+  {
+    "arquivo": "xml/ga_texturas/ga_murais.dds",
+    "bytes": 699216,
+    "sha256": "a9f561d23bb43255c6e9da1af867403dfc6a61696357139d3eb0778f9ce45f86"
+  },
+  {
+    "arquivo": "xml/ga_texturas/ga_piso_vermelho.dds",
+    "bytes": 87536,
+    "sha256": "21fbc0b33d8c4586a8f6ba16f48736e9db4cbf6464c820557f5885e82a5ac42b"
+  },
+  {
+    "arquivo": "xml/ga_texturas/ga_porta.dds",
+    "bytes": 87536,
+    "sha256": "0ac397e3f72c2c7258bd1b9f80556e683d0fea6557ce7da2c24ff83d9fcdfb0c"
+  },
+  {
+    "arquivo": "xml/ga_texturas/ga_telha.dds",
+    "bytes": 87536,
+    "sha256": "b086d1d4e3ed80585cb28333603b972cca427f3ef56cc120e947e30af10d6a23"
+  },
+  {
+    "arquivo": "xml/ga_texturas/ga_tijolo_branco.dds",
+    "bytes": 349680,
+    "sha256": "72e2fb58a23916445956dc34e3abda80cef583d20405ddd2669235cecffd6884"
+  },
+  {
+    "arquivo": "xml/ga_texturas/ga_tijolo_vermelho.dds",
+    "bytes": 349680,
+    "sha256": "f1fe1c9f3bccae85ddf476da95572eea9c1ba26e4fddf42a5a9acd226e7e5c9c"
+  },
+  {
+    "arquivo": "xml/ga_texturas.ytd.xml",
+    "bytes": 3772,
+    "sha256": "6b650eddc50aa460084b0eb7ac750d536c123f37ec3930b930eb31609119fadb"
+  }
+]

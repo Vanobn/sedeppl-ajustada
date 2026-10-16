@@ -1,0 +1,20 @@
+INFO: Starting export...
+INFO: Successfully exported 'ga_mlo'
+INFO: Successfully exported 'ga_mezanino'
+INFO: Successfully exported 'ga_exterior'
+INFO: Successfully exported 'ga_salao'
+INFO: Successfully exported 'ga_arquetipos'
+INFO: Exported in 0.283 seconds
+Info: Starting export...
+Info: Successfully exported 'ga_mlo'
+Info: Successfully exported 'ga_mezanino'
+Info: Successfully exported 'ga_exterior'
+Info: Successfully exported 'ga_salao'
+Info: Successfully exported 'ga_arquetipos'
+Info: Exported in 0.283 seconds
+Info: Saved "galpao_anexo_master.blend"
+LODS {'ga_exterior': {'high': 1460, 'medium': 730, 'low': 364}, 'ga_salao': {'high': 6482, 'medium': 3240, 'low': 1620}, 'ga_mezanino': {'high': 912, 'medium': 456, 'low': 228}}
+Blender 4.3.2
+Read blend: "/workspace/sedeppl-ajustada/galpao_anexo/blender/galpao_anexo_master.blend"
+
+Blender quit
