@@ -1,0 +1,235 @@
+TEXTURAS 12 1312608 bytes DDS
+INFO: Starting export...
+INFO: Successfully exported 'ap_oficina'
+INFO: Successfully exported 'ap_mlo'
+INFO: Successfully exported 'ap_exterior'
+INFO: Successfully exported 'ap_arquetipos'
+INFO: Exported in 0.191 seconds
+Info: Starting export...
+Info: Successfully exported 'ap_oficina'
+Info: Successfully exported 'ap_mlo'
+Info: Successfully exported 'ap_exterior'
+Info: Successfully exported 'ap_arquetipos'
+Info: Exported in 0.191 seconds
+EXPORT_RESULT {'FINISHED'}
+Info: Saved "alemao_pneus_master.blend"
+GEOMETRIA {"min": [-8.824999809265137, -3.200000047683716, -0.18000000715255737], "max": [4.494999885559082, 18.399999618530273, 6.424999713897705], "dimensoes": [13.319999694824219, 21.59999966621399, 6.6049997210502625], "area_envelope": 287.71198896217356, "pe_direito": 5.35, "triangulos_por_entidade": {"exterior": 6896, "oficina": 3920}, "triangulos_colisao": 432, "salas": [{"nome": "limbo", "min": [-9, -3.4, -0.3], "max": [4.6, 18.6, 6.7], "dimensoes": [13.6, 22.0, 7.0]}, {"nome": "oficina", "min": [-3.53, 0.42, 0], "max": [3.53, 17.9, 6.4], "dimensoes": [7.06, 17.479999999999997, 6.4]}], "portais": 1, "mobiliario": "Expositores, rodas, pneus, escada, bancada e equipamentos aproximados das fotos", "portao": "Folha expositora esquerda aberta; passagem de ve\u00edculos livre", "textura_placa": "Redesenho vetorial aproximado das fotos; nenhum telefone."}
+Blender 4.3.2
+
+Blender quit
+INFO: Starting export...
+INFO: Successfully exported 'ap_oficina'
+INFO: Successfully exported 'ap_mlo'
+INFO: Successfully exported 'ap_exterior'
+INFO: Successfully exported 'ap_arquetipos'
+INFO: Exported in 0.313 seconds
+Info: Starting export...
+Info: Successfully exported 'ap_oficina'
+Info: Successfully exported 'ap_mlo'
+Info: Successfully exported 'ap_exterior'
+Info: Successfully exported 'ap_arquetipos'
+Info: Exported in 0.313 seconds
+Info: Saved "alemao_pneus_master.blend"
+LODS {'ap_exterior': {'high': 6896, 'medium': 3448, 'low': 1724}, 'ap_oficina': {'high': 3920, 'medium': 1960, 'low': 980}}
+Blender 4.3.2
+Read blend: "/workspace/sedeppl-ajustada/alemao_pneus/blender/alemao_pneus_master.blend"
+
+Blender quit
+Bounds MLO calculados da geometria e exemplo CMloInstanceDef preparado.
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  CodeWalker.Core -> /workspace/tools/CodeWalker/CodeWalker.Core/bin/Release/netstandard2.0/CodeWalker.Core.dll
+  vano_compilador -> /workspace/sedeppl-ajustada/alemao_pneus/scripts/compilador/bin/Release/net8.0/vano_compilador.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.01
+OK ap_mlo.ybn: 7159 bytes, reloaded and XML parsed
+OK ap_oficina.ydr: 181502 bytes, reloaded and XML parsed
+OK ap_arquetipos.ytyp: 1333 bytes, reloaded and XML parsed
+OK ap_texturas.ytd: 348717 bytes, reloaded and XML parsed
+OK ap_exterior.ydr: 342741 bytes, reloaded and XML parsed
+OK ap_implantacao_origem.ymap: 1106 bytes, reloaded and XML parsed
+Compiled 6; failed 0
+PASS: 6 binários RSC7, MLO conectado, 12 DDS/mips, 8 luzes, referências e colisão BVH.
+PASS 33 checagens físicas; 2 salas; 1 portal; 2 entidades; texturas empacotadas.
+Blender 4.3.2
+Read blend: "/workspace/sedeppl-ajustada/alemao_pneus/blender/alemao_pneus_master.blend"
+
+Blender quit
+INFO: Successfully imported '/workspace/sedeppl-ajustada/alemao_pneus/relatorios/roundtrip/ap_mlo.ybn.xml'
+INFO: Imported in 0.018 seconds
+Info: Successfully imported '/workspace/sedeppl-ajustada/alemao_pneus/relatorios/roundtrip/ap_mlo.ybn.xml'
+Info: Imported in 0.018 seconds
+PASS 33 checagens físicas; 2 salas; 1 portal; 2 entidades; texturas empacotadas.
+Blender 4.3.2
+Read blend: "/workspace/sedeppl-ajustada/alemao_pneus/blender/alemao_pneus_master.blend"
+
+Blender quit
+Blender 4.3.2
+Read blend: "/workspace/sedeppl-ajustada/alemao_pneus/blender/alemao_pneus_master.blend"
+Fra:1 Mem:24.49M (Peak 24.49M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Synchronizing object | ap_exterior.model
+Fra:1 Mem:24.49M (Peak 24.49M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Synchronizing object | ap_oficina.model
+Fra:1 Mem:25.62M (Peak 25.62M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Initializing
+Fra:1 Mem:25.61M (Peak 25.62M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Updating Images | Loading ap_concreto.dds
+Fra:1 Mem:25.61M (Peak 25.62M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Updating Images | Loading ap_metal.dds
+Fra:1 Mem:27.89M (Peak 27.89M) | Time:00:00.01 | Mem:0.25M, Peak:0.25M | alemao_pneus, ViewLayer | Updating Images | Loading ap_bandeira_brasil.dds
+Fra:1 Mem:27.89M (Peak 27.89M) | Time:00:00.01 | Mem:0.50M, Peak:0.50M | alemao_pneus, ViewLayer | Updating Images | Loading ap_preto.dds
+Fra:1 Mem:27.63M (Peak 27.89M) | Time:00:00.01 | Mem:0.75M, Peak:0.75M | alemao_pneus, ViewLayer | Updating Images | Loading ap_telha.dds
+Fra:1 Mem:27.95M (Peak 27.95M) | Time:00:00.01 | Mem:1.00M, Peak:1.00M | alemao_pneus, ViewLayer | Updating Images | Loading ap_branco.dds
+Fra:1 Mem:28.19M (Peak 28.19M) | Time:00:00.01 | Mem:1.06M, Peak:1.06M | alemao_pneus, ViewLayer | Updating Images | Loading ap_placa_sem_telefone.dds
+Fra:1 Mem:31.71M (Peak 31.71M) | Time:00:00.01 | Mem:1.31M, Peak:1.31M | alemao_pneus, ViewLayer | Updating Images | Loading ap_borracha.dds
+Fra:1 Mem:31.26M (Peak 31.71M) | Time:00:00.01 | Mem:1.56M, Peak:1.56M | alemao_pneus, ViewLayer | Updating Images | Loading ap_cromado.dds
+Fra:1 Mem:27.30M (Peak 32.33M) | Time:00:00.01 | Mem:3.69M, Peak:3.69M | alemao_pneus, ViewLayer | Waiting for render to start
+Fra:1 Mem:27.31M (Peak 32.33M) | Time:00:00.01 | Mem:3.69M, Peak:3.69M | alemao_pneus, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:27.31M (Peak 32.33M) | Time:00:00.01 | Mem:3.69M, Peak:3.69M | alemao_pneus, ViewLayer | Updating Scene
+Fra:1 Mem:27.31M (Peak 32.33M) | Time:00:00.01 | Mem:3.69M, Peak:3.69M | alemao_pneus, ViewLayer | Updating Shaders
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.01 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Procedurals
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.01 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Background
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.01 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Camera
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.01 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.01 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Objects
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.01 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.01 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.01 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Particle Systems
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.01 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.01 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Meshes
+Fra:1 Mem:27.57M (Peak 32.33M) | Time:00:00.01 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.01 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.01 | Mem:4.03M, Peak:4.03M | alemao_pneus, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.01 | Mem:4.03M, Peak:4.03M | alemao_pneus, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.01 | Mem:4.36M, Peak:4.36M | alemao_pneus, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.01 | Mem:4.79M, Peak:5.12M | alemao_pneus, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.01 | Mem:4.79M, Peak:5.12M | alemao_pneus, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:4.79M, Peak:5.12M | alemao_pneus, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Objects Flags
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Images
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Camera Volume
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Lights
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Integrator
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Film
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.20M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Baking
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Sample 0/24
+Fra:1 Mem:65.40M (Peak 65.40M) | Time:00:00.46 | Remaining:00:10.30 | Mem:42.37M, Peak:42.37M | alemao_pneus, ViewLayer | Sample 1/24
+Fra:1 Mem:81.88M (Peak 114.84M) | Time:00:08.12 | Mem:42.37M, Peak:42.37M | alemao_pneus, ViewLayer | Sample 24/24
+Fra:1 Mem:81.88M (Peak 114.84M) | Time:00:08.12 | Mem:42.37M, Peak:42.37M | alemao_pneus, ViewLayer | Finished
+Saved: '/workspace/sedeppl-ajustada/alemao_pneus/previews/ap_frente.png'
+Time: 00:08.35 (Saving: 00:00.22)
+
+Fra:1 Mem:24.90M (Peak 24.90M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Synchronizing object | ap_exterior.model
+Fra:1 Mem:25.14M (Peak 25.14M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Synchronizing object | ap_oficina.model
+Fra:1 Mem:25.62M (Peak 25.62M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Initializing
+Fra:1 Mem:25.61M (Peak 25.62M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Updating Images | Loading ap_bandeira_rs_estudo.dds
+Fra:1 Mem:25.61M (Peak 25.62M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Updating Images | Loading ap_vermelho.dds
+Fra:1 Mem:25.61M (Peak 25.62M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Updating Images | Loading ap_metal.dds
+Fra:1 Mem:27.89M (Peak 27.89M) | Time:00:00.00 | Mem:0.25M, Peak:0.25M | alemao_pneus, ViewLayer | Updating Images | Loading ap_bandeira_brasil.dds
+Fra:1 Mem:28.14M (Peak 28.14M) | Time:00:00.00 | Mem:0.50M, Peak:0.50M | alemao_pneus, ViewLayer | Updating Images | Loading ap_preto.dds
+Fra:1 Mem:27.69M (Peak 28.14M) | Time:00:00.00 | Mem:0.75M, Peak:0.75M | alemao_pneus, ViewLayer | Updating Images | Loading ap_telha.dds
+Fra:1 Mem:28.45M (Peak 28.45M) | Time:00:00.00 | Mem:0.81M, Peak:0.81M | alemao_pneus, ViewLayer | Updating Images | Loading ap_placa_sem_telefone.dds
+Fra:1 Mem:28.94M (Peak 29.45M) | Time:00:00.00 | Mem:1.06M, Peak:1.06M | alemao_pneus, ViewLayer | Updating Images | Loading ap_branco.dds
+Fra:1 Mem:31.71M (Peak 31.71M) | Time:00:00.00 | Mem:1.31M, Peak:1.31M | alemao_pneus, ViewLayer | Updating Images | Loading ap_borracha.dds
+Fra:1 Mem:31.77M (Peak 31.77M) | Time:00:00.00 | Mem:1.38M, Peak:1.38M | alemao_pneus, ViewLayer | Updating Images | Loading ap_cromado.dds
+Fra:1 Mem:27.30M (Peak 32.33M) | Time:00:00.00 | Mem:3.69M, Peak:3.69M | alemao_pneus, ViewLayer | Waiting for render to start
+Fra:1 Mem:27.31M (Peak 32.33M) | Time:00:00.00 | Mem:3.69M, Peak:3.69M | alemao_pneus, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:27.31M (Peak 32.33M) | Time:00:00.00 | Mem:3.69M, Peak:3.69M | alemao_pneus, ViewLayer | Updating Scene
+Fra:1 Mem:27.31M (Peak 32.33M) | Time:00:00.00 | Mem:3.69M, Peak:3.69M | alemao_pneus, ViewLayer | Updating Shaders
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Procedurals
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Background
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Camera
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Objects
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Particle Systems
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Meshes
+Fra:1 Mem:27.57M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.00 | Mem:4.03M, Peak:4.03M | alemao_pneus, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.00 | Mem:4.03M, Peak:4.03M | alemao_pneus, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.00 | Mem:4.36M, Peak:4.36M | alemao_pneus, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.00 | Mem:4.79M, Peak:5.12M | alemao_pneus, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.00 | Mem:4.79M, Peak:5.12M | alemao_pneus, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.00 | Mem:4.79M, Peak:5.12M | alemao_pneus, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.00 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Objects Flags
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.00 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.00 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Images
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.00 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Camera Volume
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.00 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.00 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Lights
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.00 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Integrator
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Film
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.20M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Baking
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Sample 0/24
+Fra:1 Mem:65.40M (Peak 65.40M) | Time:00:00.32 | Remaining:00:07.33 | Mem:42.37M, Peak:42.37M | alemao_pneus, ViewLayer | Sample 1/24
+Fra:1 Mem:81.88M (Peak 114.84M) | Time:00:06.45 | Mem:42.37M, Peak:42.37M | alemao_pneus, ViewLayer | Sample 24/24
+Fra:1 Mem:81.88M (Peak 114.84M) | Time:00:06.45 | Mem:42.37M, Peak:42.37M | alemao_pneus, ViewLayer | Finished
+Saved: '/workspace/sedeppl-ajustada/alemao_pneus/previews/ap_perspectiva.png'
+Time: 00:06.57 (Saving: 00:00.12)
+
+Fra:1 Mem:24.90M (Peak 24.90M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Synchronizing object | ap_exterior.model
+Fra:1 Mem:24.90M (Peak 24.90M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Synchronizing object | ap_oficina.model
+Fra:1 Mem:25.62M (Peak 25.62M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Initializing
+Fra:1 Mem:25.61M (Peak 25.62M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Updating Images | Loading ap_bandeira_rs_estudo.dds
+Fra:1 Mem:25.61M (Peak 25.62M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | alemao_pneus, ViewLayer | Updating Images | Loading ap_metal.dds
+Fra:1 Mem:27.38M (Peak 27.38M) | Time:00:00.00 | Mem:0.25M, Peak:0.25M | alemao_pneus, ViewLayer | Updating Images | Loading ap_bandeira_brasil.dds
+Fra:1 Mem:28.65M (Peak 28.65M) | Time:00:00.00 | Mem:0.50M, Peak:0.50M | alemao_pneus, ViewLayer | Updating Images | Loading ap_preto.dds
+Fra:1 Mem:28.14M (Peak 28.65M) | Time:00:00.00 | Mem:0.75M, Peak:0.75M | alemao_pneus, ViewLayer | Updating Images | Loading ap_branco.dds
+Fra:1 Mem:27.94M (Peak 28.65M) | Time:00:00.00 | Mem:1.00M, Peak:1.00M | alemao_pneus, ViewLayer | Updating Images | Loading ap_telha.dds
+Fra:1 Mem:30.20M (Peak 30.20M) | Time:00:00.00 | Mem:1.25M, Peak:1.25M | alemao_pneus, ViewLayer | Updating Images | Loading ap_borracha.dds
+Fra:1 Mem:30.26M (Peak 30.26M) | Time:00:00.00 | Mem:1.31M, Peak:1.31M | alemao_pneus, ViewLayer | Updating Images | Loading ap_placa_sem_telefone.dds
+Fra:1 Mem:31.26M (Peak 31.26M) | Time:00:00.00 | Mem:1.38M, Peak:1.38M | alemao_pneus, ViewLayer | Updating Images | Loading ap_cromado.dds
+Fra:1 Mem:27.31M (Peak 32.33M) | Time:00:00.00 | Mem:3.69M, Peak:3.69M | alemao_pneus, ViewLayer | Waiting for render to start
+Fra:1 Mem:27.31M (Peak 32.33M) | Time:00:00.00 | Mem:3.69M, Peak:3.69M | alemao_pneus, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:27.31M (Peak 32.33M) | Time:00:00.00 | Mem:3.69M, Peak:3.69M | alemao_pneus, ViewLayer | Updating Scene
+Fra:1 Mem:27.31M (Peak 32.33M) | Time:00:00.00 | Mem:3.69M, Peak:3.69M | alemao_pneus, ViewLayer | Updating Shaders
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Procedurals
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Background
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Camera
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Objects
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Particle Systems
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:27.40M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Meshes
+Fra:1 Mem:27.57M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.00 | Mem:3.70M, Peak:3.70M | alemao_pneus, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.00 | Mem:4.03M, Peak:4.03M | alemao_pneus, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.00 | Mem:4.03M, Peak:4.03M | alemao_pneus, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.00 | Mem:4.36M, Peak:4.36M | alemao_pneus, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.01 | Mem:4.79M, Peak:5.12M | alemao_pneus, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:27.89M (Peak 32.33M) | Time:00:00.01 | Mem:4.79M, Peak:5.12M | alemao_pneus, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:4.79M, Peak:5.12M | alemao_pneus, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Objects Flags
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Images
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Camera Volume
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.19M, Peak:5.19M | alemao_pneus, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Lights
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Integrator
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Film
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.20M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Baking
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:28.30M (Peak 32.33M) | Time:00:00.01 | Mem:5.28M, Peak:5.28M | alemao_pneus, ViewLayer | Sample 0/24
+Fra:1 Mem:65.40M (Peak 65.40M) | Time:00:01.44 | Remaining:00:33.08 | Mem:42.37M, Peak:42.37M | alemao_pneus, ViewLayer | Sample 1/24
+Fra:1 Mem:65.40M (Peak 65.40M) | Time:00:20.96 | Remaining:00:08.62 | Mem:42.37M, Peak:42.37M | alemao_pneus, ViewLayer | Sample 17/24
+Fra:1 Mem:81.88M (Peak 114.84M) | Time:00:30.06 | Mem:42.37M, Peak:42.37M | alemao_pneus, ViewLayer | Sample 24/24
+Fra:1 Mem:81.88M (Peak 114.84M) | Time:00:30.06 | Mem:42.37M, Peak:42.37M | alemao_pneus, ViewLayer | Finished
+Saved: '/workspace/sedeppl-ajustada/alemao_pneus/previews/ap_interior.png'
+Time: 00:30.20 (Saving: 00:00.13)
+
+
+Blender quit

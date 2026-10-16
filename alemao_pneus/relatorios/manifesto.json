@@ -1,0 +1,432 @@
+[
+  {
+    "arquivo": ".gitignore",
+    "bytes": 70,
+    "sha256": "23d45ac634d0d5761ab3749d368adfdd3eff3f0272a23b2907d35d47ab67c3c8"
+  },
+  {
+    "arquivo": "ABRIR_NO_VSCODE.md",
+    "bytes": 4121,
+    "sha256": "645157a6fab947b27659ef6b850ca3a770a698a77dbc3a4b10b973f993ad08fa"
+  },
+  {
+    "arquivo": "README.md",
+    "bytes": 6881,
+    "sha256": "34f2b73d8edab540af176ee6ca342342ee34913246c4a49749a7a79511e85b61"
+  },
+  {
+    "arquivo": "blender/alemao_pneus_master.blend",
+    "bytes": 1047038,
+    "sha256": "a5b6b41d1cab1dbfcba857c56ef543cf499c5d62850a0bddb667de6c45a08244"
+  },
+  {
+    "arquivo": "blender/alemao_pneus_pecas_editaveis.blend",
+    "bytes": 1067365,
+    "sha256": "810e1a1f2ed75dc3e195b5ba5d097d670c0bf5d64a43dc620c1be4863609600b"
+  },
+  {
+    "arquivo": "exemplos/ap_implantacao_origem.ymap",
+    "bytes": 1106,
+    "sha256": "2406922d419e5abd3476aa90dfce84a4f3c704099492e53bf3cb12a8c74905fc"
+  },
+  {
+    "arquivo": "fxmanifest.lua",
+    "bytes": 324,
+    "sha256": "d78d743e2b2e9998f73f8c8094401c857f8c5b4484f5227c1ec718db6e3389be"
+  },
+  {
+    "arquivo": "previews/ap_frente.png",
+    "bytes": 1492090,
+    "sha256": "5d4cf9be35d1a2da701364b594e534fe8499457681768225c521d280da189b97"
+  },
+  {
+    "arquivo": "previews/ap_interior.png",
+    "bytes": 2195035,
+    "sha256": "65c75dab71b3ff5f503b156c63939fd98ceebc0dd4e77b1d4cef2d5d2b12b507"
+  },
+  {
+    "arquivo": "previews/ap_perspectiva.png",
+    "bytes": 1420007,
+    "sha256": "39f624fe544493aaa5cdafbe5518119e75751a010c52d9bc1c80db2d59a0e0c1"
+  },
+  {
+    "arquivo": "relatorios/finalizacao.log",
+    "bytes": 723,
+    "sha256": "514fe09b38da1be37068912cdfc90ba077473254901687b664a90dd637cf0cee"
+  },
+  {
+    "arquivo": "relatorios/geometria.json",
+    "bytes": 1524,
+    "sha256": "eeac7b508fe1be579e36c04e36b9a8c9c22f8f9127f05e23104c26739aba5b91"
+  },
+  {
+    "arquivo": "relatorios/reconstrucao.log",
+    "bytes": 23994,
+    "sha256": "2438831574fe4b784640d43aa2f3dd3f864fdb248b81820cd13dc1ab3e7d39f5"
+  },
+  {
+    "arquivo": "relatorios/resumo_validacao.json",
+    "bytes": 263,
+    "sha256": "0dd23a18277e2309ed632f93390997d0318c4714b87336489d534e4064840087"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ap_arquetipos.ytyp.xml",
+    "bytes": 4658,
+    "sha256": "9920158a2b29441db65c1f4ea63640ae4352d33c5088676054914155ce97f089"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ap_exterior.ydr.xml",
+    "bytes": 3445459,
+    "sha256": "aed187c4cc21489d5ac0918750b5ea7347ef9976231fb9fb8d035aa12bbc708e"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ap_implantacao_origem.ymap.xml",
+    "bytes": 2129,
+    "sha256": "bc6295a4eb7faa43c34d4cc469ee60190799ab76052d0f5bf12080e42eb2c627"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ap_mlo.ybn.xml",
+    "bytes": 44362,
+    "sha256": "f87c3fd83888a989eb1346fdd74166b6112e6f34d69b454a53826cf8f5982f7d"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ap_oficina.ydr.xml",
+    "bytes": 1805127,
+    "sha256": "c4a053cb38bd5036d57107ac7f0f62a8c297643d60fd9ff0ef124f21bdde54ce"
+  },
+  {
+    "arquivo": "relatorios/roundtrip/ap_texturas.ytd.xml",
+    "bytes": 3611,
+    "sha256": "2157a03cdc6825c0fda454b2269431f14bded749e779098bb66b8b5eedce76e8"
+  },
+  {
+    "arquivo": "relatorios/texturas.json",
+    "bytes": 1471,
+    "sha256": "e0a9114ac1ff386b65f9d9d8027143cb14f2a346711616cd0c4130429f669f6d"
+  },
+  {
+    "arquivo": "relatorios/validacao_blender.json",
+    "bytes": 6396,
+    "sha256": "6da5fc62f7f152a4c73fa57d2eb2f63bf2ae650e4c32a1e3f6c3be5a6d056faf"
+  },
+  {
+    "arquivo": "relatorios/validacao_colisao_compilada.json",
+    "bytes": 6658,
+    "sha256": "bdb3e25b5967b41a3ed2c22587885fdd28dac8a5a493e5385dc66ed2d18a6a56"
+  },
+  {
+    "arquivo": "relatorios/validacao_gta.json",
+    "bytes": 1560,
+    "sha256": "678c2613c3e03e2bc0425f2c6dd0588368d9b76375eb15e093807de3999153a9"
+  },
+  {
+    "arquivo": "scripts/atualizar_texturas.py",
+    "bytes": 1930,
+    "sha256": "1f58d9bec287e56d466453ea9ff3f26064fd9c7ba40a467ee8316b8ce604551d"
+  },
+  {
+    "arquivo": "scripts/compilador/Program.cs",
+    "bytes": 2778,
+    "sha256": "21a1cf276becd5768e4867989c94df62631b5fd25dd42b995e93190103d14d00"
+  },
+  {
+    "arquivo": "scripts/compilador/vano_compilador.csproj",
+    "bytes": 352,
+    "sha256": "369c2880a2e58063da195892014402bf3aa7a609e37e582664f1110cc289c2b8"
+  },
+  {
+    "arquivo": "scripts/construir.py",
+    "bytes": 21537,
+    "sha256": "d8f492b81718a7c5468c0903b8420e9108c9fcefaa82e47e780172f97b85e7eb"
+  },
+  {
+    "arquivo": "scripts/empacotar.py",
+    "bytes": 915,
+    "sha256": "58117c9c5106c675a64c816db899b6b70488bbd4df3c9142e5fcb570c24915e8"
+  },
+  {
+    "arquivo": "scripts/finalizar.py",
+    "bytes": 4498,
+    "sha256": "e51509ddd79da1babacf9d2c63764f22b465da53a28296138ecfcd0c5959df1d"
+  },
+  {
+    "arquivo": "scripts/posicionar.py",
+    "bytes": 1732,
+    "sha256": "ecf3c972fceeb30c003356151047a29f26109a6ab4b3f8f19422a07db7d891c7"
+  },
+  {
+    "arquivo": "scripts/preparar_meta.py",
+    "bytes": 3025,
+    "sha256": "e07a8e700e334508c3e65036111f8ae03122e5b9af6ad060867c232aeb8002bc"
+  },
+  {
+    "arquivo": "scripts/reconstruir.sh",
+    "bytes": 1100,
+    "sha256": "56135d173177a1e959f879aa232e9ab2a4b1f72b9c7a49b091f708973b509aec"
+  },
+  {
+    "arquivo": "scripts/renderizar.py",
+    "bytes": 665,
+    "sha256": "9e35430ceab51451964ee50f917d31f683a6088c1c7b86dbf18392f0fe96fdaf"
+  },
+  {
+    "arquivo": "scripts/requirements.txt",
+    "bytes": 28,
+    "sha256": "e32056a5263b5972e789540468f3d3e1e8e2d1649d21ef65e814317727be4897"
+  },
+  {
+    "arquivo": "scripts/salvar_pecas.py",
+    "bytes": 1158,
+    "sha256": "17b40f8c45058d132d0d29dac4d0b16e600eb462bc7b77c509d72fdba4822351"
+  },
+  {
+    "arquivo": "scripts/texturas.py",
+    "bytes": 3707,
+    "sha256": "19c9956a8d4e6f992906c4882a33f722fbbcd095fbc7fee39c8836d68308d280"
+  },
+  {
+    "arquivo": "scripts/validar_blender.py",
+    "bytes": 3272,
+    "sha256": "086e68d8c8788e6bbbdadead577806bcb0db8723319922c7552f6ef52322ff92"
+  },
+  {
+    "arquivo": "scripts/validar_gta.py",
+    "bytes": 4754,
+    "sha256": "9252a8d0a632254b46eb5b6e1f5515e80c9655214210e462280fc6776c5208bf"
+  },
+  {
+    "arquivo": "stream/ap_arquetipos.ytyp",
+    "bytes": 1301,
+    "sha256": "826436f903528ffbc9c225088fdc81936a36bea904d65d4824fd7258a978bc3f"
+  },
+  {
+    "arquivo": "stream/ap_exterior.ydr",
+    "bytes": 342167,
+    "sha256": "45c5f538327b192fa6ce66a28d2e675b2921b060f7a7b0978f82f94da3d08fb3"
+  },
+  {
+    "arquivo": "stream/ap_mlo.ybn",
+    "bytes": 7179,
+    "sha256": "130acb15361a1903a120fdf339819463823d8cec13809b4ebdd474e170768520"
+  },
+  {
+    "arquivo": "stream/ap_oficina.ydr",
+    "bytes": 181502,
+    "sha256": "eafefaffe92b84ab450e78db9b7dad00b5fd9cdfb6ef9c9934ba8e4d955126e3"
+  },
+  {
+    "arquivo": "stream/ap_texturas.ytd",
+    "bytes": 348717,
+    "sha256": "f93e9bf54108908d2061ff647afb719a64567cee99232a0e9a615889c1bcfcbb"
+  },
+  {
+    "arquivo": "texturas/ap_bandeira_brasil.dds",
+    "bytes": 87536,
+    "sha256": "d72f5534f625b2c68b73efdb27062bb6092384356c03e5757e5deb676ce6d560"
+  },
+  {
+    "arquivo": "texturas/ap_bandeira_brasil.png",
+    "bytes": 2891,
+    "sha256": "fd7adc57fea33d43ab6712b704d42edf213158bb989c7f2ad73714b579b0b6e1"
+  },
+  {
+    "arquivo": "texturas/ap_bandeira_rs_estudo.dds",
+    "bytes": 87536,
+    "sha256": "7dbf1ca193d9bf7c62d42ba0d480663b3ec9f14a660463c736cf1670e626e32e"
+  },
+  {
+    "arquivo": "texturas/ap_bandeira_rs_estudo.png",
+    "bytes": 2357,
+    "sha256": "1985098f4b49a48f2c5e090ae3156778e5b2afc0ec869f1951af775806d0b0ab"
+  },
+  {
+    "arquivo": "texturas/ap_borracha.dds",
+    "bytes": 22000,
+    "sha256": "75c4186a921a7ed61742f70748d0f25f660f72506d5185763800c33a71787f1b"
+  },
+  {
+    "arquivo": "texturas/ap_borracha.png",
+    "bytes": 16029,
+    "sha256": "78fb6ad851f9bbb388d887f9d94254bc67c06ea4186cbcbab4042035311e23e2"
+  },
+  {
+    "arquivo": "texturas/ap_branco.dds",
+    "bytes": 87536,
+    "sha256": "3b56399f4f1a957dab29e4b7f6ae6dda472ce476229a411a304a22d2c2ba2527"
+  },
+  {
+    "arquivo": "texturas/ap_branco.png",
+    "bytes": 69536,
+    "sha256": "d73e612e8ad6445948b7c9cd6872831da25afc22bf73c05bfeccf6fc98b10c19"
+  },
+  {
+    "arquivo": "texturas/ap_concreto.dds",
+    "bytes": 349680,
+    "sha256": "6e079e3b96549c9af9fec22f91dc2de9d3facbf76a34c2ef7375ea2d45f0c9c0"
+  },
+  {
+    "arquivo": "texturas/ap_concreto.png",
+    "bytes": 318788,
+    "sha256": "98cb2d66bc7f959e48986b51ada4102d6075479b24e2968b64a32b7018ffb38c"
+  },
+  {
+    "arquivo": "texturas/ap_cromado.dds",
+    "bytes": 22000,
+    "sha256": "dca6b22536f47fbe3cdb4231b883492320d44a4807e2c36f4cb7499482218ddd"
+  },
+  {
+    "arquivo": "texturas/ap_cromado.png",
+    "bytes": 14475,
+    "sha256": "da794c32e74bd97abb49650e250eb940bd3db4d0fd1751fe41ea5ac717963f8b"
+  },
+  {
+    "arquivo": "texturas/ap_metal.dds",
+    "bytes": 87536,
+    "sha256": "707190c3a6b86f6cd798a4ecaa4bc2444c260847d1b0c3ad22b470ce3d30ba62"
+  },
+  {
+    "arquivo": "texturas/ap_metal.png",
+    "bytes": 85454,
+    "sha256": "6546be9157815c09251cf57d70b5e445c0942068bbd1da9ec80a16e4e2d2799a"
+  },
+  {
+    "arquivo": "texturas/ap_placa_sem_telefone.dds",
+    "bytes": 349712,
+    "sha256": "806aa20cbb672b5066bf38e7b01685bea3d48992dde8ed7969343feb5f6287ea"
+  },
+  {
+    "arquivo": "texturas/ap_placa_sem_telefone.png",
+    "bytes": 28326,
+    "sha256": "bf6e318eeeb769dd3572f09804b4af3cc0c7352068a935dd72b234a4e2191a11"
+  },
+  {
+    "arquivo": "texturas/ap_preto.dds",
+    "bytes": 22000,
+    "sha256": "3c40e1eadea3243a2f3b441fbabdcbce57e63c96baa5726ce7ca0d3079adbb96"
+  },
+  {
+    "arquivo": "texturas/ap_preto.png",
+    "bytes": 15927,
+    "sha256": "eaf4a6670853b54bfdad5c2d28b84f8d60f2b5534d6e15e90bd745a4b0cbfdda"
+  },
+  {
+    "arquivo": "texturas/ap_telha.dds",
+    "bytes": 87536,
+    "sha256": "7f9bd78229f7ddbcecace30f022cff9088d7722feeb9d9fa4b389b86ed0f746e"
+  },
+  {
+    "arquivo": "texturas/ap_telha.png",
+    "bytes": 77919,
+    "sha256": "342e1bdf6c17c4c60f20414a0f9c9584d42768bca9dfe19de0540a90f9643280"
+  },
+  {
+    "arquivo": "texturas/ap_vermelho.dds",
+    "bytes": 87536,
+    "sha256": "5658d393ee380df76b57ca4fe8a74544e4abbd987064266c294b9bf91b762cfc"
+  },
+  {
+    "arquivo": "texturas/ap_vermelho.png",
+    "bytes": 81661,
+    "sha256": "7f1c0a655daa9274cae4cc961ad8b572b9010484f7103e2a09a18de6d5e35fe1"
+  },
+  {
+    "arquivo": "texturas/ap_vidro.dds",
+    "bytes": 22000,
+    "sha256": "1796a7fe5b4dce063e95daacb83cac23467e8c509e5a77ae2333062c84eddc54"
+  },
+  {
+    "arquivo": "texturas/ap_vidro.png",
+    "bytes": 14525,
+    "sha256": "b13a48e1bdb9d3c2481906db63310318d61092963a9c098f4dfd92e0b4b00641"
+  },
+  {
+    "arquivo": "xml/ap_arquetipos.ytyp.xml",
+    "bytes": 4728,
+    "sha256": "fcfd87685475ba11eabef841fb9957c1676dfc66e92971b9a299940bc99655d2"
+  },
+  {
+    "arquivo": "xml/ap_exterior.ydr.xml",
+    "bytes": 4060164,
+    "sha256": "8b2af49016b7a616d67da799e5c472aa655d4499eab1d882752145c250bfc462"
+  },
+  {
+    "arquivo": "xml/ap_implantacao_origem.ymap.xml",
+    "bytes": 1758,
+    "sha256": "71d34689a68c2aed5faae6a6d52f4a8d25bde269b9d255402819eadc3fa9b4b6"
+  },
+  {
+    "arquivo": "xml/ap_mlo.ybn.xml",
+    "bytes": 56188,
+    "sha256": "9dd4214d39c01900753cafa5c7bd7e33258a6937c0e770bdbac7e265a6a5be7c"
+  },
+  {
+    "arquivo": "xml/ap_oficina.ydr.xml",
+    "bytes": 2230840,
+    "sha256": "19ee0ed84e8f1d2806e1e84fffb9d7e22ae33d91d67063ea87739ba228b164c8"
+  },
+  {
+    "arquivo": "xml/ap_texturas/ap_bandeira_brasil.dds",
+    "bytes": 87536,
+    "sha256": "d72f5534f625b2c68b73efdb27062bb6092384356c03e5757e5deb676ce6d560"
+  },
+  {
+    "arquivo": "xml/ap_texturas/ap_bandeira_rs_estudo.dds",
+    "bytes": 87536,
+    "sha256": "7dbf1ca193d9bf7c62d42ba0d480663b3ec9f14a660463c736cf1670e626e32e"
+  },
+  {
+    "arquivo": "xml/ap_texturas/ap_borracha.dds",
+    "bytes": 22000,
+    "sha256": "75c4186a921a7ed61742f70748d0f25f660f72506d5185763800c33a71787f1b"
+  },
+  {
+    "arquivo": "xml/ap_texturas/ap_branco.dds",
+    "bytes": 87536,
+    "sha256": "3b56399f4f1a957dab29e4b7f6ae6dda472ce476229a411a304a22d2c2ba2527"
+  },
+  {
+    "arquivo": "xml/ap_texturas/ap_concreto.dds",
+    "bytes": 349680,
+    "sha256": "6e079e3b96549c9af9fec22f91dc2de9d3facbf76a34c2ef7375ea2d45f0c9c0"
+  },
+  {
+    "arquivo": "xml/ap_texturas/ap_cromado.dds",
+    "bytes": 22000,
+    "sha256": "dca6b22536f47fbe3cdb4231b883492320d44a4807e2c36f4cb7499482218ddd"
+  },
+  {
+    "arquivo": "xml/ap_texturas/ap_metal.dds",
+    "bytes": 87536,
+    "sha256": "707190c3a6b86f6cd798a4ecaa4bc2444c260847d1b0c3ad22b470ce3d30ba62"
+  },
+  {
+    "arquivo": "xml/ap_texturas/ap_placa_sem_telefone.dds",
+    "bytes": 349712,
+    "sha256": "806aa20cbb672b5066bf38e7b01685bea3d48992dde8ed7969343feb5f6287ea"
+  },
+  {
+    "arquivo": "xml/ap_texturas/ap_preto.dds",
+    "bytes": 22000,
+    "sha256": "3c40e1eadea3243a2f3b441fbabdcbce57e63c96baa5726ce7ca0d3079adbb96"
+  },
+  {
+    "arquivo": "xml/ap_texturas/ap_telha.dds",
+    "bytes": 87536,
+    "sha256": "7f9bd78229f7ddbcecace30f022cff9088d7722feeb9d9fa4b389b86ed0f746e"
+  },
+  {
+    "arquivo": "xml/ap_texturas/ap_vermelho.dds",
+    "bytes": 87536,
+    "sha256": "5658d393ee380df76b57ca4fe8a74544e4abbd987064266c294b9bf91b762cfc"
+  },
+  {
+    "arquivo": "xml/ap_texturas/ap_vidro.dds",
+    "bytes": 22000,
+    "sha256": "1796a7fe5b4dce063e95daacb83cac23467e8c509e5a77ae2333062c84eddc54"
+  },
+  {
+    "arquivo": "xml/ap_texturas.ytd.xml",
+    "bytes": 3730,
+    "sha256": "a315be2584384bc9579be9fe501ad9391c1096b3c888995ee4bce59a1c91f67b"
+  }
+]

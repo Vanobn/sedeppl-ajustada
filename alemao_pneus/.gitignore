@@ -1,0 +1,4 @@
+*.blend1
+scripts/compilador/bin/
+scripts/compilador/obj/
+__pycache__/

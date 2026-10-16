@@ -1,0 +1,78 @@
+{
+  "min": [
+    -8.824999809265137,
+    -3.200000047683716,
+    -0.18000000715255737
+  ],
+  "max": [
+    4.494999885559082,
+    18.399999618530273,
+    6.424999713897705
+  ],
+  "dimensoes": [
+    13.319999694824219,
+    21.59999966621399,
+    6.6049997210502625
+  ],
+  "area_envelope": 287.71198896217356,
+  "pe_direito": 5.35,
+  "triangulos_por_entidade": {
+    "exterior": 6904,
+    "oficina": 3920
+  },
+  "triangulos_colisao": 432,
+  "salas": [
+    {
+      "nome": "limbo",
+      "min": [
+        -8.924999809265136,
+        -3.300000047683716,
+        -0.28000000715255735
+      ],
+      "max": [
+        4.594999885559082,
+        18.499999618530275,
+        6.524999713897705
+      ],
+      "dimensoes": [
+        13.519999694824218,
+        21.799999666213992,
+        6.804999721050262
+      ]
+    },
+    {
+      "nome": "oficina",
+      "min": [
+        -3.53,
+        0.42,
+        0
+      ],
+      "max": [
+        3.53,
+        17.9,
+        6.4
+      ],
+      "dimensoes": [
+        7.06,
+        17.479999999999997,
+        6.4
+      ]
+    }
+  ],
+  "portais": 1,
+  "mobiliario": "Expositores, rodas, pneus, escada, bancada e equipamentos aproximados das fotos",
+  "portao": "Folha expositora esquerda aberta; passagem de veículos livre",
+  "textura_placa": "Redesenho vetorial aproximado das fotos; nenhum telefone.",
+  "lods": {
+    "ap_exterior": {
+      "high": 6904,
+      "medium": 3452,
+      "low": 1726
+    },
+    "ap_oficina": {
+      "high": 3920,
+      "medium": 1960,
+      "low": 980
+    }
+  }
+}

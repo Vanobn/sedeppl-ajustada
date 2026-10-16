@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureDictionary>
+ <Item>
+  <Name>ap_concreto</Name>
+  <Unk32 value="0" />
+  <Usage>DIFFUSE</Usage>
+  <UsageFlags>0</UsageFlags>
+  <ExtraFlags value="0" />
+  <Width value="512" />
+  <Height value="512" />
+  <MipLevels value="10" />
+  <Format>D3DFMT_DXT5</Format>
+  <FileName>ap_concreto.dds</FileName>
+ </Item>
+ <Item>
+  <Name>ap_placa_sem_telefone</Name>
+  <Unk32 value="0" />
+  <Usage>DIFFUSE</Usage>
+  <UsageFlags>0</UsageFlags>
+  <ExtraFlags value="0" />
+  <Width value="1024" />
+  <Height value="256" />
+  <MipLevels value="11" />
+  <Format>D3DFMT_DXT5</Format>
+  <FileName>ap_placa_sem_telefone.dds</FileName>
+ </Item>
+ <Item>
+  <Name>ap_preto</Name>
+  <Unk32 value="0" />
+  <Usage>DIFFUSE</Usage>
+  <UsageFlags>0</UsageFlags>
+  <ExtraFlags value="0" />
+  <Width value="128" />
+  <Height value="128" />
+  <MipLevels value="8" />
+  <Format>D3DFMT_DXT5</Format>
+  <FileName>ap_preto.dds</FileName>
+ </Item>
+ <Item>
+  <Name>ap_telha</Name>
+  <Unk32 value="0" />
+  <Usage>DIFFUSE</Usage>
+  <UsageFlags>0</UsageFlags>
+  <ExtraFlags value="0" />
+  <Width value="256" />
+  <Height value="256" />
+  <MipLevels value="9" />
+  <Format>D3DFMT_DXT5</Format>
+  <FileName>ap_telha.dds</FileName>
+ </Item>
+ <Item>
+  <Name>ap_branco</Name>
+  <Unk32 value="0" />
+  <Usage>DIFFUSE</Usage>
+  <UsageFlags>0</UsageFlags>
+  <ExtraFlags value="0" />
+  <Width value="256" />
+  <Height value="256" />
+  <MipLevels value="9" />
+  <Format>D3DFMT_DXT5</Format>
+  <FileName>ap_branco.dds</FileName>
+ </Item>
+ <Item>
+  <Name>ap_borracha</Name>
+  <Unk32 value="0" />
+  <Usage>DIFFUSE</Usage>
+  <UsageFlags>0</UsageFlags>
+  <ExtraFlags value="0" />
+  <Width value="128" />
+  <Height value="128" />
+  <MipLevels value="8" />
+  <Format>D3DFMT_DXT5</Format>
+  <FileName>ap_borracha.dds</FileName>
+ </Item>
+ <Item>
+  <Name>ap_cromado</Name>
+  <Unk32 value="0" />
+  <Usage>DIFFUSE</Usage>
+  <UsageFlags>0</UsageFlags>
+  <ExtraFlags value="0" />
+  <Width value="128" />
+  <Height value="128" />
+  <MipLevels value="8" />
+  <Format>D3DFMT_DXT5</Format>
+  <FileName>ap_cromado.dds</FileName>
+ </Item>
+ <Item>
+  <Name>ap_metal</Name>
+  <Unk32 value="0" />
+  <Usage>DIFFUSE</Usage>
+  <UsageFlags>0</UsageFlags>
+  <ExtraFlags value="0" />
+  <Width value="256" />
+  <Height value="256" />
+  <MipLevels value="9" />
+  <Format>D3DFMT_DXT5</Format>
+  <FileName>ap_metal.dds</FileName>
+ </Item>
+ <Item>
+  <Name>ap_bandeira_rs_estudo</Name>
+  <Unk32 value="0" />
+  <Usage>DIFFUSE</Usage>
+  <UsageFlags>0</UsageFlags>
+  <ExtraFlags value="0" />
+  <Width value="256" />
+  <Height value="256" />
+  <MipLevels value="9" />
+  <Format>D3DFMT_DXT5</Format>
+  <FileName>ap_bandeira_rs_estudo.dds</FileName>
+ </Item>
+ <Item>
+  <Name>ap_vidro</Name>
+  <Unk32 value="0" />
+  <Usage>DIFFUSE</Usage>
+  <UsageFlags>0</UsageFlags>
+  <ExtraFlags value="0" />
+  <Width value="128" />
+  <Height value="128" />
+  <MipLevels value="8" />
+  <Format>D3DFMT_DXT5</Format>
+  <FileName>ap_vidro.dds</FileName>
+ </Item>
+ <Item>
+  <Name>ap_vermelho</Name>
+  <Unk32 value="0" />
+  <Usage>DIFFUSE</Usage>
+  <UsageFlags>0</UsageFlags>
+  <ExtraFlags value="0" />
+  <Width value="256" />
+  <Height value="256" />
+  <MipLevels value="9" />
+  <Format>D3DFMT_DXT5</Format>
+  <FileName>ap_vermelho.dds</FileName>
+ </Item>
+ <Item>
+  <Name>ap_bandeira_brasil</Name>
+  <Unk32 value="0" />
+  <Usage>DIFFUSE</Usage>
+  <UsageFlags>0</UsageFlags>
+  <ExtraFlags value="0" />
+  <Width value="256" />
+  <Height value="256" />
+  <MipLevels value="9" />
+  <Format>D3DFMT_DXT5</Format>
+  <FileName>ap_bandeira_brasil.dds</FileName>
+ </Item>
+</TextureDictionary>

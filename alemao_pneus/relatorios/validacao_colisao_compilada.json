@@ -1,0 +1,357 @@
+{
+  "cheques_de_colisao": [
+    {
+      "nome": "entrada_veiculo_-2",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "entrada_veiculo_-1",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "entrada_veiculo_0",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "entrada_veiculo_1",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "entrada_veiculo_2",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "circulacao_longitudinal_-1",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "circulacao_longitudinal_0",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "circulacao_longitudinal_1",
+      "passou": true,
+      "atingiu_colisao": false,
+      "ponto": null
+    },
+    {
+      "nome": "parede_esquerda_3",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -3.5398049354553223,
+        3.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_direita_3",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        3.539912700653076,
+        3.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_esquerda_6",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -3.5398049354553223,
+        6.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_direita_6",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        3.539912700653076,
+        6.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_esquerda_10",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -3.5398049354553223,
+        10.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_direita_10",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        3.539912700653076,
+        10.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_esquerda_16",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -3.5398049354553223,
+        16.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "parede_direita_16",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        3.539912700653076,
+        16.0,
+        1.0
+      ]
+    },
+    {
+      "nome": "fundos",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        0.0,
+        17.909687042236328,
+        1.0
+      ]
+    },
+    {
+      "nome": "portao_expositor",
+      "passou": true,
+      "atingiu_colisao": true,
+      "ponto": [
+        -4.199999809265137,
+        -0.8810405731201172,
+        1.0
+      ]
+    },
+    {
+      "nome": "piso_-2_-1",
+      "passou": true,
+      "altura": 5.823373794555664e-05
+    },
+    {
+      "nome": "piso_-2_0.1",
+      "passou": true,
+      "altura": 5.817413330078125e-05
+    },
+    {
+      "nome": "piso_-2_0.3",
+      "passou": true,
+      "altura": 5.817413330078125e-05
+    },
+    {
+      "nome": "piso_-2_1",
+      "passou": true,
+      "altura": 5.811452865600586e-05
+    },
+    {
+      "nome": "piso_-2_5",
+      "passou": true,
+      "altura": 5.811452865600586e-05
+    },
+    {
+      "nome": "piso_-2_10",
+      "passou": true,
+      "altura": 5.817413330078125e-05
+    },
+    {
+      "nome": "piso_-2_16",
+      "passou": true,
+      "altura": 5.817413330078125e-05
+    },
+    {
+      "nome": "piso_0_-1",
+      "passou": true,
+      "altura": 5.805492401123047e-05
+    },
+    {
+      "nome": "piso_0_0.1",
+      "passou": true,
+      "altura": 5.823373794555664e-05
+    },
+    {
+      "nome": "piso_0_0.3",
+      "passou": true,
+      "altura": 5.817413330078125e-05
+    },
+    {
+      "nome": "piso_0_1",
+      "passou": true,
+      "altura": 5.811452865600586e-05
+    },
+    {
+      "nome": "piso_0_5",
+      "passou": true,
+      "altura": 5.817413330078125e-05
+    },
+    {
+      "nome": "piso_0_10",
+      "passou": true,
+      "altura": 5.817413330078125e-05
+    },
+    {
+      "nome": "piso_0_16",
+      "passou": true,
+      "altura": 5.817413330078125e-05
+    },
+    {
+      "nome": "piso_2_-1",
+      "passou": true,
+      "altura": 5.805492401123047e-05
+    },
+    {
+      "nome": "piso_2_0.1",
+      "passou": true,
+      "altura": 5.817413330078125e-05
+    },
+    {
+      "nome": "piso_2_0.3",
+      "passou": true,
+      "altura": 5.805492401123047e-05
+    },
+    {
+      "nome": "piso_2_1",
+      "passou": true,
+      "altura": 5.817413330078125e-05
+    },
+    {
+      "nome": "piso_2_5",
+      "passou": true,
+      "altura": 5.805492401123047e-05
+    },
+    {
+      "nome": "piso_2_10",
+      "passou": true,
+      "altura": 5.817413330078125e-05
+    },
+    {
+      "nome": "piso_2_16",
+      "passou": true,
+      "altura": 5.817413330078125e-05
+    }
+  ],
+  "passaram": 39,
+  "salas": 2,
+  "portais": 1,
+  "entidades": 2,
+  "ids_de_sala_colisao": [
+    0,
+    1
+  ],
+  "texturas": [
+    {
+      "nome": "ap_bandeira_brasil.dds",
+      "empacotada": true,
+      "dimensoes": [
+        256,
+        256
+      ]
+    },
+    {
+      "nome": "ap_bandeira_rs_estudo.dds",
+      "empacotada": true,
+      "dimensoes": [
+        256,
+        256
+      ]
+    },
+    {
+      "nome": "ap_borracha.dds",
+      "empacotada": true,
+      "dimensoes": [
+        128,
+        128
+      ]
+    },
+    {
+      "nome": "ap_branco.dds",
+      "empacotada": true,
+      "dimensoes": [
+        256,
+        256
+      ]
+    },
+    {
+      "nome": "ap_concreto.dds",
+      "empacotada": true,
+      "dimensoes": [
+        512,
+        512
+      ]
+    },
+    {
+      "nome": "ap_cromado.dds",
+      "empacotada": true,
+      "dimensoes": [
+        128,
+        128
+      ]
+    },
+    {
+      "nome": "ap_metal.dds",
+      "empacotada": true,
+      "dimensoes": [
+        256,
+        256
+      ]
+    },
+    {
+      "nome": "ap_placa_sem_telefone.dds",
+      "empacotada": true,
+      "dimensoes": [
+        1024,
+        256
+      ]
+    },
+    {
+      "nome": "ap_preto.dds",
+      "empacotada": true,
+      "dimensoes": [
+        128,
+        128
+      ]
+    },
+    {
+      "nome": "ap_telha.dds",
+      "empacotada": true,
+      "dimensoes": [
+        256,
+        256
+      ]
+    },
+    {
+      "nome": "ap_vermelho.dds",
+      "empacotada": true,
+      "dimensoes": [
+        256,
+        256
+      ]
+    }
+  ],
+  "limite_validacao": "Raios em BVH e dados de arquivo; não é teste do motor GTA/FiveM.",
+  "origem_colisao": "YBN compilado e relido pelo CodeWalker.Core, reimportado pelo Sollumz"
+}
